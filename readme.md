@@ -17,6 +17,7 @@ These servers support the IIIF Image API.
 
 - [iiif-image-server-node](https://github.com/jronallo/iiif-image-server-node) written in Coffeescript
 - [Loris](https://github.com/loris-imageserver/loris) written in Python
+- [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) high performance image server
 
 ## Image Server Shims
 
@@ -28,6 +29,7 @@ These shims allow you to use an image server that does not currently support III
   - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
   - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) has IIIF tile support
   - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) lightweight, extensible IIIF image viewer
+  - [Mirador](https://github.com/IIIF/mirador) multi-up workspace
 
 ## Presentation API Libraries
 - [Manifesto](https://github.com/IIIF/manifesto) JavaScript library for both browser and server
