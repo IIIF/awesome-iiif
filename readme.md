@@ -6,10 +6,42 @@ A list of lists of awesome [IIIF](http://iiif.io/) resources
 
 ## Standards
 
+IIIF has developed several standards.
+
+- [Image API](iiif.io/api/image/)
+- [Presentation API](iiif.io/api/presentation/)
 
 ## Image Servers
 
+These servers support the IIIF Image API.
+
+- [iiif-image-server-node](https://github.com/jronallo/iiif-image-server-node) written in Coffeescript
+- [Loris](https://github.com/loris-imageserver/loris) written in Python
+
+## Image Server Shims
+
+These shims allow you to use an image server that does not currently support IIIF. If you have not implemented an image server yet, this is probably not where you want to start.
+
+- [Djatoka Ruby gem](https://github.com/jronallo/djatoka) convert IIIF URLs into the URLs that Djatoka requires.
+
+## Image Viewers
+  - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
+  - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) has IIIF tile support
+
 ## Presentation API Libraries
+- [Manifesto](https://github.com/IIIF/manifesto) JavaScript library for both browser and server
+
+## Tutorials
+
+Tutorials for how to accomplish functionality in your applications.
+
+- [Drag and drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) a IIIF image into Mirador
+
+## Implementations
+
+Sites which have implemented IIIF in some respect. Note what standards or other libraries are implemented.
+
+- [Historical State Search](http://historicalstate.lib.ncsu.edu/search) displays images via a IIIF image server.
 
 ## License
 
