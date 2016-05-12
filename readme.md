@@ -27,6 +27,7 @@ These shims allow you to use an image server that does not currently support III
 ## Image Viewers
   - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
   - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) has IIIF tile support
+  - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) lightweight, extensible IIIF image viewer
 
 ## Presentation API Libraries
 - [Manifesto](https://github.com/IIIF/manifesto) JavaScript library for both browser and server
