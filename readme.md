@@ -36,6 +36,7 @@ These shims allow you to use an image server that does not currently support III
 
 Tutorials for how to accomplish functionality in your applications.
 
+- [IIIF Quick Start Guide](http://iiif.io/technical-details/) is a quick overview of how you might get started with implementing various IIIF standards.
 - [Drag and drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) a IIIF image into Mirador
 
 ## Implementations
