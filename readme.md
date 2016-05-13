@@ -8,9 +8,11 @@ A list of lists of awesome [IIIF](http://iiif.io/) resources
 
 IIIF has developed several standards.
 
-- [Image API](iiif.io/api/image/)
-- [Presentation API](iiif.io/api/presentation/)
-- [Content Search API](http://iiif.io/api/search/1.0/)
+- [Image API](http://iiif.io/api/image/)
+- [Presentation API](http://iiif.io/api/presentation/)
+- [Content Search API](http://iiif.io/api/search/)
+- [Authentication API](http://iiif.io/api/auth/)
+- [External Services API Annex](http://iiif.io/api/annex/services/)
 
 ## Image Servers
 
@@ -33,11 +35,13 @@ These shims allow you to use an image server that does not currently support III
 - [ContentDM Image translator](https://github.com/IIIF/image-api/tree/master/translators/ContentDM) makes ContentDM images available through IIIF. Python.
 
 ## Image Viewers
-  - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
-  - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) has IIIF tile support
-  - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) lightweight, extensible IIIF image viewer
-  - [Mirador](https://github.com/IIIF/mirador) multi-up workspace
-  - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility
+- [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
+- [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) has IIIF tile support
+  - [Scalebar Plugin](https://github.com/NIST-ISG/OpenSeadragonScalebar) OpenSeadragon plugin for physical scale overlay
+  - [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) OpenSeadragon plugin with utility functions
+- [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) lightweight, extensible IIIF image viewer
+- [Mirador](https://github.com/IIIF/mirador) multi-up workspace
+- [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility
 
 ## Presentation API Libraries
 - [Manifesto](https://github.com/IIIF/manifesto) JavaScript library for both browser and server
@@ -55,7 +59,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 Tutorials for how to accomplish functionality in your applications.
 
 - [IIIF Quick Start Guide](http://iiif.io/technical-details/) is a quick overview of how you might get started with implementing various IIIF standards.
-- [Drag and drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) a IIIF image into Mirador
+- [Drag and Drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) a IIIF image into Mirador
 
 ## Implementations
 
