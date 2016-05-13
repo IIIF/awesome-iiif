@@ -24,6 +24,7 @@ These servers support the IIIF Image API.
 These shims allow you to use an image server that does not currently support IIIF. If you have not implemented an image server yet, this is probably not where you want to start.
 
 - [Djatoka Ruby gem](https://github.com/jronallo/djatoka) convert IIIF URLs into the URLs that Djatoka requires.
+- [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API.
 
 ## Image Viewers
   - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
