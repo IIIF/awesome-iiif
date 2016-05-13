@@ -26,6 +26,7 @@ These shims allow you to use an image server that does not currently support III
 
 - [Djatoka Ruby gem](https://github.com/jronallo/djatoka) convert IIIF URLs into the URLs that Djatoka requires.
 - [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API.
+- [ContentDM Image translator](https://github.com/IIIF/image-api/tree/master/translators/ContentDM) makes ContentDM images available through IIIF. Python.
 
 ## Image Viewers
   - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
