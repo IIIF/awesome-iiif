@@ -10,6 +10,7 @@ IIIF has developed several standards.
 
 - [Image API](iiif.io/api/image/)
 - [Presentation API](iiif.io/api/presentation/)
+- [Content Search API](http://iiif.io/api/search/1.0/)
 
 ## Image Servers
 
@@ -20,6 +21,8 @@ These servers support the IIIF Image API.
 - [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) high performance image server
 - [riiif](https://github.com/curationexperts/riiif) written in Ruby as a Rails engine
 - [SIPI](https://github.com/dhlab-basel/Sipi) IIIFv2 image server written in C++
+- [RAIS](https://github.com/uoregon-libraries/rais-image-server) 100% open source tile server for JP2 images written in Go
+
 
 ## Image Server Shims
 
@@ -34,9 +37,18 @@ These shims allow you to use an image server that does not currently support III
   - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) has IIIF tile support
   - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) lightweight, extensible IIIF image viewer
   - [Mirador](https://github.com/IIIF/mirador) multi-up workspace
+  - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility
 
 ## Presentation API Libraries
 - [Manifesto](https://github.com/IIIF/manifesto) JavaScript library for both browser and server
+- [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests
+
+## Presentation API Shims
+
+These shims allow you to use systems with presentation metadata (e.g. structure or sequences) that do not currently support IIIF. If you have not implemented the Presentation API yet, this is probably not where you want to start.
+
+- [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API, and has samples for NYPL, Flickr, and the US National Archives.
+- [Chronicling America](https://github.com/IIIF/presentation-api/tree/master/translators/chronam) for newspapers digitized in the National Digital Newspaper Program
 
 ## Tutorials
 
