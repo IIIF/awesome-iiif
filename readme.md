@@ -19,6 +19,7 @@ These servers support the IIIF Image API.
 - [Loris](https://github.com/loris-imageserver/loris) written in Python
 - [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) high performance image server
 - [riiif](https://github.com/curationexperts/riiif) written in Ruby as a Rails engine
+- [SIPI](https://github.com/dhlab-basel/Sipi) IIIFv2 image server written in C++
 
 ## Image Server Shims
 
