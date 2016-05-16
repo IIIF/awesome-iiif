@@ -81,6 +81,10 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [Historical State Search](http://historicalstate.lib.ncsu.edu/search) displays images via a IIIF image server.
 - [FromThePage](http://www.fromthepage.com) ingests IIIF manifests and displays images for transcription using OpenSeaDragon.
 
+## Experiments and Fun
+
+- [http://puzzle.mikeapps.me/](Puzzles! Powered by IIIF)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
