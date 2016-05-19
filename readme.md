@@ -45,6 +45,7 @@ These shims allow you to use an image server that does not currently support III
 
 ## Presentation API Libraries
 - [Manifesto](https://github.com/IIIF/manifesto) JavaScript library for both browser and server
+- [Manifesto (UV)](https://github.com/UniversalViewer/manifesto) IIIF Presentation API client and server utility library
 - [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests
 
 ## Presentation API Shims
