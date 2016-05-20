@@ -4,6 +4,8 @@ A list of lists of awesome [IIIF](http://iiif.io/) resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**Disclaimer**: This list is created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
+
 ## Standards
 
 IIIF has developed several standards.
