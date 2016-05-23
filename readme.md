@@ -86,6 +86,7 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 
 - [Historical State Search](http://historicalstate.lib.ncsu.edu/search) displays images via a IIIF image server.
 - [FromThePage](http://www.fromthepage.com) ingests IIIF manifests and displays images for transcription using OpenSeaDragon.
+- [SAT Taishōzō Image DB](http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php?alang=en) by the SAT Daizōkyō Text Database Committee in the DH initiative, the University of Tokyo adopts the IIIF Image and Presentation APIs including over 4,000 annotations displayed on Mirador.
 
 ## Experiments and Fun
 
