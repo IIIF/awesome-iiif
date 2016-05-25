@@ -26,6 +26,7 @@ These servers support the IIIF Image API.
 - [riiif](https://github.com/curationexperts/riiif) written in Ruby as a Rails engine
 - [SIPI](https://github.com/dhlab-basel/Sipi) IIIFv2 image server written in C++
 - [RAIS](https://github.com/uoregon-libraries/rais-image-server) 100% open source tile server for JP2 images written in Go
+- [digilib](http://digilib.sourceforge.net) image server written in Java
 
 
 ## Image Server Shims
