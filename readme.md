@@ -27,6 +27,7 @@ These servers support the IIIF Image API.
 - [SIPI](https://github.com/dhlab-basel/Sipi) IIIFv2 image server written in C++
 - [RAIS](https://github.com/uoregon-libraries/rais-image-server) 100% open source tile server for JP2 images written in Go
 - [digilib](http://digilib.sourceforge.net) image server written in Java
+- [Cantaloupe](https://github.com/medusa-project/cantaloupe) image server written in Java
 
 
 ## Image Server Shims
