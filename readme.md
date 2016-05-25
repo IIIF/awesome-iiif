@@ -91,6 +91,25 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [FromThePage](http://www.fromthepage.com) ingests IIIF manifests and displays images for transcription using OpenSeaDragon.
 - [SAT Taishōzō Image DB](http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php?alang=en) by the SAT Daizōkyō Text Database Committee in the DH initiative, the University of Tokyo adopts the IIIF Image and Presentation APIs including over 4,000 annotations displayed on Mirador.
 
+## Newspapers
+
+These are resources that are specifically useful for working with newspapers.
+Many of them are coming out of the IIIF Newspaper Interest Group.
+
+- [IIIF Newspapers Google Drive Folder](https://goo.gl/jNFfVw) has working
+  documents of the Interest Group for meeting minutes, and working drafts of
+  best practices, etc.
+- [open-oni](https://github.com/open-oni/open-oni) is a friendly fork of
+  [chronam](https://github.com/libraryofcongress/chronam) which is a
+  webapp for viewing National Digital Newspaper Program data from the Library of
+  Congress.
+- [docker-open-oni](https://github.com/open-oni/docker-open-oni) is a Docker
+  friendly setup for open-oni, which will set up and configure the Web
+  application as well as the MySQL, Solr and RAIS Image Server.
+- [ndnp_iiif](https://github.com/umd-mith/ndnp_iiif) is a Python program for
+  turning [National Digital Newspaper Program data](https://www.loc.gov/ndnp/)
+  into static IIIF JSON that is ready for mounting on the Web.
+
 ## Experiments and Fun
 
 - [http://puzzle.mikeapps.me/](Puzzles! Powered by IIIF)
