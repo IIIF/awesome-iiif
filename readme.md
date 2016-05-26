@@ -94,7 +94,7 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 
 ## Experiments and Fun
 
-- [http://puzzle.mikeapps.me/](Puzzles! Powered by IIIF)
+- [Puzzles! Powered by IIIF](http://puzzle.mikeapps.me/)
 
 ## License
 
