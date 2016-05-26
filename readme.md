@@ -99,8 +99,8 @@ Many of them are outputs of the IIIF Newspaper Interest Group.
 - [IIIF Newspapers Google Drive Folder](https://goo.gl/jNFfVw) has working
   documents of the Interest Group for meeting minutes, and working drafts of
   best practices, etc.
-- [Welsh Newspapers Online](http://newspapers.library.wales/) which supports the
-  IIIF Image API.
+- [Welsh Newspapers Online](http://newspapers.library.wales/) provides access to
+  over 1 million newspaper pages using the IIIF Image API.
 - [Populating the Annotation Store with IIIF Annotation List](https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md)
   which provides instructions on how to edit OCR text using annotations in 
   Mirador.
