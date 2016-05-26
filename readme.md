@@ -94,11 +94,16 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 ## Newspapers
 
 These are resources that are specifically useful for working with newspapers.
-Many of them are coming out of the IIIF Newspaper Interest Group.
+Many of them are outputs of the IIIF Newspaper Interest Group.
 
 - [IIIF Newspapers Google Drive Folder](https://goo.gl/jNFfVw) has working
   documents of the Interest Group for meeting minutes, and working drafts of
   best practices, etc.
+- [Welsh Newspapers Online](http://newspapers.library.wales/) which supports the
+  IIIF Image API.
+- [Populating the Annotation Store with IIIF Annotation List](https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md)
+  which provides instructions on how to edit OCR text using annotations in 
+  Mirador.
 - [open-oni](https://github.com/open-oni/open-oni) is a friendly fork of
   [chronam](https://github.com/libraryofcongress/chronam) which is a
   webapp for viewing National Digital Newspaper Program data from the Library of
