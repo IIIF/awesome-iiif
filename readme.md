@@ -94,6 +94,30 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [SAT Taishōzō Image DB](http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php?alang=en) by the SAT Daizōkyō Text Database Committee in the DH initiative, the University of Tokyo adopts the IIIF Image and Presentation APIs including over 4,000 annotations displayed on Mirador.
 - [e-codices](http://www.e-codices.unifr.ch) provides access to 1,500 Swiss medieval manuscripts (ca. 500,000 high-res images) via IIIF. The IIIF manifest link for individual manuscripts can be found on the overview page of each manuscript (see [example](http://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0857)). IIIF collection of collections with links to all manifests here: http://www.e-codices.unifr.ch/metadata/iiif/collection.json 
 
+## Newspapers
+
+These are resources that are specifically useful for working with newspapers.
+Many of them are outputs of the IIIF Newspaper Interest Group.
+
+- [IIIF Newspapers Google Drive Folder](https://goo.gl/jNFfVw) has working
+  documents of the Interest Group for meeting minutes, and working drafts of
+  best practices, etc.
+- [Welsh Newspapers Online](http://newspapers.library.wales/) provides access to
+  over 1 million newspaper pages using the IIIF Image API.
+- [Populating the Annotation Store with IIIF Annotation List](https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md)
+  which provides instructions on how to edit OCR text using annotations in 
+  Mirador.
+- [open-oni](https://github.com/open-oni/open-oni) is a friendly fork of
+  [chronam](https://github.com/libraryofcongress/chronam) which is a
+  webapp for viewing National Digital Newspaper Program data from the Library of
+  Congress.
+- [docker-open-oni](https://github.com/open-oni/docker-open-oni) is a Docker
+  friendly setup for open-oni, which will set up and configure the Web
+  application as well as the MySQL, Solr and RAIS Image Server.
+- [ndnp_iiif](https://github.com/umd-mith/ndnp_iiif) is a Python program for
+  turning [National Digital Newspaper Program data](https://www.loc.gov/ndnp/)
+  into static IIIF JSON that is ready for mounting on the Web.
+
 ## Experiments and Fun
 
 - [Puzzles! Powered by IIIF](http://puzzle.mikeapps.me/)
