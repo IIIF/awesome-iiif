@@ -54,6 +54,7 @@ These shims allow you to use an image server that does not currently support III
 - [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests
 - [iiif-prezi](https://github.com/IIIF/iiif-prezi) Python library providing a reference implementation
 - [iiif-presentation-api](https://github.com/datazuul/iiif-presentation-api) Java library
+- [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) npm module for creating and manipulating IIIF manifests
 
 ## Presentation API Shims
 
