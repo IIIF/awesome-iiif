@@ -38,6 +38,7 @@ These shims allow you to use an image server that does not currently support III
 - [Djatoka Ruby gem](https://github.com/jronallo/djatoka) convert IIIF URLs into the URLs that Djatoka requires.
 - [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API.
 - [ContentDM Image translator](https://github.com/IIIF/image-api/tree/master/translators/ContentDM) makes ContentDM images available through IIIF. Python.
+- [Flask-IIIF](https://github.com/inveniosoftware/flask-iiif) Flask extension to support IIIF in Python/Flask applications.
 
 ## Image Viewers
 - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
@@ -94,7 +95,7 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [Historical State Search](http://historicalstate.lib.ncsu.edu/search) displays images via a IIIF image server.
 - [FromThePage](http://www.fromthepage.com) ingests IIIF manifests and displays images for transcription using OpenSeaDragon.
 - [SAT Taishōzō Image DB](http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php?alang=en) by the SAT Daizōkyō Text Database Committee in the DH initiative, the University of Tokyo adopts the IIIF Image and Presentation APIs including over 4,000 annotations displayed on Mirador.
-- [e-codices](http://www.e-codices.unifr.ch) provides access to 1,500 Swiss medieval manuscripts (ca. 500,000 high-res images) via IIIF. The IIIF manifest link for individual manuscripts can be found on the overview page of each manuscript (see [example](http://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0857)). IIIF collection of collections with links to all manifests here: http://www.e-codices.unifr.ch/metadata/iiif/collection.json 
+- [e-codices](http://www.e-codices.unifr.ch) provides access to 1,500 Swiss medieval manuscripts (ca. 500,000 high-res images) via IIIF. The IIIF manifest link for individual manuscripts can be found on the overview page of each manuscript (see [example](http://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0857)). IIIF collection of collections with links to all manifests here: http://www.e-codices.unifr.ch/metadata/iiif/collection.json
 - [Gallica](http://gallica.bnf.fr/) is the digital library of the Bibliothèque nationale de France (BnF), providing access to millions of documents (newspapers and journals, maps, printed books, manuscripts, scores etc.). It implements the Image API and the Presentation API. [More technical details](http://doc.biblissima-condorcet.fr/entrepots-iiif-biblissima) about the IIIF endpoints (images and manifests).
 
 ## Newspapers
@@ -108,7 +109,7 @@ Many of them are outputs of the IIIF Newspaper Interest Group.
 - [Welsh Newspapers Online](http://newspapers.library.wales/) provides access to
   over 1 million newspaper pages using the IIIF Image API.
 - [Populating the Annotation Store with IIIF Annotation List](https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md)
-  which provides instructions on how to edit OCR text using annotations in 
+  which provides instructions on how to edit OCR text using annotations in
   Mirador.
 - [open-oni](https://github.com/open-oni/open-oni) is a friendly fork of
   [chronam](https://github.com/libraryofcongress/chronam) which is a
