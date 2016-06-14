@@ -39,6 +39,8 @@ These shims allow you to use an image server that does not currently support III
 - [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API.
 - [ContentDM Image translator](https://github.com/IIIF/image-api/tree/master/translators/ContentDM) makes ContentDM images available through IIIF. Python.
 - [Flask-IIIF](https://github.com/inveniosoftware/flask-iiif) Flask extension to support IIIF in Python/Flask applications.
+  - see [Flask-IIIF previewer demo](http://flask-iiif.herokuapp.com/previewer)
+  - see [Flask-IIIF RESTful demo](http://flask-iiif.herokuapp.com/restful)
 
 ## Image Viewers
 - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface
