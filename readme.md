@@ -127,6 +127,7 @@ Many of them are outputs of the IIIF Newspaper Interest Group.
 ## Experiments and Fun
 
 - [Puzzles! Powered by IIIF](http://puzzle.mikeapps.me/)
+- [David Rumsey MapTab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en) - A IIIF powered, Chrome extension that displays a random map from the David Rumsey Map Collection everytime you open a new tab in your browser. Built using Leaflet-IIIF and React.js
 
 ## License
 
