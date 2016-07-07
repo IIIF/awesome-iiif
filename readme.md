@@ -52,12 +52,13 @@ These shims allow you to use an image server that does not currently support III
 - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility
 
 ## Presentation API Libraries
-- [Manifesto](https://github.com/IIIF/manifesto) JavaScript library for both browser and server
-- [Manifesto (UV)](https://github.com/UniversalViewer/manifesto) IIIF Presentation API client and server utility library
+- [Manifesto](https://github.com/UniversalViewer/manifesto) IIIF Presentation API client and server utility library
+- [Manifold](https://github.com/UniversalViewer/manifold) Wraps Manifesto to provide viewer state and related utilities
 - [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests
 - [iiif-prezi](https://github.com/IIIF/iiif-prezi) Python library providing a reference implementation
 - [iiif-presentation-api](https://github.com/datazuul/iiif-presentation-api) Java library
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) npm module for creating and manipulating IIIF manifests
+- [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) IIIF tree menu sortable by date with multi-select capability
 
 ## Presentation API Shims
 
