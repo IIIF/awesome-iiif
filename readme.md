@@ -17,6 +17,9 @@ IIIF has developed several standards.
 - [Authentication API](http://iiif.io/api/auth/)
 - [External Services API Annex](http://iiif.io/api/annex/services/)
 
+## IIIF Demos
+- [iiif-server-demo](https://github.com/dbmdz/iiif-server-demo) Self-contained IIIF Demo server written in Java
+
 ## Image Servers
 
 These servers support the IIIF Image API.
@@ -30,6 +33,10 @@ These servers support the IIIF Image API.
 - [digilib](http://digilib.sourceforge.net) image server written in Java
 - [Cantaloupe](https://github.com/medusa-project/cantaloupe) image server written in Java
 - [iiif_s3](https://github.com/cmoa/iiif_s3) Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3
+- [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) IIIF server written in Java supporting IIIF Image and Presentation API
+
+These servers support the IIIF Presentation API.
+- [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) IIIF server written in Java supporting IIIF Image and Presentation API
 
 ## Image Server Shims
 
@@ -51,12 +58,15 @@ These shims allow you to use an image server that does not currently support III
 - [Mirador](https://github.com/IIIF/mirador) multi-up workspace
 - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility
 
+## Image API Libraries
+- [iiif-image-api](https://github.com/dbmdz/iiif-image-api) Java IIIF Image API libraries
+
 ## Presentation API Libraries
 - [Manifesto](https://github.com/UniversalViewer/manifesto) IIIF Presentation API client and server utility library
 - [Manifold](https://github.com/UniversalViewer/manifold) Wraps Manifesto to provide viewer state and related utilities
 - [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests
 - [iiif-prezi](https://github.com/IIIF/iiif-prezi) Python library providing a reference implementation
-- [iiif-presentation-api](https://github.com/datazuul/iiif-presentation-api) Java library
+- [iiif-presentation-api](https://github.com/dbmdz/iiif-presentation-api) Java IIIF Presentation API libraries
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) npm module for creating and manipulating IIIF manifests
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) IIIF tree menu sortable by date with multi-select capability
 
