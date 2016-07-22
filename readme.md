@@ -29,7 +29,7 @@ These servers support the IIIF Image API.
 - [RAIS](https://github.com/uoregon-libraries/rais-image-server) 100% open source tile server for JP2 images written in Go
 - [digilib](http://digilib.sourceforge.net) image server written in Java
 - [Cantaloupe](https://github.com/medusa-project/cantaloupe) image server written in Java
-
+- [iiif_s3](https://github.com/cmoa/iiif_s3) Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3
 
 ## Image Server Shims
 
