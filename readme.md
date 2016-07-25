@@ -91,6 +91,7 @@ Tutorials for how to accomplish functionality in your applications.
 
 Slide decks with a focus on IIIF.
 
+- [Image API Introduction](https://docs.google.com/presentation/d/1urCPiL3LffkIWglKGW4SSEiojBt2_RKmt5YuDtBoRfY/edit?usp=sharing) a high level overview of the Image API parameters.
 - [OA - Shared Canvas - TEI - Biblissima project](http://www.slideshare.net/biblissima/oa-shared-canvas-tei-biblissima-project) part of a workshop on TEI and neighboring standards including IIIF.
 - [IIIF For Small Projects](http://www.slideshare.net/workergnome/iiif-for-small-projects) how IIIF can be used on small projects with limited infrastructure, presented at [KeystoneDH 2016](http://keystonedh.network/2016/).
 
