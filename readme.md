@@ -69,6 +69,7 @@ These shims allow you to use an image server that does not currently support III
 - [iiif-presentation-api](https://github.com/dbmdz/iiif-presentation-api) Java IIIF Presentation API libraries
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) npm module for creating and manipulating IIIF manifests
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) IIIF tree menu sortable by date with multi-select capability
+- [Tripoli](https://ddmal.github.io/tripoli/) IIIF Presentation API 2.0+ validation library
 
 ## Presentation API Shims
 
