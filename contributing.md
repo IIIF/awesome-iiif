@@ -2,6 +2,8 @@
 
 Please note that this project is released with a contributor code of conduct which will always track the IIIF community code of conduct. Currently this code would be the [IIIF Event Code of Conduct](http://iiif.io/event/conduct/). By participating in this project you agree to abide by its terms.
 
+By contributing to this list you waive all copyright and related neighboring rights to your contribution to this work to the extent possible under law.
+
 ## Adding to this list
 
 Please ensure your pull request adheres to the following guidelines:
