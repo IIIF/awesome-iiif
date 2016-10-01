@@ -35,7 +35,7 @@ IIIF has developed several standards.
 
 ## Image Servers
 
-These servers support the IIIF Image API.
+These servers support the IIIF Image API. Some may also have support for the Presentation API.
 
 - [Loris](https://github.com/loris-imageserver/loris) written in Python.
 - [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) high performance image server.
@@ -47,10 +47,6 @@ These servers support the IIIF Image API.
 - [iiif_s3](https://github.com/cmoa/iiif_s3) Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 - [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) IIIF server written in Java supporting IIIF Image and Presentation API.
 - [go-iiif](https://github.com/thisisaaronland/go-iiif) IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif)).
-
-These servers support the IIIF Presentation API.
-
-- [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) IIIF server written in Java supporting IIIF Image and Presentation API.
 
 ## Image Server Shims
 
