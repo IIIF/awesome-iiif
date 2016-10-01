@@ -138,6 +138,7 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [Biblissima reconstituted manuscript demo](http://demos.biblissima-condorcet.fr/chateauroux/osd-demo/) presents a manuscript where illuminations had been cut out and then allows for reconstituting the manuscript by placing those images back into place.
 - [iiif-server-demo](https://github.com/dbmdz/iiif-server-demo) Self-contained IIIF Demo server written in Java.
 - [NCSU Libraries Rare and Unique Digital Collections](https://twitter.com/vaticanlibrary/status/732546207457935360) implements the Image, Presentation, and Content Search APIs.
+- [DigiVatLib](http://digi.vatlib.it/) provides access to digitized collections from the Vatican.
 
 ## Newspapers
 
