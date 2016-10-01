@@ -10,6 +10,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - If you are adding a new section include a description of what belongs under that heading and an entry to the Contents.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
+- Add new items to the end of the list.
 - Comment on why something is awesome. Links are great, but give someone a reason to follow the link.
 - Make an individual pull request for each suggestion.
 - Check your spelling and grammar. Start each item with an uppercase character and end it with a period.
