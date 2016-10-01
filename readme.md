@@ -19,6 +19,7 @@ A list of lists of awesome [IIIF](http://iiif.io/) resources
 - [Discovery](#discovery)
 - [Implementations](#implementations)
 - [Newspapers](#newspapers)
+- [Writing](#writing)
 - [Experiments and Fun](#experiments-and-fun)
 
 ## Standards
@@ -145,6 +146,12 @@ These are resources that are specifically useful for working with newspapers. Ma
 - [open-oni](https://github.com/open-oni/open-oni) is a friendly fork of [chronam](https://github.com/libraryofcongress/chronam) which is a webapp for viewing National Digital Newspaper Program data from the Library of Congress.
 - [docker-open-oni](https://github.com/open-oni/docker-open-oni) is a Docker friendly setup for open-oni, which will set up and configure the Web application as well as the MySQL, Solr and RAIS Image Server.
 - [ndnp_iiif](https://github.com/umd-mith/ndnp_iiif) is a Python program for turning [National Digital Newspaper Program data](https://www.loc.gov/ndnp/) into static IIIF JSON that is ready for mounting on the Web.
+
+## Writing
+
+Blog posts, press releases, and other writing about IIIF.
+
+- [IIIF support for the Qatar Digital Library](http://www.cogapp.com/blog/iiif-support-qatar-digital-library).
 
 ## Experiments and Fun
 
