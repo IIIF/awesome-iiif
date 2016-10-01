@@ -14,6 +14,7 @@ A list of lists of awesome [IIIF](http://iiif.io/) resources
 - [Image API Libraries](#image-api-libraries)
 - [Presentation API Libraries](#presentations-api-libraries)
 - [Presentations API Shims](#presentations-api-shims)
+- [Content Search API Servers](#content-search-api)
 - [Tutorials](#tutorials)
 - [Presentations and Slide Decks](#presentations-and-slide-decks)
 - [Discovery](#discovery)
@@ -91,6 +92,12 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 
 - [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API, and has samples for NYPL, Flickr, and the US National Archives.
 - [Chronicling America](https://github.com/IIIF/presentation-api/tree/master/translators/chronam) for newspapers digitized in the National Digital Newspaper Program.
+
+## Content Search API
+
+Libraries and applications that support the Content Search API.
+
+- [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 
 ## Tutorials
 
