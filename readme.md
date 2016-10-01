@@ -89,6 +89,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [Fellow Travelers: The Canterbury Tales and IIIF](http://web.stanford.edu/group/dmstech/cgi-bin/wordpress/author/blalbrit/) by Benjamin Albritton includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
 - [IIIF Intro (fr)](http://doc.biblissima-condorcet.fr/introduction-iiif) Introduction to IIIF (in French)
 - [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) uses IIIF as an example to explain APIs
+- [Image Choice video](https://www.youtube.com/watch?v=4AJPVktQ1Zw) demonstration of how a canvas can have a choice of images and a viewer can toggle between them
 
 ## Presentations and Slide Decks
 
