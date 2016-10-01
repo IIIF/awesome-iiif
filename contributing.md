@@ -12,8 +12,9 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Comment on why something is awesome. Links are great, but give someone a reason to follow the link.
 - Make an individual pull request for each suggestion.
-- Check your spelling and grammar.
+- Check your spelling and grammar. Start each item with an uppercase character and end it with a period.
 - Make sure your text editor is set to remove trailing whitespace.
+- Do not include new lines within a bullet point or paragraph. Set your editor to line wrap.
 - The pull request and commit should have a useful title.
 
 
