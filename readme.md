@@ -7,6 +7,21 @@ A list of lists of awesome [IIIF](http://iiif.io/) resources
 
 **Disclaimer**: This list is created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
 
+## Contents
+- [Standards](#standards)
+- [Image Servers](#image-servers)
+- [Image Server Shims](#image-server-shims)
+- [Image Viewers](#image-viewers)
+- [Image API Libraries](#image-api-libraries)
+- [Presentation API Libraries](#presentations-api-libraries)
+- [Presentations API Shims](#presentations-api-shims)
+- [Tutorials](#tutorials)
+- [Presentations and Slide Decks](#presentations-and-slide-decks)
+- [Discovery](#discovery)
+- [Implementations](#implementations)
+- [Newspapers](#newspapers)
+- [Experiments and Fun](#experiments-and-fun)
+
 ## Standards
 
 IIIF has developed several standards.
