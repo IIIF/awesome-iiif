@@ -139,6 +139,7 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [iiif-server-demo](https://github.com/dbmdz/iiif-server-demo) Self-contained IIIF Demo server written in Java.
 - [NCSU Libraries Rare and Unique Digital Collections](https://twitter.com/vaticanlibrary/status/732546207457935360) implements the Image, Presentation, and Content Search APIs.
 - [DigiVatLib](http://digi.vatlib.it/) provides access to digitized collections from the Vatican.
+-
 
 ## Newspapers
 
@@ -161,6 +162,7 @@ Blog posts, press releases, and other writing about IIIF.
 
 - [Puzzles! Powered by IIIF](http://puzzle.mikeapps.me/)
 - [David Rumsey MapTab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en) - A IIIF powered, Chrome extension that displays a random map from the David Rumsey Map Collection everytime you open a new tab in your browser. Built using Leaflet-IIIF and React.js.
+- [Fractals](http://showcase.iiif.io/showcase/fractals.html) allows you to deep zoom into a huge fractal image.
 
 ## License
 
