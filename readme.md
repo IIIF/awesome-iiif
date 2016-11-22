@@ -140,6 +140,7 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [NCSU Libraries Rare and Unique Digital Collections](https://twitter.com/vaticanlibrary/status/732546207457935360) implements the Image, Presentation, and Content Search APIs.
 - [DigiVatLib](http://digi.vatlib.it/) provides access to digitized collections from the Vatican.
 - [Georeferencer](http://www.georeferencer.com/) can take maps accessible via IIIF and referenced to modern maps.
+- [hocrviewer](https://github.com/jbaiter/hocrviewer-mirador) can display and search OCRed documents in the [hOCR format](http://kba.github.io/hocr-spec/1.2/) with Mirador. Contains a simple implementation of the Content Search API with SQLite.
 
 ## Newspapers
 
