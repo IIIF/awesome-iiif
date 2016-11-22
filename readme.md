@@ -157,7 +157,7 @@ These are resources that are specifically useful for working with newspapers. Ma
 Blog posts, press releases, and other writing about IIIF.
 
 - [IIIF support for the Qatar Digital Library](http://www.cogapp.com/blog/iiif-support-qatar-digital-library).
-- [Comprendre IIIF et l’interopérabilité des bibliothèques numériques](http://bsa.biblio.univ-lille3.fr/blog/2016/11/comprendre-iiif-interoperabilite-bibliotheques-numeriques/) (blog post giving an overview of IIIF, in French).
+- [Comprendre IIIF et l’interopérabilité des bibliothèques numériques](http://bsa.biblio.univ-lille3.fr/blog/2016/11/comprendre-iiif-interoperabilite-bibliotheques-numeriques/) blog post giving an overview of IIIF, in French.
 
 ## Experiments and Fun
 
