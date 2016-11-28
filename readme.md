@@ -2,7 +2,8 @@
 
 A list of lists of awesome [IIIF](http://iiif.io/) resources.
 
-The International Image Interoperability Framework (IIIF) is a group of standard APIs around sharing and reuse of media. It is also a growing community of galleries, libraries, archives, museums, companies, and others who develop the standards and interoperable software implementations. Content includes helpful links around each of the standards, demonstrations of their use, and tutorials and presentations. The list is especially helpful for orienting new community members and developers.
+The International Image Interoperability Framework (IIIF) is a group of standard APIs around sharing and reuse of media. It is also a growing community of galleries, libraries, archives, museums, companies, and others who develop the standards and interoperable software implementations. Content includes helpful links around each of the standards, demonstrations of their use, and tutorials and 
+. The list is especially helpful for orienting new community members and developers.
 
 [![Contributing Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./contributing.md)
 
@@ -14,8 +15,8 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Image Server Shims](#image-server-shims)
 - [Image Viewers](#image-viewers)
 - [Image API Libraries](#image-api-libraries)
-- [Presentation API Libraries](#presentations-api-libraries)
-- [Presentations API Shims](#presentations-api-shims)
+- [Presentation API Libraries](#presentation-api-libraries)
+- [Presentation API Shims](#presentation-api-shims)
 - [Content Search API Servers](#content-search-api)
 - [Tutorials](#tutorials)
 - [Presentations and Slide Decks](#presentations-and-slide-decks)
