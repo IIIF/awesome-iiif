@@ -147,10 +147,11 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 
 ## Newspapers
 
-These are resources that are specifically useful for working with newspapers. Many of them are outputs of the IIIF Newspaper Interest Group.
+These are resources that are specifically useful for working with newspapers. Many of them are outputs of the [IIIF Newspaper Community Group](http://iiif.io/community/groups/newspapers/).
 
 - [IIIF Newspapers Google Drive Folder](https://goo.gl/jNFfVw) has working documents of the Interest Group for meeting minutes, and working drafts of best practices, etc.
 - [Welsh Newspapers Online](http://newspapers.library.wales/) provides access to over 1 million newspaper pages using the IIIF Image API.
+- National Library of Wales' guide to [IIIF Newspapers](http://dev.llgc.org.uk/wiki/index.php?title=IIIF_Newspapers) provides an explanation and examples of how IIIF applies to newspapers.
 - [Populating the Annotation Store with IIIF Annotation List](https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md) which provides instructions on how to edit OCR text using annotations in Mirador.
 - [open-oni](https://github.com/open-oni/open-oni) is a friendly fork of [chronam](https://github.com/libraryofcongress/chronam) which is a webapp for viewing National Digital Newspaper Program data from the Library of Congress.
 - [docker-open-oni](https://github.com/open-oni/docker-open-oni) is a Docker friendly setup for open-oni, which will set up and configure the Web application as well as the MySQL, Solr and RAIS Image Server.
