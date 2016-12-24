@@ -1,4 +1,6 @@
-# Awesome IIIF [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome International Image Interoperability Framework (IIIF) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[![IIIF](https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png)](http://iiif.io/) 
 
 A list of lists of awesome [IIIF](http://iiif.io/) resources.
 
@@ -24,16 +26,17 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Newspapers](#newspapers)
 - [Writing](#writing)
 - [Experiments and Fun](#experiments-and-fun)
+- [Community](#community)
 
 ## Standards
 
-IIIF has developed several standards.
+The IIIF community has developed several standards for interoperable web-based image delivery.
 
-- [Image API](http://iiif.io/api/image/)
-- [Presentation API](http://iiif.io/api/presentation/)
-- [Content Search API](http://iiif.io/api/search/)
-- [Authentication API](http://iiif.io/api/auth/)
-- [External Services API Annex](http://iiif.io/api/annex/services/)
+- [Image API](http://iiif.io/api/image/) - specifies a web service that returns an image in response to a standard HTTP or HTTPS request.
+- [Presentation API](http://iiif.io/api/presentation/) - provides the information necessary to allow a rich, online viewing environment for primarily image-based objects to be presented to a human user, likely in conjunction with the IIIF Image API.
+- [Content Search API](http://iiif.io/api/search/) - specifies interoperability mechanism for searching within annotations.
+- [Authentication API](http://iiif.io/api/auth/) - describes a set of workflows for guiding the user through an existing access control system.
+- [External Services API Annex](http://iiif.io/api/annex/services/) - describes the set of related services that have been identified as useful to reference from the IIIF APIs.
 
 ## Image Servers
 
@@ -109,14 +112,15 @@ Tutorials for how to accomplish functionality in your applications.
 - [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) uses IIIF as an example to explain APIs.
 - [Image Choice video](https://www.youtube.com/watch?v=4AJPVktQ1Zw) demonstration of how a canvas can have a choice of images and a viewer can toggle between them.
 
-## Presentations and Slide Decks
+## Videos and Slide Decks
 
-Slide decks with a focus on IIIF.
+Slide decks and presentation videos with a focus on IIIF.
 
 - [Image API Introduction](https://docs.google.com/presentation/d/1urCPiL3LffkIWglKGW4SSEiojBt2_RKmt5YuDtBoRfY/edit?usp=sharing) a high level overview of the Image API parameters.
 - [OA - Shared Canvas - TEI - Biblissima project](http://www.slideshare.net/biblissima/oa-shared-canvas-tei-biblissima-project) part of a workshop on TEI and neighboring standards including IIIF.
 - [IIIF For Small Projects](http://www.slideshare.net/workergnome/iiif-for-small-projects) how IIIF can be used on small projects with limited infrastructure, presented at [KeystoneDH 2016](http://keystonedh.network/2016/).
 - [Introduction to the Presentation API](http://www.slideshare.net/azaroth42/iiif-presentation-api) by Rob Sanderson.
+- [Video from IIIF event at the National Gallery of Art](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6iQpKTXnhnlQpmoMLT1fB7) in May 2015.
 - [Video from the outreach event at the Museum of Modern Art ](https://www.youtube.com/playlist?list=PLYPP1-8uH9c5smSD2wyVgsqKxD218khZq) in May 2016.
 - [Collection of slide decks](http://www.slideshare.net/IIIF_io/clipboards) from various IIIF events.
 
@@ -173,6 +177,16 @@ Blog posts, press releases, and other writing about IIIF.
 - [IIIF Gallery](http://digirati-co-uk.github.io/iiif-gallery/src/) - A virtual art gallery using OpenSeadragon and custom image generation, created by Stephen Fraser, Digirati. Also see [full source code](https://github.com/digirati-co-uk/iiif-gallery/).
 - [Exquisite Corpse](https://github.com/harvardartmuseums/exquisite-iiif-demo) - A prototype that deliberately mixes up portrait paintings. Created using Node.js by Jeff Steward, Harvard Art Museums.
 - [3D trade cards explorer](http://labs.cogapp.com/tc/) - A 3D environment that displays nineteenth-century trade cards from the [Boston Public Library](https://www.digitalcommonwealth.org/collections/commonwealth:gq67jz045). Designed to be viewed on a mobile phone, ideally with Google Cardboard. Created using three.js by Jon White, Cogapp.
+
+## Community
+
+IIIF is a community-based initiative that relies on active participation, discussion, and input. To get involved and learn more, see the [IIIF Community page](http://iiif.io/community/).
+- Join the [IIIF-Discuss email list](https://groups.google.com/forum/#!forum/iiif-discuss).
+- Contribute to one of the [IIIF community and/or technical groups](http://iiif.io/community/groups/).
+- Participate in the bi-weekly IIIF community calls. See the [IIIF community calendar](http://iiif.io/community/groups/) for details.
+- Learn more about the [IIIF Consortium](http://iiif.io/community/consortium/).
+- Attend a [IIIF event](http://iiif.io/event/).
+- [iiif_io on Twitter](https://twitter.com/iiif_io).
 
 ## License
 
