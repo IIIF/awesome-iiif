@@ -1,6 +1,6 @@
 # Awesome International Image Interoperability Framework (IIIF) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/)
 
 A list of lists of awesome [IIIF](http://iiif.io/) resources.
 
@@ -86,6 +86,7 @@ These shims allow you to use an image server that does not currently support III
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) npm module for creating and manipulating IIIF manifests.
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) IIIF tree menu sortable by date with multi-select capability.
 - [Tripoli](https://ddmal.github.io/tripoli/) IIIF Presentation API 2.0+ validation library.
+- [ViewDir](https://viewdir.github.io/index.html) documentation on IIIF-related libraries and components, from an open community of designers and developers interested in creating composable and interoperable interfaces for consuming and creating online content.
 
 ## Presentation API Shims
 
