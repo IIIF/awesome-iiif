@@ -1,6 +1,6 @@
 # Awesome International Image Interoperability Framework (IIIF) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/)
 
 A list of lists of awesome [IIIF](http://iiif.io/) resources.
 
@@ -22,6 +22,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Tutorials](#tutorials)
 - [Presentations and Slide Decks](#presentations-and-slide-decks)
 - [Discovery](#discovery)
+- [Annotations](#annotations)
 - [Implementations](#implementations)
 - [Newspapers](#newspapers)
 - [Writing](#writing)
@@ -132,6 +133,14 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [iNQUIRE demo](http://inquire.armtest.uk/) is a demo of an open-source IIIF-compliant research and discovery platform. This is the IIIF-compliant version of the platform driving [Digital Bodleian] (http://digital.bodleian.ox.ac.uk/).
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) is the Github repository for iNQUIRE.
 - [Musiclibs](https://musiclibs.net) provides cross-library search of thousands of musical scores and manuscripts.
+
+## Annotations
+
+While annotations are not specified by IIIF they are an important enabling technology. This section currently contains a list of annotation servers.
+
+- [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
+- [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
+- [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
 
 ## Implementations
 
