@@ -1,6 +1,6 @@
 # Awesome International Image Interoperability Framework (IIIF) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/)
 
 A list of lists of awesome [IIIF](http://iiif.io/) resources.
 
@@ -16,6 +16,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Image Server Shims](#image-server-shims)
 - [Image Viewers](#image-viewers)
 - [Image API Libraries](#image-api-libraries)
+- [Image Tools](#image-tools)
 - [Presentation API Libraries](#presentation-api-libraries)
 - [Presentation API Shims](#presentation-api-shims)
 - [Content Search API Servers](#content-search-api)
@@ -76,6 +77,16 @@ These shims allow you to use an image server that does not currently support III
 - [piffle](https://github.com/emory-lits-labs/piffle) Python library for generating and parsing IIIF Image API URLs.
 - [iiif_url](https://github.com/NCSU-Libraries/iiif_url) Ruby library for creating and parsing IIIF Image API URLs.
 - [iiif](https://github.com/zimeon/iiif) Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
+
+## Image Tools
+
+Various tools for working with images such as cropping tools.
+
+- [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) - Example of using Leaflet to provide IIIF cropping.
+- [Stanford Cropper](https://github.com/lizfischer/iiif-tools#cropper) - Simple image cropper.
+- [OpenSeadragon Cropping Tool](http://sul-dlss.github.io/iiif-cropper/demo/) - Script to allow for cropping an image from within OpenSeadragon.
+- [Wikimedia Commons Image Cropper](http://zone47.com/crotos/lab/cropper/) - Create IIIF image regions from image files at Wikimedia Commons.
+- [TryIIIF](http://tryiiif.herokuapp.com/) - Example tool for viewing any web-accessible image within a couple IIIF Image Viewers.
 
 ## Presentation API Libraries
 - [Manifesto](https://github.com/UniversalViewer/manifesto) IIIF Presentation API client and server utility library.
