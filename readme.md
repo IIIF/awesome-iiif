@@ -167,6 +167,9 @@ Blog posts, press releases, and other writing about IIIF.
 
 - [IIIF support for the Qatar Digital Library](http://www.cogapp.com/blog/iiif-support-qatar-digital-library).
 - [Comprendre IIIF et l’interopérabilité des bibliothèques numériques](http://bsa.biblio.univ-lille3.fr/blog/2016/11/comprendre-iiif-interoperabilite-bibliotheques-numeriques/) blog post giving an overview of IIIF, in French.
+- [The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images](https://purl.stanford.edu/df650pk4327) paper by Stuart Snydman, Robert Sanderson, and Tom Cramer published for the 2015 Archiving Conference in Los Angeles, CA
+- [IIIF, Webmentions, and Collaboration between Institutions and Research Communities](http://lombardpress.org/2016/04/16/iiif-webmentions/) blog post by Jeffrey C. Witt and Rafael Schwemmer on how to share information between institutions
+- [Europeana aligns with the International Image Interoperability Framework (IIIF)](http://pro.europeana.eu/blogpost/europeana-aligns-with-the-international-image-interoperability-framework-iiif) blog post by Valentine Charles and Antoine Isaac
 
 ## Experiments and Fun
 
