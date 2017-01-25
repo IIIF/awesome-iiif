@@ -96,6 +96,7 @@ Various tools for working with images such as cropping tools.
 - [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests.
 - [iiif-prezi](https://github.com/IIIF/iiif-prezi) Python library providing a reference implementation.
 - [iiif-presentation-api](https://github.com/dbmdz/iiif-presentation-api) Java IIIF Presentation API libraries.
+- [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) PHP library for generating IIIF manifests.
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) npm module for creating and manipulating IIIF manifests.
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) IIIF tree menu sortable by date with multi-select capability.
 - [Tripoli](https://ddmal.github.io/tripoli/) IIIF Presentation API 2.0+ validation library.
