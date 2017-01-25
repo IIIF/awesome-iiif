@@ -19,6 +19,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Image Tools](#image-tools)
 - [Presentation API Libraries](#presentation-api-libraries)
 - [Presentation API Shims](#presentation-api-shims)
+- [Presentation Manifest Tools](#presentation-manifest-tools)
 - [Content Search API Servers](#content-search-api)
 - [Tutorials](#tutorials)
 - [Presentations and Slide Decks](#presentations-and-slide-decks)
@@ -105,6 +106,11 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 
 - [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API, and has samples for NYPL, Flickr, and the US National Archives.
 - [Chronicling America](https://github.com/azaroth42/presentation-api-shims/tree/master/shims/chronam) for newspapers digitized in the National Digital Newspaper Program.
+
+## Presentation Manifest Tools
+
+- [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](http://morning-journey-27147.herokuapp.com/#/?_k=agcbor).
+- [demetsiiify](https://github.com/jbaiter/demetsiiify) - Web service for creating IIIF manifests from METS/MODS documents.
 
 ## Content Search API
 
