@@ -73,6 +73,7 @@ These shims allow you to use an image server that does not currently support III
 - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) lightweight, extensible IIIF image viewer.
 - [Mirador](https://github.com/IIIF/mirador) multi-up workspace.
 - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility.
+- [IIIFViewer](https://github.com/klokantech/iiifviewer) IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3
 
 ## Image API Libraries
 - [iiif-image-api](https://github.com/dbmdz/iiif-image-api) Java IIIF Image API libraries.
