@@ -196,6 +196,7 @@ Blog posts, press releases, and other writing about IIIF.
 
 - [IIIF support for the Qatar Digital Library](http://www.cogapp.com/blog/iiif-support-qatar-digital-library).
 - [Comprendre IIIF et l’interopérabilité des bibliothèques numériques](http://bsa.biblio.univ-lille3.fr/blog/2016/11/comprendre-iiif-interoperabilite-bibliotheques-numeriques/) blog post giving an overview of IIIF, in French.
+- [An Introduction to the International Image Interoperability Framework](https://docs.google.com/document/d/1a2axqqGkjwMYc4rc5hnjM6FMm9WIhKAT3OX6W5ul988)
 
 ## Experiments and Fun
 
