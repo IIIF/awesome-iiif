@@ -200,6 +200,8 @@ Blog posts, press releases, and other writing about IIIF.
 - [Rounding strategies used in IIIF](http://www.jack-reed.com/2016/10/14/rounding-strategies-used-in-iiif.html) blog post varying calculations of aspect ratios across IIIF clients and servers.
 - [Europeana aligns with the International Image Interoperability Framework](http://pro.europeana.eu/blogpost/europeana-aligns-with-the-international-image-interoperability-framework-iiif) announcing Europeana's interest in IIIF, and an [update](http://pro.europeana.eu/blogpost/europeana-and-iiif-update-oct-2016) on progress.
 - [There's a new viewer for digitised items in the British Library's collections](http://blogs.bl.uk/digital-scholarship/2016/12/new-viewer-digitised-collections-british-library.html) announcement on implementation of the Universal Viewer.
+- [The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images](https://purl.stanford.edu/df650pk4327) paper published for the 2015 Archiving Conference in Los Angeles, CA
+
 
 ## Experiments and Fun
 
