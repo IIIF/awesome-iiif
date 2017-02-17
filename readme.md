@@ -1,6 +1,6 @@
 # Awesome International Image Interoperability Framework (IIIF) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/)
 
 A list of lists of awesome [IIIF](http://iiif.io/) resources.
 
@@ -16,12 +16,15 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Image Server Shims](#image-server-shims)
 - [Image Viewers](#image-viewers)
 - [Image API Libraries](#image-api-libraries)
+- [Image Tools](#image-tools)
 - [Presentation API Libraries](#presentation-api-libraries)
 - [Presentation API Shims](#presentation-api-shims)
+- [Presentation Manifest Tools](#presentation-manifest-tools)
 - [Content Search API Servers](#content-search-api)
 - [Tutorials](#tutorials)
 - [Presentations and Slide Decks](#presentations-and-slide-decks)
 - [Discovery](#discovery)
+- [Annotations](#annotations)
 - [Implementations](#implementations)
 - [Newspapers](#newspapers)
 - [Writing](#writing)
@@ -77,15 +80,27 @@ These shims allow you to use an image server that does not currently support III
 - [iiif_url](https://github.com/NCSU-Libraries/iiif_url) Ruby library for creating and parsing IIIF Image API URLs.
 - [iiif](https://github.com/zimeon/iiif) Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
 
+## Image Tools
+
+Various tools for working with images such as cropping tools.
+
+- [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) - Example of using Leaflet to provide IIIF cropping.
+- [Stanford Cropper](https://github.com/lizfischer/iiif-tools#cropper) - Simple image cropper.
+- [OpenSeadragon Cropping Tool](http://sul-dlss.github.io/iiif-cropper/demo/) - Script to allow for cropping an image from within OpenSeadragon.
+- [Wikimedia Commons Image Cropper](http://zone47.com/crotos/lab/cropper/) - Create IIIF image regions from image files at Wikimedia Commons.
+- [TryIIIF](http://tryiiif.herokuapp.com/) - Example tool for viewing any web-accessible image within a couple IIIF Image Viewers.
+
 ## Presentation API Libraries
 - [Manifesto](https://github.com/UniversalViewer/manifesto) IIIF Presentation API client and server utility library.
 - [Manifold](https://github.com/UniversalViewer/manifold) Wraps Manifesto to provide viewer state and related utilities.
 - [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests.
 - [iiif-prezi](https://github.com/IIIF/iiif-prezi) Python library providing a reference implementation.
 - [iiif-presentation-api](https://github.com/dbmdz/iiif-presentation-api) Java IIIF Presentation API libraries.
+- [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) PHP library for generating IIIF manifests.
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) npm module for creating and manipulating IIIF manifests.
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) IIIF tree menu sortable by date with multi-select capability.
 - [Tripoli](https://ddmal.github.io/tripoli/) IIIF Presentation API 2.0+ validation library.
+- [ViewDir](https://viewdir.github.io/index.html) documentation on IIIF-related libraries and components, from an open community of designers and developers interested in creating composable and interoperable interfaces for consuming and creating online content.
 
 ## Presentation API Shims
 
@@ -93,6 +108,11 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 
 - [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API, and has samples for NYPL, Flickr, and the US National Archives.
 - [Chronicling America](https://github.com/azaroth42/presentation-api-shims/tree/master/shims/chronam) for newspapers digitized in the National Digital Newspaper Program.
+
+## Presentation Manifest Tools
+
+- [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](http://morning-journey-27147.herokuapp.com/#/?_k=agcbor).
+- [demetsiiify](https://github.com/jbaiter/demetsiiify) - Web service for creating IIIF manifests from METS/MODS documents.
 
 ## Content Search API
 
@@ -133,6 +153,14 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) is the Github repository for iNQUIRE.
 - [Musiclibs](https://musiclibs.net) provides cross-library search of thousands of musical scores and manuscripts.
 
+## Annotations
+
+While annotations are not specified by IIIF they are an important enabling technology. This section currently contains a list of annotation servers.
+
+- [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
+- [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
+- [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
+
 ## Implementations
 
 Sites which have implemented IIIF in some respect. Note what standards or other libraries are implemented.
@@ -148,6 +176,7 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [DigiVatLib](http://digi.vatlib.it/) provides access to digitized collections from the Vatican.
 - [Georeferencer](http://www.georeferencer.com/) can take maps accessible via IIIF and referenced to modern maps.
 - [hocrviewer](https://github.com/jbaiter/hocrviewer-mirador) can display and search OCRed documents in the [hOCR format](http://kba.github.io/hocr-spec/1.2/) with Mirador. Contains a simple implementation of the Content Search API with SQLite.
+- [LUNA Imaging](http://www.lunaimaging.com/iiif/) digital collections software supports the Presentation API in LUNA 7.2.5. See [more details about LUNA and IIIF](https://doc.lunaimaging.com/display/V72D/IIIF+in+LUNA) and [demo of LUNA with IIIF in action](https://youtu.be/88IkZ0LSWyI).
 
 ## Newspapers
 
@@ -165,9 +194,14 @@ These are resources that are specifically useful for working with newspapers. Ma
 
 Blog posts, press releases, and other writing about IIIF.
 
+- [Zoom in to 9.3 Million Internet Archive Books and Images - through IIIF](https://blog.archive.org/2015/10/23/zoom-in-to-9-3-million-internet-archive-books-and-images-through-iiif/) blog on the Internet Archive's adoption of IIIF.
 - [IIIF support for the Qatar Digital Library](http://www.cogapp.com/blog/iiif-support-qatar-digital-library).
 - [Comprendre IIIF et l’interopérabilité des bibliothèques numériques](http://bsa.biblio.univ-lille3.fr/blog/2016/11/comprendre-iiif-interoperabilite-bibliotheques-numeriques/) blog post giving an overview of IIIF, in French.
+- [Rounding strategies used in IIIF](http://www.jack-reed.com/2016/10/14/rounding-strategies-used-in-iiif.html) blog post varying calculations of aspect ratios across IIIF clients and servers.
+- [Europeana aligns with the International Image Interoperability Framework](http://pro.europeana.eu/blogpost/europeana-aligns-with-the-international-image-interoperability-framework-iiif) announcing Europeana's interest in IIIF, and an [update](http://pro.europeana.eu/blogpost/europeana-and-iiif-update-oct-2016) on progress.
+- [There's a new viewer for digitised items in the British Library's collections](http://blogs.bl.uk/digital-scholarship/2016/12/new-viewer-digitised-collections-british-library.html) announcement on implementation of the Universal Viewer.
 - [The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images](https://purl.stanford.edu/df650pk4327) paper published for the 2015 Archiving Conference in Los Angeles, CA
+
 
 ## Experiments and Fun
 
