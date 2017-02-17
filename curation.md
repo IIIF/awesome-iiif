@@ -25,7 +25,7 @@ Visit the link to the resource and evaluate whether it is appropriate for our aw
 
 ### Approvals
 
-All new items ought to have the approval of 3 Curators of Awesome before being merged or added. Approval can be signaled with a thumbs up from any curator. Any approvals ought to come from someone else other than the submitter or someone associated with the item. Bug fixes like broken links can be made immediately by anyone with commit rights.
+All new items ought to have the approval of 2 Curators of Awesome before being merged or added. Approval can be signaled with a thumbs up from any curator. Any approvals ought to come from someone else other than the submitter or someone associated with the item. Bug fixes like broken links can be made immediately by anyone with commit rights.
 
 ### Sections
 
@@ -33,4 +33,4 @@ If you see the need to add a new section or rearrange items into different secti
 
 ### Weeding
 
-One of the goals of the list is to be current for the best practices and tools available. Resources can go out of date and do a disservice to the community to continue to list them. Over time some links will no longer resolve, a demo will no longer be functional, or a tool superseded. Periodically curators will review the links currently on the list and consider if any ought to be removed. The same approval process for additions will be used for removals.
+One of the goals of the list is to be current for the best practices and tools available. Resources can go out of date and do a disservice to the community to continue to list them. Over time some links will no longer resolve, a demo will no longer be functional, or a tool superseded. Periodically curators will review the links currently on the list and consider if any ought to be removed. The same approval process for additions will be used for removals. In-person conference (Spring) and working group (Fall) meetings will be opportunities to review the list for curation and weeding. 
