@@ -26,6 +26,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Discovery](#discovery)
 - [Annotations](#annotations)
 - [Implementations](#implementations)
+- [CMS Integration](#cms-integration)
 - [Newspapers](#newspapers)
 - [Writing](#writing)
 - [Experiments and Fun](#experiments-and-fun)
@@ -177,6 +178,13 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [Georeferencer](http://www.georeferencer.com/) can take maps accessible via IIIF and referenced to modern maps.
 - [hocrviewer](https://github.com/jbaiter/hocrviewer-mirador) can display and search OCRed documents in the [hOCR format](http://kba.github.io/hocr-spec/1.2/) with Mirador. Contains a simple implementation of the Content Search API with SQLite.
 - [LUNA Imaging](http://www.lunaimaging.com/iiif/) digital collections software supports the Presentation API in LUNA 7.2.5. See [more details about LUNA and IIIF](https://doc.lunaimaging.com/display/V72D/IIIF+in+LUNA) and [demo of LUNA with IIIF in action](https://youtu.be/88IkZ0LSWyI).
+
+## CMS Integration
+
+Content Management Systems (CMS) modules that implement or leverage the IIIF APIs.
+
+- [IIIF Image Field](https://www.drupal.org/sandbox/sdellis/2421047) - Drupal 7 module that provides an easy way to add IIIF Images to content types, and configure their display. Supports Image API versions 1.0 or 2.0.
+- [UniversalViewer4Omeka](https://github.com/Daniel-KM/UniversalViewer4Omeka) - Omeka plugin that implements the IIIF APIs (Image and Presentation) and integrates the UniversalViewer into Omeka.
 
 ## Newspapers
 
