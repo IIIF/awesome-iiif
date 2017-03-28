@@ -165,6 +165,7 @@ These are resources that are specifically useful for working with newspapers. Ma
 
 Blog posts, press releases, and other writing about IIIF.
 
+- [An Introduction to IIIF](http://resources.digirati.com/iiif/an-introduction-to-iiif/) rundown by Digirati of the basic components and benefits of IIIF, aimed at a non-technical audience.
 - [Zoom in to 9.3 Million Internet Archive Books and Images - through IIIF](https://blog.archive.org/2015/10/23/zoom-in-to-9-3-million-internet-archive-books-and-images-through-iiif/) blog on the Internet Archive's adoption of IIIF.
 - [IIIF support for the Qatar Digital Library](http://www.cogapp.com/blog/iiif-support-qatar-digital-library).
 - [Comprendre IIIF et l’interopérabilité des bibliothèques numériques](http://bsa.biblio.univ-lille3.fr/blog/2016/11/comprendre-iiif-interoperabilite-bibliotheques-numeriques/) blog post giving an overview of IIIF, in French.
