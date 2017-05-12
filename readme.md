@@ -146,6 +146,7 @@ Slide decks and presentation videos with a focus on IIIF.
 - [Video from IIIF event at the National Gallery of Art](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6iQpKTXnhnlQpmoMLT1fB7) in May 2015.
 - [Video from the outreach event at the Museum of Modern Art ](https://www.youtube.com/playlist?list=PLYPP1-8uH9c5smSD2wyVgsqKxD218khZq) in May 2016.
 - [Collection of slide decks](http://www.slideshare.net/IIIF_io/clipboards) from various IIIF events.
+- [Discovery, Reuse, Research, and Crowdsourcing: IIIF Experiences from the National Library of Wales](https://www.slideshare.net/GlenRobson/discovery-reuse-research-and-crowdsourcing-iiif-experiences-from-the-nlw) slides by Glen Robson.
 
 ## Discovery
 
