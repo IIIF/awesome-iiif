@@ -180,6 +180,10 @@ Sites which have implemented IIIF in some respect. Note what standards or other 
 - [Georeferencer](http://www.georeferencer.com/) can take maps accessible via IIIF and referenced to modern maps.
 - [hocrviewer](https://github.com/jbaiter/hocrviewer-mirador) can display and search OCRed documents in the [hOCR format](http://kba.github.io/hocr-spec/1.2/) with Mirador. Contains a simple implementation of the Content Search API with SQLite.
 - [LUNA Imaging](http://www.lunaimaging.com/iiif/) digital collections software supports the Presentation API in LUNA 7.2.5. See [more details about LUNA and IIIF](https://doc.lunaimaging.com/display/V72D/IIIF+in+LUNA) and [demo of LUNA with IIIF in action](https://youtu.be/88IkZ0LSWyI).
+- [Yale Center for British Art](http://britishart.yale.edu/) provides at least 80,000 images via the IIIF Image and Presentation APIs, using the Cantaloupe IIIF Server. See example [item record](http://collections.britishart.yale.edu/vufind/Record/1669236), [top-level collection manifest](http://manifests.britishart.yale.edu/collection/top), and [example IIIF Presentation API manifest](http://manifests.britishart.yale.edu/manifest/5005).
+- [Harvard Art Museums](http://www.harvardartmuseums.org/) serves over 200,000 images via the IIIF Image and Presentation APIs, using Mirador. See [example item](http://www.harvardartmuseums.org/tour/drawing-the-invention-of-a-modern-medium/slide/8568) and [example manifest](http://iiif.harvardartmuseums.org/manifests/object/299843).
+- [Carnegie Museum of Art](http://cmoa.org/about/) utilizes the IIIF Image API level 0 for static files, with links to manifests provided on object pages, using an OpenSeadragon client and Amazon S3 to store images. See example [collection manifest](https://cmoa-records-images.s3.amazonaws.com/collection/top.json) and [object manifest](http://cmoa-records-images.s3.amazonaws.com/fv001_001_003_001_B014_F05_002/manifest.json), as well as [implementation code documentation](https://github.com/cmoa/iiif_s3).
+- [The Frick Collection](http://digitalcollections.frick.org/digico/#/) allows users to compare multiple images in Mirador.
 
 ## CMS Integration
 
