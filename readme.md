@@ -146,6 +146,10 @@ Tutorials for how to accomplish functionality in your applications.
 - [Getting started with IIIF](https://iiif.github.io/training/intro-to-iiif/) Introduction originally presented during a workshop at the 2017 Code4Lib Conference at Los Angeles, CA
 - [Image API Playground](https://www.learniiif.org/image-api/playground/) - Visual form-based way to explore the Image API parameters.  Developed for a course at Georgia Tech by Jack Reed.
 
+Tutorials for how to use the Mirador Viewer.
+
+- [Tutorial Mirador Viewer](http://heron-net.be/libisplus/themes/LIBIS_PLUS/images/Docs/Tutorial_Mirador.pdf) explains all the features of Mirador and how to use them.
+
 ## Videos and Slide Decks
 
 Slide decks and presentation videos with a focus on IIIF.
