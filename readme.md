@@ -22,7 +22,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Presentation Manifest Tools](#presentation-manifest-tools)
 - [Content Search API Servers](#content-search-api)
 - [Tutorials](#tutorials)
-- [Presentations and Slide Decks](#presentations-and-slide-decks)
+- [Videos and Slide Decks](#videos-and-slide-decks)
 - [Discovery](#discovery)
 - [Annotations](#annotations)
 - [Implementations](#implementations)
@@ -72,7 +72,7 @@ These shims allow you to use an image server that does not currently support III
   - [Scalebar Plugin](https://github.com/NIST-ISG/OpenSeadragonScalebar) OpenSeadragon plugin for physical scale overlay.
   - [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) OpenSeadragon plugin with utility functions.
 - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) lightweight, extensible IIIF image viewer.
-- [Mirador](https://github.com/IIIF/mirador) multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome). 
+- [Mirador](https://github.com/IIIF/mirador) multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
 - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility.
 - [IIIFViewer](https://github.com/klokantech/iiifviewer) IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3
 
