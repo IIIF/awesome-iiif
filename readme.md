@@ -122,6 +122,12 @@ Libraries and applications that support the Content Search API.
 
 - [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 
+## Authentication
+
+Some resources about the IIIF Authentication API.
+
+- [IIIF Auth Demonstrator](https://iiifauth.digtest.co.uk/) - Manifests with accompanying images that demonstrate various IIIF authentication modes.
+
 ## Tutorials
 
 Tutorials for how to accomplish functionality in your applications.
