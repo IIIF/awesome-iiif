@@ -166,7 +166,11 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 ## Annotations
 
-While annotations are not specified by IIIF they are an important enabling technology. This section currently contains a list of annotation servers.
+While annotations are not specified by IIIF they are an important enabling technology. 
+
+- [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
+
+### Annotation Servers
 
 - [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
@@ -232,6 +236,7 @@ Blog posts, press releases, and other writing about IIIF.
 - [Exquisite Corpse](https://github.com/harvardartmuseums/exquisite-iiif-demo) - A prototype that deliberately mixes up portrait paintings. Created using Node.js by Jeff Steward, Harvard Art Museums.
 - [3D trade cards explorer](http://labs.cogapp.com/tc/) - A 3D environment that displays nineteenth-century trade cards from the [Boston Public Library](https://www.digitalcommonwealth.org/collections/commonwealth:gq67jz045). Designed to be viewed on a mobile phone, ideally with Google Cardboard. Created using three.js by Jon White, Cogapp.
 - [Sleep Stories](http://bitly.com/wcquilt) - an experiment with the W3C Web Annotation Data Model. The  annotations present a sequence of stories associated with a large image. Optimised for mobile. Created by Andrew Dyton and Stephen Fraser, Digirati, for Wellcome Collection.
+- [Storiiies](http://storiiies.cogapp.com/) - Cogapp's showcase of recent experiments in digital storytelling using IIIF.
 
 ## Community
 
