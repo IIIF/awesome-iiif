@@ -21,6 +21,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Presentation API Shims](#presentation-api-shims)
 - [Presentation Manifest Tools](#presentation-manifest-tools)
 - [Content Search API Servers](#content-search-api)
+- [Authentication](#authentication)
 - [Tutorials](#tutorials)
 - [Videos and Slide Decks](#videos-and-slide-decks)
 - [Discovery](#discovery)
@@ -121,6 +122,13 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 Libraries and applications that support the Content Search API.
 
 - [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
+
+## Authentication
+
+Some resources about the IIIF Authentication API.
+
+- [IIIF Auth Demonstrator](https://iiifauth.digtest.co.uk/) - Manifests with accompanying images that demonstrate various IIIF authentication modes.
+- [IIIF.io : the hardest part will be saying "no".](http://mcormond.blogspot.com/2017/06/iiif-hardest-part-saying-no.html) - Blog post by Russell McOrmond considering the challenges of restricting access to Canadiana's resources.
 
 ## Tutorials
 
