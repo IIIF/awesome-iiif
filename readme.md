@@ -91,7 +91,7 @@ Various tools for working with images such as cropping tools.
 - [OpenSeadragon Cropping Tool](http://sul-dlss.github.io/iiif-cropper/demo/) - Script to allow for cropping an image from within OpenSeadragon.
 - [Wikimedia Commons Image Cropper](http://zone47.com/crotos/lab/cropper/) - Create IIIF image regions from image files at Wikimedia Commons.
 - [TryIIIF](http://tryiiif.herokuapp.com/) - Example tool for viewing any web-accessible image within a couple IIIF Image Viewers.
-- [Compariscope](https://vanda.github.io/iiif-features/ ) - Compariscope by the Victoria & Albert.  A demo app (just ES5 here), which runs stand-alone in a browser, intended for embedding within a CMS. Useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.
+- [Compariscope](https://vanda.github.io/iiif-features/) - Compariscope by the Victoria & Albert.  A demo app (just ES5 here), which runs stand-alone in a browser, intended for embedding within a CMS. Useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.
 
 ## Presentation API Libraries
 - [Manifesto](https://github.com/UniversalViewer/manifesto) IIIF Presentation API client and server utility library.
