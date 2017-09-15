@@ -21,6 +21,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Presentation API Shims](#presentation-api-shims)
 - [Presentation Manifest Tools](#presentation-manifest-tools)
 - [Content Search API Servers](#content-search-api)
+- [Authentication](#authentication)
 - [Tutorials](#tutorials)
 - [Videos and Slide Decks](#videos-and-slide-decks)
 - [Discovery](#discovery)
