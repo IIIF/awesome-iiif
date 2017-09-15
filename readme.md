@@ -21,8 +21,9 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Presentation API Shims](#presentation-api-shims)
 - [Presentation Manifest Tools](#presentation-manifest-tools)
 - [Content Search API Servers](#content-search-api)
+- [Authentication](#authentication)
 - [Tutorials](#tutorials)
-- [Presentations and Slide Decks](#presentations-and-slide-decks)
+- [Videos and Slide Decks](#videos-and-slide-decks)
 - [Discovery](#discovery)
 - [Annotations](#annotations)
 - [Implementations](#implementations)
@@ -72,7 +73,7 @@ These shims allow you to use an image server that does not currently support III
   - [Scalebar Plugin](https://github.com/NIST-ISG/OpenSeadragonScalebar) OpenSeadragon plugin for physical scale overlay.
   - [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) OpenSeadragon plugin with utility functions.
 - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) lightweight, extensible IIIF image viewer.
-- [Mirador](https://github.com/IIIF/mirador) multi-up workspace.
+- [Mirador](https://github.com/IIIF/mirador) multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
 - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility.
 - [IIIFViewer](https://github.com/klokantech/iiifviewer) IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3
 
@@ -91,6 +92,8 @@ Various tools for working with images such as cropping tools.
 - [OpenSeadragon Cropping Tool](http://sul-dlss.github.io/iiif-cropper/demo/) - Script to allow for cropping an image from within OpenSeadragon.
 - [Wikimedia Commons Image Cropper](http://zone47.com/crotos/lab/cropper/) - Create IIIF image regions from image files at Wikimedia Commons.
 - [TryIIIF](http://tryiiif.herokuapp.com/) - Example tool for viewing any web-accessible image within a couple IIIF Image Viewers.
+- [Compariscope](https://vanda.github.io/iiif-features/) - A demo app by the Victoria & Albert useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.
+- [IIIF Image Manipulation Tool](https://jbhoward-dublin.github.io/IIIF-imageManipulation/index.html?imageID=https://iiif.ucd.ie/loris/ivrla:10408) - Tool for manipulating IIIF Images by John Howard at University College Dublin.
 
 ## Presentation API Libraries
 - [Manifesto](https://github.com/UniversalViewer/manifesto) IIIF Presentation API client and server utility library.
@@ -122,6 +125,13 @@ Libraries and applications that support the Content Search API.
 
 - [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 
+## Authentication
+
+Some resources about the IIIF Authentication API.
+
+- [IIIF Auth Demonstrator](https://iiifauth.digtest.co.uk/) - Manifests with accompanying images that demonstrate various IIIF authentication modes.
+- [IIIF.io : the hardest part will be saying "no".](http://mcormond.blogspot.com/2017/06/iiif-hardest-part-saying-no.html) - Blog post by Russell McOrmond considering the challenges of restricting access to Canadiana's resources.
+
 ## Tutorials
 
 Tutorials for how to accomplish functionality in your applications.
@@ -134,6 +144,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) uses IIIF as an example to explain APIs.
 - [Image Choice video](https://www.youtube.com/watch?v=4AJPVktQ1Zw) demonstration of how a canvas can have a choice of images and a viewer can toggle between them.
 - [Getting started with IIIF](https://iiif.github.io/training/intro-to-iiif/) Introduction originally presented during a workshop at the 2017 Code4Lib Conference at Los Angeles, CA
+- [Image API Playground](https://www.learniiif.org/image-api/playground/) - Visual form-based way to explore the Image API parameters.  Developed for a course at Georgia Tech by Jack Reed.
 
 ## Videos and Slide Decks
 
@@ -158,7 +169,11 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 ## Annotations
 
-While annotations are not specified by IIIF they are an important enabling technology. This section currently contains a list of annotation servers.
+While annotations are not specified by IIIF they are an important enabling technology. 
+
+- [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
+
+### Annotation Servers
 
 - [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
@@ -225,6 +240,7 @@ Blog posts, press releases, and other writing about IIIF.
 - [3D trade cards explorer](http://labs.cogapp.com/tc/) - A 3D environment that displays nineteenth-century trade cards from the [Boston Public Library](https://www.digitalcommonwealth.org/collections/commonwealth:gq67jz045). Designed to be viewed on a mobile phone, ideally with Google Cardboard. Created using three.js by Jon White, Cogapp.
 - [Sleep Stories](http://bitly.com/wcquilt) - an experiment with the W3C Web Annotation Data Model. The  annotations present a sequence of stories associated with a large image. Optimised for mobile. Created by Andrew Dyton and Stephen Fraser, Digirati, for Wellcome Collection.
 - [X-raying Balenciaga](https://www.vam.ac.uk/articles/x-raying-balenciaga) - Beautiful use of IIIF images to show X-rays of Balenciaga fashion by the Victoria & Albert Museum.
+- [Storiiies](http://storiiies.cogapp.com/) - Cogapp's showcase of recent experiments in digital storytelling using IIIF.
 
 ## Community
 
