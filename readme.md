@@ -160,11 +160,9 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 While annotations are not specified by IIIF they are an important enabling technology. 
 
-- [Innovatively repurposing content across multiple platforms](http://storiiies.cogapp.com/) - a blog post and demos about using annotations for storytelling.
+- [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
 
 ### Annotation Servers
-
-This section currently contains a list of annotation servers.
 
 - [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
