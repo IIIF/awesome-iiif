@@ -134,6 +134,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) uses IIIF as an example to explain APIs.
 - [Image Choice video](https://www.youtube.com/watch?v=4AJPVktQ1Zw) demonstration of how a canvas can have a choice of images and a viewer can toggle between them.
 - [Getting started with IIIF](https://iiif.github.io/training/intro-to-iiif/) Introduction originally presented during a workshop at the 2017 Code4Lib Conference at Los Angeles, CA
+- [Image API Playground](https://www.learniiif.org/image-api/playground/)  Developed for a course at Georgia Tech by Jack Reed.
 
 ## Videos and Slide Decks
 
