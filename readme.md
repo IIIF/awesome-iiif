@@ -178,6 +178,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 - [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
 - [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
+- [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) - IIIF annotations JS client over IPFS.
 
 ## Implementations
 
