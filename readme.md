@@ -76,6 +76,7 @@ These shims allow you to use an image server that does not currently support III
 - [Mirador](https://github.com/IIIF/mirador) multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
 - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility.
 - [IIIFViewer](https://github.com/klokantech/iiifviewer) IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3
+- [Tify](https://github.com/subugoe/tify) is a slim and fast IIIF document viewer built with Vue.js
 
 ## Image API Libraries
 - [iiif-image-api](https://github.com/dbmdz/iiif-image-api) Java IIIF Image API libraries.
