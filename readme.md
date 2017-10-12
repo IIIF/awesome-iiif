@@ -43,7 +43,7 @@ The IIIF community has developed several standards for interoperable web-based i
 
 ## Additional Lists
 
-- [Implementations](- [Reading and Viewing](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md))
+- [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md)
 - [Reading and Viewing](https://github.com/IIIF/awesome-iiif/blob/master/reading-viewing.md)
 
 ## Image Servers
