@@ -41,6 +41,7 @@ The IIIF community has developed several standards for interoperable web-based i
 - [Content Search API](http://iiif.io/api/search/) - specifies interoperability mechanism for searching within annotations.
 - [Authentication API](http://iiif.io/api/auth/) - describes a set of workflows for guiding the user through an existing access control system.
 - [External Services API Annex](http://iiif.io/api/annex/services/) - describes the set of related services that have been identified as useful to reference from the IIIF APIs.
+- [API Annex Documents](http://iiif.io/api/annex/) - List of all API annex documents and API implementation notes.
 
 ## Additional Lists
 
