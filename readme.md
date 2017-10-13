@@ -236,6 +236,8 @@ Science, Technology, Engineering, Math/Medicine
 
 IIIF is a community-based initiative that relies on active participation, discussion, and input. To get involved and learn more, see the [IIIF Community page](http://iiif.io/community/).
 - Join the [IIIF-Discuss email list](https://groups.google.com/forum/#!forum/iiif-discuss).
+- Read quarterly [IIIF Community Newsletters](http://iiif.io/news/) to stay up to date with the latest community activities.
+- [Submit a IIIF-related news item](https://goo.gl/forms/2LMe9zUHVBEbI62C3) to the IIIF Community Newsletter.
 - Contribute to one of the [IIIF community and/or technical groups](http://iiif.io/community/groups/).
 - Participate in the bi-weekly IIIF community calls. See the [IIIF community calendar](http://iiif.io/community/groups/) for details.
 - Learn more about the [IIIF Consortium](http://iiif.io/community/consortium/).
