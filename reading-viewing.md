@@ -4,6 +4,22 @@ A lightly edited, chronologically ordered list of resources about or mentioning 
 
 **Guidelines:** Most recent additions should be added at the top. Descriptions are optional but can include information on why someone would want to follow the link. Headings should be the month when the resource was added.
 
+## October 2017
+_List pulled from issues highlighted at IIIF Toronto Working Meeting._
+
+- [Discovery, Reuse, Research, and Crowdsourcing: IIIF Experiences from the National Library of Wales](https://www.slideshare.net/GlenRobson/discovery-reuse-research-and-crowdsourcing-iiif-experiences-from-the-nlw) slides by Glen Robson.
+- [Bodleian Library: Printing Errors and Corrections in the Gutenberg Bible](http://bav.bodleian.ox.ac.uk/news/printing-errors-and-corrections-in-the-gutenberg-bible)A nice example of how easy IIIF makes side-by-side viewing and comparison
+- [Store and display high resolution images with the International Image Interoperability Framework (IIIF)](http://acrl.ala.org/techconnect/post/2016/02) ACRL _Tech Connect_ feature on IIIF and digital humanities
+- [Preparing Europeana for IIIF involvement](https://pro.europeana.eu/project/preparing-europeana-for-iiif-involvement) Final report from Europeana task force on emerging use and utility of IIIF
+- [Announcement on FromthePage](http://iiif.io/news/2017/02/17/from-the-page/) Brumfield Labs has implemented full client-side and server-side support for IIIF in the collaborative digital edition tool FromThePage to support textual issues.
+- [Announcement on Pontiiif](http://iiif.io/news/2017/02/17/pontiiif/) Pontiiif, a cross repository search engine for IIIF manifests, created by Brumfield Labs
+- [IIIF – The digitized manuscripts revolution we’ve all been waiting for!](https://sexycodicology.net/blog/iiif-international-image-interoperability-framework/) blog post demonstrating usage of IIIF for digital humanities
+- [Introduction to IIIF](http://resources.digirati.com/iiif/an-introduction-to-iiif/) explanation and examples of what IIIF is and how it can be used by Tom Crane of Digirati
+- [Digitized Manuscripts Presentation](https://www.youtube.com/watch?v=YMt3I2QBJI0&feature=youtu.be) IIIF session at Coalition of Networked Information, December 2016
+- [Discovery, Reuse, Research, and Crowdsourcing](https://www.slideshare.net/GlenRobson/discovery-reuse-research-and-crowdsourcing-iiif-experiences-from-the-nlw) Presentation slides by Glen Robson demonstrating crowdsourcing of OCR correction and tagging with annotations and IIIF
+- [But Where's my model?](http://resources.digirati.com/iiif/an-introduction-to-iiif/wheres-my-model.html) article by Tom Crane, Digrati, clarifying the relation between the Presentation API and existing descriptive metadata models
+- [Introduction to IIIF at TCDL 2017](http://content.fromthepage.com/iiif-at-tcdl-2017/) blog synoposis for introduction to IIIF for manuscripts from panel at Texas Conference on Digital Libraries (TCDL) by Ben Brumfield
+
 ## Before October 2017
 
 _This initial set of resources was extracted from the awesome list._
