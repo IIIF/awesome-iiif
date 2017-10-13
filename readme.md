@@ -205,6 +205,7 @@ These are resources that are specifically useful for working with newspapers. Ma
 - [open-oni](https://github.com/open-oni/open-oni) is a friendly fork of [chronam](https://github.com/libraryofcongress/chronam) which is a webapp for viewing National Digital Newspaper Program data from the Library of Congress.
 - [docker-open-oni](https://github.com/open-oni/docker-open-oni) is a Docker friendly setup for open-oni, which will set up and configure the Web application as well as the MySQL, Solr and RAIS Image Server.
 - [ndnp_iiif](https://github.com/umd-mith/ndnp_iiif) is a Python program for turning [National Digital Newspaper Program data](https://www.loc.gov/ndnp/) into static IIIF JSON that is ready for mounting on the Web.
+- [DigiPress - The newspaper portal of the Bayerische Staatsbibliothek (Bavarian State Library)](https://digipress.digitale-sammlungen.de/) now supports IIIF - see a [sample issue](https://digipress.digitale-sammlungen.de/view/bsb00012484_00382_u001/1), [sample collection](https://api.digitale-sammlungen.de/iiif/presentation/bsb00012484/view.html), and [collection manifest](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00012484/manifest). 
 
 ## Experiments and Fun
 
