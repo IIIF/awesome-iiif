@@ -28,6 +28,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Annotations](#annotations)
 - [CMS Integration](#cms-integration)
 - [Newspapers](#newspapers)
+- [STEM](#stem)
 - [Experiments and Fun](#experiments-and-fun)
 - [Community](#community)
 
@@ -205,6 +206,12 @@ These are resources that are specifically useful for working with newspapers. Ma
 - [open-oni](https://github.com/open-oni/open-oni) is a friendly fork of [chronam](https://github.com/libraryofcongress/chronam) which is a webapp for viewing National Digital Newspaper Program data from the Library of Congress.
 - [docker-open-oni](https://github.com/open-oni/docker-open-oni) is a Docker friendly setup for open-oni, which will set up and configure the Web application as well as the MySQL, Solr and RAIS Image Server.
 - [ndnp_iiif](https://github.com/umd-mith/ndnp_iiif) is a Python program for turning [National Digital Newspaper Program data](https://www.loc.gov/ndnp/) into static IIIF JSON that is ready for mounting on the Web.
+
+## STEM
+
+Science, Technology, Engineering, Math/Medicine
+
+- [CellXplorer](https://courses.edx.org/courses/course-v1:HarvardX+MCB64.1x+2T2016/d16e07a5cec442eeb7cd9dfcb695dce0/) - Cell biology annotations in a deep zoom viewer.
 
 ## Experiments and Fun
 
