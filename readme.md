@@ -168,8 +168,8 @@ Slide decks and presentation videos with a focus on IIIF.
 - [Video from the outreach event at the Museum of Modern Art ](https://www.youtube.com/playlist?list=PLYPP1-8uH9c5smSD2wyVgsqKxD218khZq) in May 2016.
 - [Collection of slide decks](http://www.slideshare.net/IIIF_io/clipboards) from various IIIF events.
 - [An Introduction to the International Image Interoperability Framework](https://drive.google.com/file/d/0BwIq5pa1_rvfMnhCZmtzNTc5dnc/view) - Presentation introducing IIIF for new audiences as "the API for humans" - also contains videos from other IIIF presentations.
-- [Introduction to IIIF](https://drive.google.com/open?id=0B8APFBow4sHvNUNDQmp1Yko4VjQ)Extensive presentation introducing IIIF with numerous examples and video demos, Beijing, October 2017.
-- [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC)A German translation of the above presentation.
+- [Introduction to IIIF](https://drive.google.com/open?id=0B8APFBow4sHvNUNDQmp1Yko4VjQ) Extensive presentation introducing IIIF with numerous examples and video demos, Beijing, October 2017.
+- [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC) A German translation of the above presentation.
 
 
 ## Discovery
