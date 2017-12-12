@@ -199,6 +199,12 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 - [IIIF Image Field](https://www.drupal.org/sandbox/sdellis/2421047) - Drupal 7 module that provides an easy way to add IIIF Images to content types, and configure their display. Supports Image API versions 1.0 or 2.0.
 - [UniversalViewer4Omeka](https://github.com/Daniel-KM/UniversalViewer4Omeka) - Omeka plugin that implements the IIIF APIs (Image and Presentation) and integrates the UniversalViewer into Omeka.
 
+## Framework Integration
+
+Web application framework modules that implement or leverage the IIIF APIs.
+
+- [djiiif](https://github.com/rogerhoward/djiiif) - djiiif is a Django package designed to make integrating the IIIF Image API easier by extending Django's ImageField. By defining one or more named "profiles", your ImageFields expose IIIF-compatible URLs for each profile..
+
 ## Newspapers
 
 These are resources that are specifically useful for working with newspapers. Many of them are outputs of the [IIIF Newspaper Community Group](http://iiif.io/community/groups/newspapers/).
