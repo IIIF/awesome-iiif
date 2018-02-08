@@ -88,7 +88,7 @@ These shims allow you to use an image server that does not currently support III
 - [piffle](https://github.com/emory-lits-labs/piffle) Python library for generating and parsing IIIF Image API URLs.
 - [iiif_url](https://github.com/NCSU-Libraries/iiif_url) Ruby library for creating and parsing IIIF Image API URLs.
 - [iiif](https://github.com/zimeon/iiif) Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
-- [iOSTiledViewer](https://github.com/moravianlibrary/iOSTiledViewer) IIIF image API and Zoomify viewer for iOS, written in Swift
+- [iOSTiledViewer](https://github.com/moravianlibrary/iOSTiledViewer) - IIIF image API and Zoomify viewer for iOS, written in Swift
 
 ## Image Tools
 
@@ -114,7 +114,7 @@ Various tools for working with images such as cropping tools.
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) IIIF tree menu sortable by date with multi-select capability.
 - [Tripoli](https://ddmal.github.io/tripoli/) IIIF Presentation API 2.0+ validation library.
 - [ViewDir](https://viewdir.github.io/index.html) documentation on IIIF-related libraries and components, from an open community of designers and developers interested in creating composable and interoperable interfaces for consuming and creating online content.
-- [Swiiift](https://github.com/mejackreed/Swiiift) IIIF presentation API library for Swift.
+- [Swiiift](https://github.com/mejackreed/Swiiift) - IIIF presentation API library for Swift.
 
 ## Presentation API Shims
 
