@@ -24,3 +24,4 @@ A lightly edited list of sites that have implemented at least one of the IIIF st
 - [The Wolsey Manuscripts](http://www.wolseymanuscripts.ac.uk/manuscripts) using reunification functionality and Mirador.
 - [DIGITAL EAST ASIA COLLECTIONS of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/?locale=en)
 - [Digital Collections iiif of the Bavarian State Library](https://app.digitale-sammlungen.de/bookshelf/?language=en)
+- [University of Illinois at Urbana-Champaign Library](https://digital.library.illinois.edu/items?fq%5B%5D=primary_media_category%3A0) uses IIIF and UniversalViewer for presenting their image collections on their Digital Collections website. IIIF manifest.json and info.json are provided under the button "View" on the viewer's page (top right).
