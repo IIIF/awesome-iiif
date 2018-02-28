@@ -23,3 +23,7 @@ A lightly edited list of sites that have implemented at least one of the IIIF st
 - [Beyond Words: Illuminating Manuscripts in Boston Collections](http://beyondwords2016.org/) multi-institutional collaboration using annotated IIIF manifests and Mirador (see [example](http://beyondwords2016.org/objects/leaves-from-an-antiphonal-and-a-gradual)).
 - [The Wolsey Manuscripts](http://www.wolseymanuscripts.ac.uk/manuscripts) using reunification functionality and Mirador.
 - [Cuban Digital Collections] (http://iiif.sld.cu/) A collaboration project between cuban libraries to publish digital collections of cultural heritage works using IIIF standards. 
+- [DIGITAL EAST ASIA COLLECTIONS of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/?locale=en) provides digitized versions of Chinese, Japanese and Korean printings and manuscripts (dating back to the 7th – 19th century) which are held by the Bavarian State Library (BSB)
+- [Digital Collections iiif of the Bavarian State Library](https://app.digitale-sammlungen.de/bookshelf/?language=en) provides access to the digitized objects of the Bavarian State Library utilizing the IIIF-APIs and Mirador
+- [University of Illinois at Urbana-Champaign Library](https://digital.library.illinois.edu/items?fq%5B%5D=primary_media_category%3A0) uses IIIF and UniversalViewer for presenting their image collections on their Digital Collections website. IIIF manifest.json and info.json are provided under the button "View" on the viewer's page (top right).
+
