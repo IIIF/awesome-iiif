@@ -22,3 +22,5 @@ A lightly edited list of sites that have implemented at least one of the IIIF st
 - [DigiPress - The newspaper portal of the Bayerische Staatsbibliothek (Bavarian State Library)](https://digipress.digitale-sammlungen.de/) now supports IIIF - see a [sample issue](https://digipress.digitale-sammlungen.de/view/bsb00012484_00382_u001/1), [sample collection](https://api.digitale-sammlungen.de/iiif/presentation/bsb00012484/view.html), and [collection manifest](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00012484/manifest).
 - [Beyond Words: Illuminating Manuscripts in Boston Collections](http://beyondwords2016.org/) multi-institutional collaboration using annotated IIIF manifests and Mirador (see [example](http://beyondwords2016.org/objects/leaves-from-an-antiphonal-and-a-gradual)).
 - [The Wolsey Manuscripts](http://www.wolseymanuscripts.ac.uk/manuscripts) using reunification functionality and Mirador.
+- [DIGITAL EAST ASIA COLLECTIONS of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/?locale=en)
+- [Digital Collections iiif of the Bavarian State Library](https://app.digitale-sammlungen.de/bookshelf/?language=en)
