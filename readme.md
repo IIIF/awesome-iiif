@@ -84,7 +84,7 @@ These shims allow you to use an image server that does not currently support III
 - [Tify](https://github.com/subugoe/tify) is a slim and fast IIIF document viewer built with Vue.js
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
 ## Image API Libraries
-- [iiif-image-api](https://github.com/dbmdz/iiif-image-api) Java IIIF Image API libraries.
+- [iiif-apis](https://github.com/dbmdz/iiif-apis) Java IIIF API libraries.
 - [piffle](https://github.com/emory-lits-labs/piffle) Python library for generating and parsing IIIF Image API URLs.
 - [iiif_url](https://github.com/NCSU-Libraries/iiif_url) Ruby library for creating and parsing IIIF Image API URLs.
 - [iiif](https://github.com/zimeon/iiif) Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
@@ -108,7 +108,7 @@ Various tools for working with images such as cropping tools.
 - [Manifold](https://github.com/UniversalViewer/manifold) Wraps Manifesto to provide viewer state and related utilities.
 - [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests.
 - [iiif-prezi](https://github.com/IIIF/iiif-prezi) Python library providing a reference implementation.
-- [iiif-presentation-api](https://github.com/dbmdz/iiif-presentation-api) Java IIIF Presentation API libraries.
+- [iiif-apis](https://github.com/dbmdz/iiif-apis) Java IIIF API libraries.
 - [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) PHP library for generating IIIF manifests.
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) npm module for creating and manipulating IIIF manifests.
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) IIIF tree menu sortable by date with multi-select capability.
