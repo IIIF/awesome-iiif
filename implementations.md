@@ -26,4 +26,4 @@ A lightly edited list of sites that have implemented at least one of the IIIF st
 - [DIGITAL EAST ASIA COLLECTIONS of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/?locale=en) provides digitized versions of Chinese, Japanese and Korean printings and manuscripts (dating back to the 7th – 19th century) which are held by the Bavarian State Library (BSB)
 - [Digital Collections iiif of the Bavarian State Library](https://app.digitale-sammlungen.de/bookshelf/?language=en) provides access to the digitized objects of the Bavarian State Library utilizing the IIIF-APIs and Mirador
 - [University of Illinois at Urbana-Champaign Library](https://digital.library.illinois.edu/items?fq%5B%5D=primary_media_category%3A0) uses IIIF and UniversalViewer for presenting their image collections on their Digital Collections website. IIIF manifest.json and info.json are provided under the button "View" on the viewer's page (top right).
-
+- [vHMML](https://www.vhmml.org) provides access to [The Hill Museum & Manuscript Library's](http://hmml.org/) (HMML) digital and microfilm collections. vHMML uses Mirador and the digilib IIIF image server.
