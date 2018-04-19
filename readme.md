@@ -197,6 +197,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
 - [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
 - [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) - IIIF annotations JS client over IPFS.
+- [annotot](https://github.com/mejackreed/annotot) - Simple IIIF annotations mounted in a Ruby on Rails applications.
 
 ## CMS Integration
 
