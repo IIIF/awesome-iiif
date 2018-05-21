@@ -207,6 +207,7 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 
 - [IIIF Image Field](https://www.drupal.org/sandbox/sdellis/2421047) - Drupal 7 module that provides an easy way to add IIIF Images to content types, and configure their display. Supports Image API versions 1.0 or 2.0.
 - [UniversalViewer4Omeka](https://github.com/Daniel-KM/UniversalViewer4Omeka) - Omeka plugin that implements the IIIF APIs (Image and Presentation) and integrates the UniversalViewer into Omeka.
+- [Embed Mirador in Omeka Classic 2.3](https://github.com/utlib/IiifItems) - IIIF Toolkit to integrate Mirador in Omeka.
 
 ## Newspapers
 
