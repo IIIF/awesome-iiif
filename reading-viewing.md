@@ -4,6 +4,10 @@ A lightly edited, chronologically ordered list of resources about or mentioning 
 
 **Guidelines:** Most recent additions should be added at the top. Descriptions are optional but can include information on why someone would want to follow the link. Headings should be the month when the resource was added.
 
+## May 2018
+
+- [IIIF and the BDR](https://library.brown.edu/DigitalTechnologies/iiif-and-the-bdr/) - Blog Post by Ben Cail on the Brown University Library's implementation detais and how it integrates with the Brown Digital Repository
+
 ## October 2017
 _List pulled from issues highlighted at IIIF Toronto Working Meeting._
 
