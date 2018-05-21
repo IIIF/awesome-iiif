@@ -73,7 +73,7 @@ These shims allow you to use an image server that does not currently support III
 - [Flask-IIIF](https://github.com/inveniosoftware/flask-iiif) Flask extension to support IIIF in Python/Flask applications. See [Flask-IIIF previewer demo](http://flask-iiif.herokuapp.com/previewer) and [Flask-IIIF RESTful demo](http://flask-iiif.herokuapp.com/restful).
 
 ## Image Viewers
-- [Universal Viewer](https://github.com/UniversalViewer/universalviewer) is a rich embeddable interface.
+- [Universal Viewer](https://github.com/UniversalViewer/universalviewer) A rich embeddable interface.
 - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) has IIIF tile support.
   - [Scalebar Plugin](https://github.com/NIST-ISG/OpenSeadragonScalebar) OpenSeadragon plugin for physical scale overlay.
   - [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) OpenSeadragon plugin with utility functions.
@@ -81,9 +81,9 @@ These shims allow you to use an image server that does not currently support III
 - [Mirador](https://github.com/IIIF/mirador) multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
 - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility.
 - [IIIFViewer](https://github.com/klokantech/iiifviewer) IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3
-- [Tify](https://github.com/subugoe/tify) is a slim and fast IIIF document viewer built with Vue.js
+- [Tify](https://github.com/subugoe/tify) A slim and fast IIIF document viewer built with Vue.js
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
-- [CanvasPanel](http://canvas-panel.netlify.com/) is a React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
+- [CanvasPanel](http://canvas-panel.netlify.com/) A React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 
 ## Image API Libraries
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) Java IIIF API libraries.
@@ -122,7 +122,7 @@ Various tools for working with images such as cropping tools.
 
 These shims allow you to use systems with presentation metadata (e.g. structure or sequences) that do not currently support IIIF. If you have not implemented the Presentation API yet, this is probably not where you want to start.
 
-- [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API, and has samples for NYPL, Flickr, and the US National Archives.
+- [Shimmy](https://github.com/mejackreed/shimmy) A Ruby gem designed to help you build shims for the IIIF Presentation API, and has samples for NYPL, Flickr, and the US National Archives.
 - [Chronicling America](https://github.com/azaroth42/presentation-api-shims/tree/master/shims/chronam) for newspapers digitized in the National Digital Newspaper Program.
 
 ## Presentation Manifest Tools
@@ -152,7 +152,7 @@ Tutorials for how to accomplish functionality in your applications.
 
 - [IIIF Image API live demo](http://yenda.tools/en/iiif-api-demo-en/) Learn about the structure of a IIIF URL through manipulating the parameters and seeing the results in a live demo.
 - [IIIF Implementation Guide](http://iiif.io/assets/acc_implementation_guide_011017.pdf)  A step-by-step walkthrough of how to implement IIIF.
-- [IIIF Quick Start Guide](http://iiif.io/technical-details/) is a quick overview of how you might get started with implementing various IIIF standards.
+- [IIIF Quick Start Guide](http://iiif.io/technical-details/) A quick overview of how you might get started with implementing various IIIF standards.
 - [Drag and Drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) a IIIF image into Mirador.
 - [Fellow Travelers: The Canterbury Tales and IIIF](http://web.stanford.edu/group/dmstech/cgi-bin/wordpress/author/blalbrit/) by Benjamin Albritton includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
 - [IIIF Intro (fr)](http://doc.biblissima-condorcet.fr/introduction-iiif) Introduction to IIIF (in French).
@@ -182,7 +182,7 @@ Slide decks and presentation videos with a focus on IIIF.
 
 Links to help you discover IIIF resources that have been shared, demonstrations of IIIF discovery and useful discovery tools.
 
-- [iiif-universe](https://github.com/ryanfb/iiif-universe) is a repository that includes links to known IIIF presentation manifest collections.
+- [iiif-universe](https://github.com/ryanfb/iiif-universe) A repository that includes links to known IIIF presentation manifest collections.
 - [iNQUIRE demo](http://inquire.armtest.uk/) is a demo of an open-source IIIF-compliant research and discovery platform. This is the IIIF-compliant version of the platform driving [Digital Bodleian] (http://digital.bodleian.ox.ac.uk/).
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) is the Github repository for iNQUIRE.
 - [Musiclibs](https://musiclibs.net) provides cross-library search of thousands of musical scores and manuscripts.
