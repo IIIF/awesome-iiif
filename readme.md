@@ -86,10 +86,10 @@ These shims allow you to use an image server that does not currently support III
 - [CanvasPanel](http://canvas-panel.netlify.com/) is a React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 
 ## Image API Libraries
-- [iiif-apis](https://github.com/dbmdz/iiif-apis) Java IIIF API libraries.
-- [piffle](https://github.com/emory-lits-labs/piffle) Python library for generating and parsing IIIF Image API URLs.
-- [iiif_url](https://github.com/NCSU-Libraries/iiif_url) Ruby library for creating and parsing IIIF Image API URLs.
-- [iiif](https://github.com/zimeon/iiif) Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
+- [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
+- [piffle](https://github.com/emory-lits-labs/piffle) - Python library for generating and parsing IIIF Image API URLs.
+- [iiif_url](https://github.com/NCSU-Libraries/iiif_url) - Ruby library for creating and parsing IIIF Image API URLs.
+- [iiif](https://github.com/zimeon/iiif) - Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
 - [iOSTiledViewer](https://github.com/moravianlibrary/iOSTiledViewer) - IIIF image API and Zoomify viewer for iOS, written in Swift.
 
 ## Image Tools
