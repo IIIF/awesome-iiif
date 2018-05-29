@@ -4,6 +4,10 @@ A lightly edited, chronologically ordered list of resources about or mentioning 
 
 **Guidelines:** Most recent additions should be added at the top. Descriptions are optional but can include information on why someone would want to follow the link. Headings should be the month when the resource was added.
 
+## May 2018
+
+- [IIIF at the Library of Congress](https://blogs.loc.gov/thesignal/2018/05/iiif-at-the-library-of-congress/) - Interview by Abbey Potter with Chris Thatcher about IIIF at the Library of Congress.
+
 ## October 2017
 _List pulled from issues highlighted at IIIF Toronto Working Meeting._
 
