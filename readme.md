@@ -188,6 +188,10 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) is the Github repository for iNQUIRE.
 - [Musiclibs](https://musiclibs.net) provides cross-library search of thousands of musical scores and manuscripts.
 
+### Import to Viewers
+
+- [Open in IIIF Viewer](https://github.com/2SC1815J/open-in-iiif-viewer) - A web browser extension to open IIIF manifest link in your favorite IIIF viewer. 
+
 ## Annotations
 
 While annotations are not specified by IIIF they are an important enabling technology.
