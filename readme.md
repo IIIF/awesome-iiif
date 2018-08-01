@@ -197,6 +197,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 While annotations are not specified by IIIF they are an important enabling technology.
 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
+- [In the Spotlight](http://playbills.libcrowds.com/) - Crowdsourced contributions are serialised according to the [Web Annotations Data Model](https://www.w3.org/TR/annotation-model/).
 
 ### Annotation Servers
 
@@ -247,6 +248,7 @@ Science, Technology, Engineering, Math/Medicine
 - [X-raying Balenciaga](https://www.vam.ac.uk/articles/x-raying-balenciaga) - Beautiful use of IIIF images to show X-rays of Balenciaga fashion by the Victoria & Albert Museum.
 - [Storiiies](http://storiiies.cogapp.com/) - Cogapp's showcase of recent experiments in digital storytelling using IIIF.
 - [Old Map Room](https://itunes.apple.com/us/app/old-map-room/id1347431506) - An AppleTV application that uses IIIF to turn any room into a map room.
+- [In the Spotlight](http://playbills.libcrowds.com/) - A crowdsourcing project to 'help bring past performances from the British Library’s historic playbills collection to life'. Images are loaded via IIIF manifests generated from an internal repository for use by the Library's Universal Viewer, dramatically reducing hosting costs for the project.
 
 ## Community
 
