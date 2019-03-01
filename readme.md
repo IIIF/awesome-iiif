@@ -198,9 +198,11 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 While annotations are not specified by IIIF they are an important enabling technology.
 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
+- [iiif-annotation library](https://github.com/NCSU-Libraries/iiif-annotation) - JavaScript library for viewing annotations. 
 
 ### Annotation Servers
 
+- [Local IIIF Annotation Server](https://github.com/dnoneill/annotate) - Jekyll front end, Flask backend for creating and saving annotations with Mirador.
 - [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
 - [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
