@@ -198,7 +198,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 While annotations are not specified by IIIF they are an important enabling technology.
 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
-- [iiif-annotation JavaScript library](https://github.com/NCSU-Libraries/iiif-annotation) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML <img> object or OpenSeadragon viewer. 
+- [iiif-annotation JavaScript library](https://github.com/NCSU-Libraries/iiif-annotation) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays. 
 
 ### Annotation Servers
 
