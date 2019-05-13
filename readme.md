@@ -84,6 +84,7 @@ These shims allow you to use an image server that does not currently support III
 - [Tify](https://github.com/subugoe/tify) is a slim and fast IIIF document viewer built with Vue.js
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
 - [CanvasPanel](http://canvas-panel.netlify.com/) is a React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
+- [OpenLayers](https://openlayers.org) is a high-performance, feature-packed library for creating interactive maps on the web, which has IIIF tile support.
 
 ## Image API Libraries
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
