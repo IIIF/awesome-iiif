@@ -258,6 +258,7 @@ Science, Technology, Engineering, Math/Medicine
 - [Storiiies](http://storiiies.cogapp.com/) - Cogapp's showcase of recent experiments in digital storytelling using IIIF.
 - [Old Map Room](https://itunes.apple.com/us/app/old-map-room/id1347431506) - An AppleTV application that uses IIIF to turn any room into a map room.
 - [ANTLITZ.NINJA](https://antlitz.ninja) - Award-winning digital art app that cuts and re-combines historical portraits. Based on IIIF.
+- [cover.boutique](https://cover.boutique) - Award-winning web application to create designs for smartphone cases from IIIF resources.
 
 ## Community
 
