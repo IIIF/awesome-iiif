@@ -213,6 +213,9 @@ While annotations are not specified by IIIF they are an important enabling techn
 - [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) - IIIF annotations JS client over IPFS.
 - [annotot](https://github.com/mejackreed/annotot) - Simple IIIF annotations mounted in a Ruby on Rails applications.
 
+### Annotation Clients 
+- [IIIF Annotation Studio](https://github.com/atomotic/iiif-annotation-studio) - Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.
+
 ## CMS Integration
 
 Content Management Systems (CMS) modules that implement or leverage the IIIF APIs.
