@@ -189,6 +189,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [iNQUIRE demo](http://inquire.armtest.uk/) is a demo of an open-source IIIF-compliant research and discovery platform. This is the IIIF-compliant version of the platform driving [Digital Bodleian] (http://digital.bodleian.ox.ac.uk/).
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) is the Github repository for iNQUIRE.
 - [Musiclibs](https://musiclibs.net) provides cross-library search of thousands of musical scores and manuscripts.
+- [IIIF Explorer](https://researchworks.oclc.org/iiif-explorer/) OCLC's IIIF Explorer is a prototype application that searches across images (all IIIF-enabled) in the CONTENTdm digital content management systems hosted by OCLC.
 
 ### Import to Viewers
 
