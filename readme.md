@@ -86,7 +86,6 @@ These shims allow you to use an image server that does not currently support III
 - [CanvasPanel](http://canvas-panel.netlify.com/) is a React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 - [OpenLayers](https://openlayers.org) is an high-performance, feature-packed Javascript library especially built for maps. It supports the IIIF Image API 2.1.
 
-
 ## Image API Libraries
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
 - [piffle](https://github.com/emory-lits-labs/piffle) - Python library for generating and parsing IIIF Image API URLs.
