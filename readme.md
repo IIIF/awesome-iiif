@@ -58,7 +58,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [SIPI](https://github.com/dhlab-basel/Sipi) IIIFv2 image server written in C++.
 - [RAIS](https://github.com/uoregon-libraries/rais-image-server) 100% open source tile server for JP2 images written in Go.
 - [digilib](http://digilib.sourceforge.net) image server written in Java.
-- [Cantaloupe](https://medusa-project.github.io/cantaloupe/) - image server written in Java.
+- [Cantaloupe](https://cantaloupe-project.github.io/) - image server written in Java.
 - [iiif_s3](https://github.com/cmoa/iiif_s3) Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 - [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) IIIF server written in Java supporting IIIF Image and Presentation API.
 - [go-iiif](https://github.com/thisisaaronland/go-iiif) IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif)).
@@ -84,6 +84,8 @@ These shims allow you to use an image server that does not currently support III
 - [Tify](https://github.com/subugoe/tify) is a slim and fast IIIF document viewer built with Vue.js
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
 - [CanvasPanel](http://canvas-panel.netlify.com/) is a React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
+- [OpenLayers](https://openlayers.org) is an high-performance, feature-packed Javascript library especially built for maps. It supports the IIIF Image API 2.1.
+- [Goobi viewer](https://github.com/intranda/goobi-viewer-core) is an open source presentation software for digital libraries, museums, archives and galleries.
 
 ## Image API Libraries
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
@@ -100,7 +102,6 @@ Various tools for working with images such as cropping tools.
 - [Stanford Cropper](https://github.com/lizfischer/iiif-tools#cropper) - Simple image cropper.
 - [OpenSeadragon Cropping Tool](http://sul-dlss.github.io/iiif-cropper/demo/) - Script to allow for cropping an image from within OpenSeadragon.
 - [Wikimedia Commons Image Cropper](http://zone47.com/crotos/lab/cropper/) - Create IIIF image regions from image files at Wikimedia Commons.
-- [TryIIIF](http://tryiiif.herokuapp.com/) - Example tool for viewing any web-accessible image within a couple IIIF Image Viewers.
 - [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 - [Compariscope](https://vanda.github.io/iiif-features/) - A demo app by the Victoria & Albert useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.
 
@@ -131,7 +132,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [demetsiiify](https://github.com/jbaiter/demetsiiify) - Web service for creating IIIF manifests from METS/MODS documents.
 - [biiif](https://github.com/edsilv/biiif/) - Organise your files according to a simple naming convention to generate IIIF v3 manifests.
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo)
-
+- [File Analyzer IIIF Manifest Generator from Existing Metadata](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/) .  Georgetown's desktop application that will generate IIIF manifest files from existing metadata files.
 
 ## Content Search API
 
@@ -152,7 +153,7 @@ Some resources about the IIIF Authentication API.
 
 Tutorials for how to accomplish functionality in your applications.
 
-- [IIIF Image API live demo](http://yenda.tools/en/iiif-api-demo-en/) - Learn about the structure of a IIIF URL through manipulating the parameters and seeing the results in a live demo.
+- [Image API Playground](https://www.learniiif.org/image-api/playground) - Learn about the structure of a IIIF URL through manipulating the parameters and seeing the results in a live demo.
 - [IIIF Implementation Guide](http://iiif.io/assets/acc_implementation_guide_011017.pdf)  A step-by-step walkthrough of how to implement IIIF.
 - [IIIF Quick Start Guide](http://iiif.io/technical-details/) is a quick overview of how you might get started with implementing various IIIF standards.
 - [Drag and Drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) a IIIF image into Mirador.
@@ -164,6 +165,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [Image API Playground](https://www.learniiif.org/image-api/playground/) - Visual form-based way to explore the Image API parameters.  Developed for a course at Georgia Tech by Jack Reed.
 - [IIIF Workshop](http://ronallo.com/iiif-workshop/) - An online workshop that covers the basics of IIIF including the Image and Presentation API's
 - [Introduction to IIIF](https://resources.digirati.com/iiif/an-introduction-to-iiif/) - A thorough introduction to the IIIF specifications and tools for using them, by Tom Crane at Digirati.
+- [Introduction to IIIF in Portuguese](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36) - Covers Image API, Presentation API, and annotations.
 
 ## Videos and Slide Decks
 
@@ -189,6 +191,10 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [iNQUIRE demo](http://inquire.armtest.uk/) is a demo of an open-source IIIF-compliant research and discovery platform. This is the IIIF-compliant version of the platform driving [Digital Bodleian] (http://digital.bodleian.ox.ac.uk/).
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) is the Github repository for iNQUIRE.
 - [Musiclibs](https://musiclibs.net) provides cross-library search of thousands of musical scores and manuscripts.
+- [IIIF Explorer](https://researchworks.oclc.org/iiif-explorer/) OCLC's IIIF Explorer is a prototype application that searches across images (all IIIF-enabled) in the CONTENTdm digital content management systems hosted by OCLC.
+- [Europeana's IIIF filtered search](https://www.europeana.eu/portal/en/search?q=provider_aggregation_edm_isShownBy%3A*iiif*&view=grid) Europeana provides a filter to identify all IIIF-enabled resources in its collections
+- [IIIF Discovery in Japan](http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/page/home) is a prototype discovery system for IIIF resources in Japan
+- [Biblissima IIIF-Collections](https://iiif.biblissima.fr/collections/) is a prototype application that allows you to search across IIIF-compliant manuscripts and rare books dated before 1800. 
 
 ### Import to Viewers
 
@@ -199,14 +205,19 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 While annotations are not specified by IIIF they are an important enabling technology.
 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
+- [iiif-annotation viewer JavaScript library](https://github.com/NCSU-Libraries/iiif-annotation) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays. 
 
 ### Annotation Servers
 
+- [Local IIIF Annotation Server](https://github.com/dnoneill/annotate) - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.
 - [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
 - [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
 - [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) - IIIF annotations JS client over IPFS.
 - [annotot](https://github.com/mejackreed/annotot) - Simple IIIF annotations mounted in a Ruby on Rails applications.
+
+### Annotation Clients 
+- [IIIF Annotation Studio](https://github.com/atomotic/iiif-annotation-studio) - Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.
 
 ## CMS Integration
 
@@ -249,11 +260,14 @@ Science, Technology, Engineering, Math/Medicine
 - [X-raying Balenciaga](https://www.vam.ac.uk/articles/x-raying-balenciaga) - Beautiful use of IIIF images to show X-rays of Balenciaga fashion by the Victoria & Albert Museum.
 - [Storiiies](http://storiiies.cogapp.com/) - Cogapp's showcase of recent experiments in digital storytelling using IIIF.
 - [Old Map Room](https://itunes.apple.com/us/app/old-map-room/id1347431506) - An AppleTV application that uses IIIF to turn any room into a map room.
+- [ANTLITZ.NINJA](https://antlitz.ninja) - Award-winning digital art app that cuts and re-combines historical portraits. Based on IIIF.
+- [cover.boutique](https://cover.boutique) - Award-winning web application to create designs for smartphone cases from IIIF resources.
 
 ## Community
 
 IIIF is a community-based initiative that relies on active participation, discussion, and input. To get involved and learn more, see the [IIIF Community page](http://iiif.io/community/).
 - Join the [IIIF-Discuss email list](https://groups.google.com/forum/#!forum/iiif-discuss).
+- Join [IIIF Slack](https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5_y4mtWqVrBA/viewform) for the most up to date and broad discussions.
 - Read quarterly [IIIF Community Newsletters](http://iiif.io/news/) to stay up to date with the latest community activities.
 - [Submit a IIIF-related news item](https://goo.gl/forms/2LMe9zUHVBEbI62C3) to the IIIF Community Newsletter.
 - Contribute to one of the [IIIF community and/or technical groups](http://iiif.io/community/groups/).
