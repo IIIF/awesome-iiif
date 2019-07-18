@@ -141,6 +141,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 Libraries and applications that support the Content Search API.
 
 - [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
+- [Whiiif](https://github.com/mbennett-uoe/whiiif) - Lightweight Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.
 
 ## Authentication
 
