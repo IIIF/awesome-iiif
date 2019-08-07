@@ -63,6 +63,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [iiif_s3](https://github.com/cmoa/iiif_s3) Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 - [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) IIIF server written in Java supporting IIIF Image and Presentation API.
 - [go-iiif](https://github.com/thisisaaronland/go-iiif) IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif)).
+- [Micrio](https://micr.io/iiif) cloud-hosted server supporting Presentation API.
 
 ## Image Server Shims
 
@@ -86,6 +87,7 @@ These shims allow you to use an image server that does not currently support III
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
 - [CanvasPanel](http://canvas-panel.netlify.com/) is a React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 - [OpenLayers](https://openlayers.org) is an high-performance, feature-packed Javascript library especially built for maps. It supports the IIIF Image API 2.1.
+- [Micrio](https://micr.io/) high-performance storytelling lib (markers, tours, audio, 360) working on all platforms with full IIIF compatibility.
 
 ## Image API Libraries
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
@@ -119,6 +121,7 @@ Various tools for working with images such as cropping tools.
 - [Tripoli](https://ddmal.github.io/tripoli/) - IIIF Presentation API 2.0+ validation library.
 - [ViewDir](https://viewdir.github.io/index.html) documentation on IIIF-related libraries and components, from an open community of designers and developers interested in creating composable and interoperable interfaces for consuming and creating online content.
 - [Swiiift](https://github.com/mejackreed/Swiiift) - IIIF presentation API library for Swift.
+- [Micrio](https://micr.io/iiif/presentation-api) - Output image galleries, individual image tours, enriched image content as Presentation API manifests.
 
 ## Presentation API Shims
 
@@ -227,6 +230,7 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 
 - [IIIF Image Field](https://www.drupal.org/sandbox/sdellis/2421047) - Drupal 7 module that provides an easy way to add IIIF Images to content types, and configure their display. Supports Image API versions 1.0 or 2.0.
 - [UniversalViewer4Omeka](https://github.com/Daniel-KM/UniversalViewer4Omeka) - Omeka plugin that implements the IIIF APIs (Image and Presentation) and integrates the UniversalViewer into Omeka.
+- [Micrio](https://micr.io/docs/server-api) - Micrio tiling server API with full IIIF image API output for large image collections.
 
 ## Newspapers
 
