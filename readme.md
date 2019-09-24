@@ -31,7 +31,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [STEM](#stem)
 - [Experiments and Fun](#experiments-and-fun)
 - [Community](#community)
-- [Digital Asset Management (DAMs)](#digital-asset-management (DAMs))
+- [Digital Asset Management (DAMs)](#digital-asset-management-dams-that-support-iiif)
 
 ## Standards
 
