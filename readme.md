@@ -227,7 +227,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 Content Management Systems (CMS) modules that implement or leverage the IIIF APIs.
 
 - [IIIF Image Field](https://www.drupal.org/sandbox/sdellis/2421047) - Drupal 7 module that provides an easy way to add IIIF Images to content types, and configure their display. Supports Image API versions 1.0 or 2.0.
-- [UniversalViewer Omeka Plugin](https://github.com/Daniel-KM/UniversalViewer4Omeka) - Plugin for Omeka that adds the IIIF specifications in order to act like an IIPImage server, and the UniversalViewer, a unified online player for any file. It can display books, images, maps, audio, movies, pdf, 3D views, and anything else as long as the appropriate extensions are installed.
+- [UniversalViewer Omeka S Plugin](https://omeka.org/s/modules/UniversalViewer/) - Universal Viewer is a module for Omeka S that integrates UniversalViewer, a unified online player for any files, so it can display books, images, maps, audio, movies, pdf, 3D, and anything else as long as the appropriate extension is installed. Rotation, zoom, inside search, etc. may be managed too. It uses the resources of any IIIF compliant server.
 - [IIIF Toolkit](https://github.com/utlib/IiifItems) - IIIF Toolkit by University of Toronto Libraries is a plugin for Omeka Classic (2.3+) that integrates Mirador with a built-in annotator, a manifest generator, Simple Pages shortcodes and Exhibit Builder blocks for a rich presentation experience.
 
 ## Newspapers
