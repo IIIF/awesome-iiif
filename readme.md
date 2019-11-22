@@ -289,7 +289,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
  - [Luna](http://www.lunaimaging.com/iiif)
  - [Goobi viewer](https://github.com/intranda/goobi-viewer-core)
- - [muzz.app platform](https://muzz.app)
+ - [Muzz.app platform](https://muzz.app)
 
 ## License
 
