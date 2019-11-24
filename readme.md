@@ -290,6 +290,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [Luna](http://www.lunaimaging.com/iiif)
  - [Goobi viewer](https://github.com/intranda/goobi-viewer-core)
  - [Muzz.app platform](https://muzz.app)
+ - [ResCarta](https://rescarta.org/)
 
 ## License
 
