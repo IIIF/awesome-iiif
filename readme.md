@@ -183,7 +183,8 @@ Slide decks and presentation videos with a focus on IIIF.
 - [An Introduction to the International Image Interoperability Framework](https://drive.google.com/file/d/0BwIq5pa1_rvfMnhCZmtzNTc5dnc/view) - Presentation introducing IIIF for new audiences as "the API for humans" - also contains videos from other IIIF presentations.
 - [Introduction to IIIF](https://drive.google.com/open?id=0B8APFBow4sHvNUNDQmp1Yko4VjQ) Extensive presentation introducing IIIF with numerous examples and video demos, Beijing, October 2017.
 - [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC) A German translation of the above presentation.
-
+- [YouTube playlist from IIIF Göttingen Showcase](https://www.youtube.com/playlist?list=PLYPP1-8uH9c534aTUrsPX1xX86KGVWmAu) A day of presentations geared toward relative newcomers to IIIF, covering a variety of general topics; Recorded June 24, 2019 (see [full program](https://iiif.io/event/2019/goettingen/showcase/) for links to abstracts).
+- [YouTube playlist from IIIF Göttingen Lightning Talks](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6rqC0KbHUPyfmHkfvCQYCk) Short talks (usually ~10 minutes) covering a variety of topics and new IIIF implementations; recorded June June 26, 2019 (see [full program](https://iiif.io/event/2019/goettingen/wednesday/) for links to abstracts).
 
 ## Discovery
 
