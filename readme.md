@@ -288,7 +288,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [Rosetta](https://knowledge.exlibrisgroup.com/Rosetta/Training/What's_New_Videos/Rosetta_5-3)
  - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
  - [Luna](http://www.lunaimaging.com/iiif)
- - [Goobi viewer](https://github.com/intranda/goobi-viewer-core)
+ - [Goobi](https://goobi.io)
  - [Muzz.app platform](https://muzz.app)
  - [ResCarta](https://rescarta.org/)
 
