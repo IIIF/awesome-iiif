@@ -94,6 +94,7 @@ These shims allow you to use an image server that does not currently support III
 - [iiif](https://github.com/zimeon/iiif) - Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
 - [iOSTiledViewer](https://github.com/moravianlibrary/iOSTiledViewer) - IIIF image API and Zoomify viewer for iOS, written in Swift.
 - [image-iiif](https://github.com/conlect/image-iiif) - A bring your own framework solution for implementing IIIF Image API 2.1 with PHP.
+- [libvips](https://libvips.github.io/libvips/) - A fast image processing library with low memory needs. Includes an operation that can build image pyramids compatible with IIIF Image API.
 
 ## Image Tools
 
