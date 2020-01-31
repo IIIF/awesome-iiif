@@ -210,7 +210,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
 - [In the Spotlight](http://playbills.libcrowds.com/) - Crowdsourced contributions are serialised according to the [Web Annotations Data Model](https://www.w3.org/TR/annotation-model/).
-- [iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/iiif-annotation/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays. 
+- [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays. 
 
 ### Annotation Servers
 
