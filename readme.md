@@ -58,7 +58,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [riiif](https://github.com/curationexperts/riiif) written in Ruby as a Rails engine.
 - [SIPI](https://github.com/dhlab-basel/Sipi) IIIFv2 image server written in C++.
 - [RAIS](https://github.com/uoregon-libraries/rais-image-server) 100% open source tile server for JP2 images written in Go.
-- [digilib](http://digilib.sourceforge.net) image server written in Java.
+- [digilib](https://robcast.github.io/digilib/) image server written in Java.
 - [Cantaloupe](https://cantaloupe-project.github.io/) - image server written in Java.
 - [iiif_s3](https://github.com/cmoa/iiif_s3) Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 - [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) IIIF server written in Java supporting IIIF Image and Presentation API.
@@ -210,7 +210,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
 - [In the Spotlight](http://playbills.libcrowds.com/) - Crowdsourced contributions are serialised according to the [Web Annotations Data Model](https://www.w3.org/TR/annotation-model/).
-- [iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/iiif-annotation/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays. 
+- [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays. 
 
 ### Annotation Servers
 
