@@ -63,6 +63,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [iiif_s3](https://github.com/cmoa/iiif_s3) Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 - [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) IIIF server written in Java supporting IIIF Image and Presentation API.
 - [go-iiif](https://github.com/thisisaaronland/go-iiif) IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif)).
+- [serverless-iiif](https://github.com/nulib/serverless-iiif) IIIF Image API 2.1 server as an AWS Serverless Application
 
 ## Image Server Shims
 
