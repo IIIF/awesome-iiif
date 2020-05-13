@@ -37,11 +37,11 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 
 The IIIF community has developed several standards for interoperable web-based image delivery.
 
-- [Image API](http://iiif.io/api/image/) - specifies a web service that returns an image in response to a standard HTTP or HTTPS request.
-- [Presentation API](http://iiif.io/api/presentation/) - provides the information necessary to allow a rich, online viewing environment for primarily image-based objects to be presented to a human user, likely in conjunction with the IIIF Image API.
-- [Content Search API](http://iiif.io/api/search/) - specifies interoperability mechanism for searching within annotations.
-- [Authentication API](http://iiif.io/api/auth/) - describes a set of workflows for guiding the user through an existing access control system.
-- [External Services API Annex](http://iiif.io/api/annex/services/) - describes the set of related services that have been identified as useful to reference from the IIIF APIs.
+- [Image API](http://iiif.io/api/image/) - Specifies a web service that returns an image in response to a standard HTTP or HTTPS request.
+- [Presentation API](http://iiif.io/api/presentation/) - Provides the information necessary to allow a rich, online viewing environment for primarily image-based objects to be presented to a human user, likely in conjunction with the IIIF Image API.
+- [Content Search API](http://iiif.io/api/search/) - Specifies interoperability mechanism for searching within annotations.
+- [Authentication API](http://iiif.io/api/auth/) - Describes a set of workflows for guiding the user through an existing access control system.
+- [External Services API Annex](http://iiif.io/api/annex/services/) - Describes the set of related services that have been identified as useful to reference from the IIIF APIs.
 - [API Annex Documents](http://iiif.io/api/annex/) - List of all API annex documents and API implementation notes.
 
 ## Additional Lists
@@ -169,7 +169,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [IIIF Workshop](http://ronallo.com/iiif-workshop/) - An online workshop that covers the basics of IIIF including the Image and Presentation APIs.
 - [Introduction to IIIF](https://resources.digirati.com/iiif/an-introduction-to-iiif/) - A thorough introduction to the IIIF specifications and tools for using them, by Tom Crane at Digirati.
 - [Introduction to IIIF in Portuguese](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36) - Covers Image API, Presentation API, and annotations.
-- [Suggested measures for deploying IIIF in Swiss cultural heritage institutions (White paper)](https://doi.org/10.5281/zenodo.2640415) - by Julien A. Raemy & René Schneider (2019).
+- [Suggested measures for deploying IIIF in Swiss cultural heritage institutions (White paper)](https://doi.org/10.5281/zenodo.2640415) - Julien A. Raemy & René Schneider (2019).
 
 ## Videos and Slide Decks
 
@@ -193,7 +193,7 @@ Slide decks and presentation videos with a focus on IIIF.
 
 Links to help you discover IIIF resources that have been shared, demonstrations of IIIF discovery and useful discovery tools.
 
-- [iiif-universe](https://github.com/ryanfb/iiif-universe) - repository that includes links to known IIIF presentation manifest collections.
+- [iiif-universe](https://github.com/ryanfb/iiif-universe) - Repository that includes links to known IIIF presentation manifest collections.
 - [iNQUIRE demo](http://inquire.armtest.uk/) - Open-source IIIF-compliant research and discovery platform. This is the IIIF-compliant version of the platform driving [Digital Bodleian] (http://digital.bodleian.ox.ac.uk/).
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) - Github repository for iNQUIRE.
 - [Musiclibs](https://musiclibs.net) - Provides cross-library search of thousands of musical scores and manuscripts.
@@ -264,7 +264,7 @@ Science, Technology, Engineering, Math/Medicine
 - [IIIF Gallery](http://digirati-co-uk.github.io/iiif-gallery/src/) - A virtual art gallery using OpenSeadragon and custom image generation, created by Stephen Fraser, Digirati. Also see [full source code](https://github.com/digirati-co-uk/iiif-gallery/).
 - [Exquisite Corpse](https://github.com/harvardartmuseums/exquisite-iiif-demo) - A prototype that deliberately mixes up portrait paintings. Created using Node.js by Jeff Steward, Harvard Art Museums.
 - [3D trade cards explorer](http://labs.cogapp.com/tc/) - A 3D environment that displays nineteenth-century trade cards from the [Boston Public Library](https://www.digitalcommonwealth.org/collections/commonwealth:gq67jz045). Designed to be viewed on a mobile phone, ideally with Google Cardboard. Created using three.js by Jon White, Cogapp.
-- [Sleep Stories](http://bitly.com/wcquilt) - an experiment with the W3C Web Annotation Data Model. The  annotations present a sequence of stories associated with a large image. Optimised for mobile. Created by Andrew Dyton and Stephen Fraser, Digirati, for Wellcome Collection.
+- [Sleep Stories](http://bitly.com/wcquilt) - Experiment with the W3C Web Annotation Data Model. The  annotations present a sequence of stories associated with a large image. Optimised for mobile. Created by Andrew Dyton and Stephen Fraser, Digirati, for Wellcome Collection.
 - [Image Comparison with a Slider](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-sbs.html) - Image comparison using leaflet slider by Digirati.
 - [Image Comparison with a Magnifying Glass](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-mag.html) - Image comparison using leaflet magnifying glass by Digirati.
 - [X-raying Balenciaga](https://www.vam.ac.uk/articles/x-raying-balenciaga) - Beautiful use of IIIF images to show X-rays of Balenciaga fashion by the Victoria & Albert Museum.
