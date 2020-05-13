@@ -158,7 +158,7 @@ Some resources about the IIIF Authentication API.
 Tutorials for how to accomplish functionality in your applications.
 
 - [Image API Playground](https://www.learniiif.org/image-api/playground) - Learn about the structure of a IIIF URL through manipulating the parameters and seeing the results in a live demo.
-- [IIIF Implementation Guide](http://iiif.io/assets/acc_implementation_guide_011017.pdf)  - A step-by-step walkthrough of how to implement IIIF.
+- [IIIF Implementation Guide](http://iiif.io/assets/acc_implementation_guide_011017.pdf) - A step-by-step walkthrough of how to implement IIIF.
 - [IIIF Quick Start Guide](http://iiif.io/technical-details/) - Quick overview of how you might get started with implementing various IIIF standards.
 - [Drag and Drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) - Getting a IIIF image into Mirador with drag-and-drop and email.
 - [Fellow Travelers: The Canterbury Tales and IIIF](http://web.stanford.edu/group/dmstech/cgi-bin/wordpress/author/blalbrit/) - Benjamin Albritton; includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
