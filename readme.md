@@ -136,6 +136,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [biiif](https://github.com/edsilv/biiif/) - Organise your files according to a simple naming convention to generate IIIF v3 manifests.
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
 - [File Analyzer IIIF Manifest Generator from Existing Metadata](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/) - Georgetown's desktop application that will generate IIIF manifest files from existing metadata files.
+- [Simple Site IIIF Mirador Extension](https://jpadfield.github.io/simple-site/IIIF%20viewer.html) This [Simple Site](https://jpadfield.github.io/simple-site/) extension uses the IIIF image viewer Mirador to produce a customised presentation of a bespoke selection of IIIF manifests.
 
 ## Content Search API
 
