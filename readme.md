@@ -88,7 +88,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 - [OpenLayers](https://openlayers.org) - High-performance, feature-packed Javascript library especially built for maps. It supports the IIIF Image API 2.1.
 - [IIPMooViewer](https://iipimage.sourceforge.io/documentation/iipmooviewer/) - IIPMooViewer is an open source, Javascript and HTML5 image streaming and zooming client. IIPMooViewer is IIIF-compatible and works with IIPServer or other IIIF compatible servers. [Demo](https://iipimage.sourceforge.io/demo/)
-- [Micr.io Service](https://micr.io/iiif) - Micrio is a IIIF compatible image viewer and image server service, and also has compatibility for the IIIF Presentation API. [Demo](https://micr.io/showcases)
+- [Micr.io Service](https://micr.io/iiif) - Micrio is a IIIF compatible image viewer and image server service, and also has compatibility for the IIIF Presentation API.  [Demo](https://micr.io/showcases)
 
 ## Image API Libraries
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
