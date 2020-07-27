@@ -152,6 +152,7 @@ Some resources about the IIIF Authentication API.
 - [IIIF.io : the hardest part will be saying "no".](http://mcormond.blogspot.com/2017/06/iiif-hardest-part-saying-no.html) - Blog post by Russell McOrmond considering the challenges of restricting access to Canadiana's resources.
 - [iiif-auth-server](https://github.com/digirati-co-uk/iiif-auth-server) - A demo server implementation of all apsects of the IIIF Authentication specification.
 - [iiif-auth-client](https://github.com/digirati-co-uk/iiif-auth-client) - Client implementation of the IIIF Authentication specification.
+- [iiif-image-auth](https://github.com/robcast/iiif-image-auth) - A simple server implementation based on Docker and Flask.
 
 ## Tutorials
 
