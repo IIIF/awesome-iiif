@@ -191,6 +191,7 @@ Slide decks and presentation videos with a focus on IIIF.
 - [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC) - German translation of the above presentation.
 - [YouTube playlist from IIIF Göttingen Showcase](https://www.youtube.com/playlist?list=PLYPP1-8uH9c534aTUrsPX1xX86KGVWmAu) - Day of presentations geared toward relative newcomers to IIIF, covering a variety of general topics; Recorded June 24, 2019 (see [full program](https://iiif.io/event/2019/goettingen/showcase/) for links to abstracts).
 - [YouTube playlist from IIIF Göttingen Lightning Talks](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6rqC0KbHUPyfmHkfvCQYCk) - Short talks (usually ~10 minutes) covering a variety of topics and new IIIF implementations; recorded June June 26, 2019 (see [full program](https://iiif.io/event/2019/goettingen/wednesday/) for links to abstracts).
+- [YouTube playlist from IIIF Week 2020](https://www.youtube.com/watch?v=k1VsUZZTDNE&list=PLYPP1-8uH9c4QFWKf-dbv3Il4ukkuFAje) - Presentations and demos from the IIIF Week Online event which was held between 1 and 5 June 2020.
 - [DHtech Workshop: Image Servers and IIIF](https://doi.org/10.20375/0000-000b-cb01-f) - Slides and recording from a DARIAH-DE workshop in 2018 by Robert Casties.
 
 ## Discovery
