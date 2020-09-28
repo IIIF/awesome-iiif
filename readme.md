@@ -277,6 +277,7 @@ Science, Technology, Engineering, Math/Medicine
 - [ANTLITZ.NINJA](https://antlitz.ninja) - Award-winning digital art app that cuts and re-combines historical portraits. Based on IIIF.
 - [cover.boutique](https://cover.boutique) - Award-winning web application to create designs for smartphone cases from IIIF resources.
 - [Animal Crossing Art Generator](https://experiments.getty.edu/ac-art-generator) - Getty's tool leverages IIIF to create custom patterns featuring artwork from famous art collections around the world.
+- [Wax](https://minicomp.github.io/wax/) - Minimal computing for producing digital exhibitions with Jekyll.
 
 ## Community
 
