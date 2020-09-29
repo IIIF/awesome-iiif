@@ -302,6 +302,8 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [Goobi](https://goobi.io)
  - [Muzz.app platform](https://muzz.app)
  - [ResCarta](https://rescarta.org/)
+ - [CollectiveAccess](https://collectiveaccess.org/preservation)
+ - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
 
 ## License
 
