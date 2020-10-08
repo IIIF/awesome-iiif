@@ -20,6 +20,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 - [Presentation API Libraries](#presentation-api-libraries)
 - [Presentation API Shims](#presentation-api-shims)
 - [Presentation Manifest Tools](#presentation-manifest-tools)
+- [Exhibition and Guided Viewing Tools](#exhibition-and-guided-viewing-tools)
 - [Content Search API Servers](#content-search-api)
 - [Authentication](#authentication)
 - [Tutorials](#tutorials)
@@ -138,6 +139,22 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
 - [File Analyzer IIIF Manifest Generator from Existing Metadata](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/) - Georgetown's desktop application that will generate IIIF manifest files from existing metadata files.
 
+## Exhibition and Guided Viewing Tools
+
+Tools and resources that provide functionality for presenting IIIF materials in an exhibition-like setting (and potentially other functionality).
+
+- [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
+[Storiiies Editor](https://storiiies-editor.cogapp.com/) – a free online storytelling platform for creating guided tours of a single IIIF manifest using annotations.
+- [Simple Site IIIF Mirador Extension](https://jpadfield.github.io/simple-site/IIIF%20viewer.html) This [Simple Site](https://jpadfield.github.io/simple-site/) extension uses the IIIF image viewer Mirador to produce a customised presentation of a bespoke selection of IIIF manifests.
+- [Wax](https://minicomp.github.io/wax/) - a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility.
+- [Spotlight](http://spotlight.projectblacklight.org/) - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
+- [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
+
+**See Also**:
+- [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) feature which allows for the guided viewing of segments of a manifest, or the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
+- The Omeka-S plugins in the [CMS Integration](#cms-integration) section
+
+
 ## Content Search API
 
 Libraries and applications that support the Content Search API.
@@ -172,7 +189,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [Introduction to IIIF](https://resources.digirati.com/iiif/an-introduction-to-iiif/) - A thorough introduction to the IIIF specifications and tools for using them, by Tom Crane at Digirati.
 - [Introduction to IIIF in Portuguese](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36) - Covers Image API, Presentation API, and annotations.
 - [Suggested measures for deploying IIIF in Swiss cultural heritage institutions (White paper)](https://doi.org/10.5281/zenodo.2640415) - Julien A. Raemy & René Schneider (2019).
-- [Archiviiify](https://literarymachin.es/archiviiify/) - A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from 
+- [Archiviiify](https://literarymachin.es/archiviiify/) - A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from
 raffaele messuti / [@atomotic](https://github.com/atomotic)].
 
 ## Videos and Slide Decks
@@ -205,11 +222,11 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [IIIF Explorer](https://researchworks.oclc.org/iiif-explorer/) - OCLC's IIIF Explorer is a prototype application that searches across images (all IIIF-enabled) in the CONTENTdm digital content management systems hosted by OCLC.
 - [Europeana's IIIF filtered search](https://www.europeana.eu/portal/en/search?q=provider_aggregation_edm_isShownBy%3A*iiif*&view=grid) - Europeana provides a filter to identify all IIIF-enabled resources in its collections.
 - [IIIF Discovery in Japan](http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/page/home) - Prototype discovery system for IIIF resources in Japan.
-- [Biblissima IIIF-Collections](https://iiif.biblissima.fr/collections/) - Prototype application that allows you to search across IIIF-compliant manuscripts and rare books dated before 1800. 
+- [Biblissima IIIF-Collections](https://iiif.biblissima.fr/collections/) - Prototype application that allows you to search across IIIF-compliant manuscripts and rare books dated before 1800.
 
 ### Import to Viewers
 
-- [Open in IIIF Viewer](https://github.com/2SC1815J/open-in-iiif-viewer) - A web browser extension to open IIIF manifest link in your favorite IIIF viewer. 
+- [Open in IIIF Viewer](https://github.com/2SC1815J/open-in-iiif-viewer) - A web browser extension to open IIIF manifest link in your favorite IIIF viewer.
 
 ## Annotations
 
@@ -217,7 +234,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
 - [In the Spotlight](http://playbills.libcrowds.com/) - Crowdsourced contributions are serialised according to the [Web Annotations Data Model](https://www.w3.org/TR/annotation-model/).
-- [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays. 
+- [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
 
 ### Annotation Servers
 
@@ -228,7 +245,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 - [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) - IIIF annotations JS client over IPFS.
 - [annotot](https://github.com/mejackreed/annotot) - Simple IIIF annotations mounted in a Ruby on Rails applications.
 
-### Annotation Clients 
+### Annotation Clients
 - [IIIF Annotation Studio](https://github.com/atomotic/iiif-annotation-studio) - Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.
 
 ## CMS Integration
