@@ -150,8 +150,8 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Wax](https://minicomp.github.io/wax/) - a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility.
 - [Spotlight](http://spotlight.projectblacklight.org/) - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
-- [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) feature which allows for the guided viewing of segments of a manifest, or the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
-- The Omeka-S plugins in the [CMS Integration](#cms-integration) section
+- [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
+- [Omeka-S plugins](#cms-integration) - additional plugins and description in the [CMS Integration](#cms-integration) section
 
 
 ## Content Search API
