@@ -145,12 +145,11 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
 - [Storiiies Editor](https://storiiies-editor.cogapp.com/) – a free online storytelling platform for creating guided tours of a single IIIF manifest using annotations.
-- [Simple Site IIIF Mirador Extension](https://jpadfield.github.io/simple-site/IIIF%20viewer.html) This [Simple Site](https://jpadfield.github.io/simple-site/) extension uses the IIIF image viewer Mirador to produce a customised presentation of a bespoke selection of IIIF manifests.
+- [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
+- [Simple Site IIIF Mirador Extension](https://jpadfield.github.io/simple-site/IIIF%20viewer.html) - This [Simple Site](https://jpadfield.github.io/simple-site/) extension uses the IIIF image viewer Mirador to produce a customised presentation of a bespoke selection of IIIF manifests.
 - [Wax](https://minicomp.github.io/wax/) - a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility.
 - [Spotlight](http://spotlight.projectblacklight.org/) - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
-
-**See Also**:
 - [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) feature which allows for the guided viewing of segments of a manifest, or the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
 - The Omeka-S plugins in the [CMS Integration](#cms-integration) section
 
