@@ -196,6 +196,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [Suggested measures for deploying IIIF in Swiss cultural heritage institutions (White paper)](https://doi.org/10.5281/zenodo.2640415) - Julien A. Raemy & René Schneider (2019).
 - [Archiviiify](https://literarymachin.es/archiviiify/) - A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from
 raffaele messuti / [@atomotic](https://github.com/atomotic)].
+- [IIIF Workshop for DHNord2020](https://github.com/regisrob/Atelier_IIIF_Conference_DHNord_2020) - French langauge workshop with three exercises from a workshop entitled "Adopt and use IIIF standards for your digital image corpora," created by Régis Robineau (technical coordinator of Biblissima) and Johann Holland (TGIR Huma-Num).
 
 ## Videos and Slide Decks
 
