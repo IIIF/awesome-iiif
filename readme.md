@@ -255,6 +255,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 
 ### Annotation Clients
 - [IIIF Annotation Studio](https://github.com/atomotic/iiif-annotation-studio) - Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.
+- [Annonatate](https://annonatate.herokuapp.com) - Website that allows users to create annotations via their GitHub account. The website saves all the annotations to the user's GitHub. Also makes use of Annona and allows users to create custom Annona views.
 
 ## CMS Integration
 
