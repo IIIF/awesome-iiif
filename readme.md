@@ -57,7 +57,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [Loris](https://github.com/loris-imageserver/loris) - Written in Python.
 - [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) - High performance image server.
 - [riiif](https://github.com/curationexperts/riiif) - Written in Ruby as a Rails engine.
-- [SIPI](https://github.com/dhlab-basel/Sipi) - IIIFv2 image server written in C++.
+- [SIPI](https://github.com/dhlab-basel/Sipi) - IIIFv3 image server written in C++.
 - [RAIS](https://github.com/uoregon-libraries/rais-image-server) - 100% open source tile server for JP2 images written in Go.
 - [digilib](https://robcast.github.io/digilib/) - Image server written in Java.
 - [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java.
