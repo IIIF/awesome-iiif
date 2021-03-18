@@ -331,6 +331,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [ResCarta](https://rescarta.org/)
  - [CollectiveAccess](https://collectiveaccess.org)
  - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
+ - [Invenio](https://invenio-software.org/products/framework/)(Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
 
 ## License
 
