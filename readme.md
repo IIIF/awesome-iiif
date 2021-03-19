@@ -8,7 +8,7 @@ The International Image Interoperability Framework (IIIF) is a group of standard
 
 [![Contributing Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./contributing.md)
 
-**Disclaimer**: This list is created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
+**Disclaimer**: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, this list is created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
 
 ## Contents
 - [Standards](#standards)
