@@ -1,14 +1,14 @@
 # Awesome International Image Interoperability Framework (IIIF) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](http://iiif.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" align="right" width="100">](https://iiif.io/)
 
-A list of lists of awesome [IIIF](http://iiif.io/) resources.
+A list of lists of awesome [IIIF](https://iiif.io/) resources.
 
-The International Image Interoperability Framework (IIIF) is a group of standard APIs around sharing and reuse of media. It is also a growing community of galleries, libraries, archives, museums, companies, and others who develop the standards and interoperable software implementations. Content includes helpful links around each of the standards, demonstrations of their use, and tutorials and presentations. The list is especially helpful for orienting new community members and developers.
+The International Image Interoperability Framework (IIIF - "triple-eye-eff") is a group of standard APIs around sharing and reuse of media. It is also a growing community of galleries, libraries, archives, museums, companies, and others who develop the standards and interoperable software implementations. Content includes helpful links around each of the standards, demonstrations of their use, and tutorials and presentations. The list is especially helpful for orienting new community members and developers.
 
 [![Contributing Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./contributing.md)
 
-**Disclaimer**: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, this list is created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
+**Disclaimer**: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, these lists are created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
 
 ## Contents
 - [Standards](#standards)
@@ -67,6 +67,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [riiif](https://github.com/curationexperts/riiif) - Written in Ruby as a Rails engine.
 - [serverless-iiif](https://github.com/nulib/serverless-iiif) - IIIF Image API 2.1 server as an AWS Serverless Application.
 - [SIPI](https://github.com/dasch-swiss/sipi) - IIIFv3 image server written in C++.
+- [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server
 
 ## Image Server Shims
 
@@ -154,6 +155,7 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
 - [Omeka-S plugins](#cms-integration) - additional plugins and description in the [CMS Integration](#cms-integration) section
+- [Panel Truck](https://geoservices.leventhalmap.org/cartinal/documentation/panel-truck.html) - Vue-based presentation tool, embeddable into any page as a Web Component, which supports slide-like narration over one or multiple IIIF sources, as well as static images and tiled map sources. ([Example](https://geoservices.leventhalmap.org/panel-truck/example.html))
 - [Simple Site IIIF Mirador Extension](https://jpadfield.github.io/simple-site/IIIF%20viewer.html) - This [Simple Site](https://jpadfield.github.io/simple-site/) extension uses the IIIF image viewer Mirador to produce a customised presentation of a bespoke selection of IIIF manifests.
 - [Spotlight](http://spotlight.projectblacklight.org/) - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
 - [Storiiies Editor](https://storiiies-editor.cogapp.com/) – a free online storytelling platform for creating guided tours of a single IIIF manifest using annotations.
@@ -184,18 +186,20 @@ Tutorials for how to accomplish functionality in your applications.
 
 - [Archiviiify](https://literarymachin.es/archiviiify/) - A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from
 - [Drag and Drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) - Getting a IIIF image into Mirador with drag-and-drop and email.
+- [Experiments with IIIF and Gallica](https://github.com/altomator/IIIF/) - A guided tour of end user applications of IIIF to Gallica materials, by Jean-Philippe Moreux (BnF).
 - [Fellow Travelers: The Canterbury Tales and IIIF](http://web.stanford.edu/group/dmstech/cgi-bin/wordpress/author/blalbrit/) - Benjamin Albritton; includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
 - [Getting started with IIIF](https://iiif.github.io/training/intro-to-iiif/) - Introduction originally presented during a workshop at the 2017 Code4Lib Conference at Los Angeles, CA.
+- [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) - Uses IIIF as an example to explain APIs.
 - [IIIF Implementation Guide](http://iiif.io/assets/acc_implementation_guide_011017.pdf) - A step-by-step walkthrough of how to implement IIIF.
-- [IIIF Intro (fr)](http://doc.biblissima-condorcet.fr/introduction-iiif) - Introduction to IIIF (in French).
+- [IIIF Intro (fr)](https://doc.biblissima.fr/introduction-iiif) - Introduction to IIIF (in French).
 - [IIIF Quick Start Guide](http://iiif.io/technical-details/) - Quick overview of how you might get started with implementing various IIIF standards.
-- [IIIF Workshop for DHNord2020](https://github.com/regisrob/Atelier_IIIF_Conference_DHNord_2020) - French langauge workshop with three exercises from a workshop entitled "Adopt and use IIIF standards for your digital image corpora," created by Régis Robineau (technical coordinator of Biblissima) and Johann Holland (TGIR Huma-Num).
 - [IIIF Workshop](http://ronallo.com/iiif-workshop/) - An online workshop that covers the basics of IIIF including the Image and Presentation APIs.
+- [IIIF Workshop for DHNord2020](https://github.com/regisrob/Atelier_IIIF_Conference_DHNord_2020) - French langauge workshop with three exercises from a workshop entitled "Adopt and use IIIF standards for your digital image corpora," created by Régis Robineau (technical coordinator of Biblissima) and Johann Holland (TGIR Huma-Num).
 - [Image API Playground](https://www.learniiif.org/image-api/playground) - Learn about the structure of a IIIF URL through manipulating the parameters and seeing the results in a live demo.
 - [Image Choice video](https://www.youtube.com/watch?v=4AJPVktQ1Zw) - Demonstration of how a canvas can have a choice of images and a viewer can toggle between them.
 - [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) - Uses IIIF as an example to explain APIs.
-- [Introduction to IIIF in Portuguese](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36) - Covers Image API, Presentation API, and annotations.
 - [Introduction to IIIF](https://resources.digirati.com/iiif/an-introduction-to-iiif/) - A thorough introduction to the IIIF specifications and tools for using them, by Tom Crane at Digirati.
+- [Introduction to IIIF in Portuguese](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36) - Covers Image API, Presentation API, and annotations.
 - [Suggested measures for deploying IIIF in Swiss cultural heritage institutions (White paper)](https://doi.org/10.5281/zenodo.2640415) - Julien A. Raemy & René Schneider (2019).
 raffaele messuti / [@atomotic](https://github.com/atomotic)].
 
@@ -206,6 +210,7 @@ Slide decks and presentation videos with a focus on IIIF.
 - [An Introduction to the International Image Interoperability Framework](https://drive.google.com/file/d/0BwIq5pa1_rvfMnhCZmtzNTc5dnc/view) - Presentation introducing IIIF for new audiences as "the API for humans" - also contains videos from other IIIF presentations.
 - [Collection of slide decks](http://www.slideshare.net/IIIF_io/clipboards) - From various IIIF events.
 - [DHtech Workshop: Image Servers and IIIF](https://doi.org/10.20375/0000-000b-cb01-f) - Slides and recording from a DARIAH-DE workshop in 2018 by Robert Casties.
+- [Image API Introduction](https://docs.google.com/presentation/d/1urCPiL3LffkIWglKGW4SSEiojBt2_RKmt5YuDtBoRfY/edit?usp=sharing) - High level overview of the Image API parameters.
 - [IIIF For Small Projects](http://www.slideshare.net/workergnome/iiif-for-small-projects) - How IIIF can be used on small projects with limited infrastructure, presented at [KeystoneDH 2016](http://keystonedh.network/2016/).
 - [Image API Introduction](https://docs.google.com/presentation/d/1urCPiL3LffkIWglKGW4SSEiojBt2_RKmt5YuDtBoRfY/edit?usp=sharing) - High level overview of the Image API parameters.
 - [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC) - German translation of the above presentation.
@@ -292,6 +297,7 @@ Science, Technology, Engineering, Math/Medicine
 - [Animal Crossing Art Generator](https://experiments.getty.edu/ac-art-generator) - Getty's tool leverages IIIF to create custom patterns featuring artwork from famous art collections around the world.
 - [ANTLITZ.NINJA](https://antlitz.ninja) - Award-winning digital art app that cuts and re-combines historical portraits. Based on IIIF.
 - [cover.boutique](https://cover.boutique) - Award-winning web application to create designs for smartphone cases from IIIF resources.
+- [Automapic collections bot](https://twitter.com/auto_mapic) - Twitter bot that randomly pulls a IIIF excerpt, zoomed in at maximum resolution, from the Leventhal Map & Education Center's digital collections
 - [David Rumsey MapTab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en) - A IIIF powered, Chrome extension that displays a random map from the David Rumsey Map Collection everytime you open a new tab in your browser. Built using Leaflet-IIIF and React.js. Created by Jack Reed, Stanford University Libraries.
 - [Exquisite Corpse](https://github.com/harvardartmuseums/exquisite-iiif-demo) - A prototype that deliberately mixes up portrait paintings. Created using Node.js by Jeff Steward, Harvard Art Museums.
 - [Fractals](http://www.appliediiif.org.uk/live/fractalshome.htm) - Deep zoom into a huge (1bn x 1bn pixel) fractal image, created by Sean Martin, Applied IIIF.
@@ -328,6 +334,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [ContentDM](https://www.oclc.org/en/contentdm/iiif.html)
  - [Goobi](https://goobi.io)
  - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
+ - [Invenio](https://invenio-software.org/products/framework/)(Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
  - [Luna](http://www.lunaimaging.com/iiif)
  - [Muzz.app platform](https://muzz.app)
  - [ResCarta](https://rescarta.org/)
