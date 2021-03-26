@@ -12,7 +12,7 @@ The International Image Interoperability Framework (IIIF - "triple-eye-eff") is 
 
 ## Contents
 - [Standards](#standards)
-- [Official Resources](#resources)
+- [Official Resources](#official-resources)
 - [Image Servers](#image-servers)
 - [Image Server Shims](#image-server-shims)
 - [Image Viewers](#image-viewers)
