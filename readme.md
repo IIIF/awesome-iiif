@@ -335,6 +335,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [Goobi](https://goobi.io)
  - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
  - [Invenio](https://invenio-software.org/products/framework/)(Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
+ - [Libnova/Libsafe](https://www.libnova.com/)(Image API)
  - [Luna](http://www.lunaimaging.com/iiif)
  - [Muzz.app platform](https://muzz.app)
  - [ResCarta](https://rescarta.org/)
