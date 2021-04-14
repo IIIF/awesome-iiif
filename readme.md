@@ -12,6 +12,7 @@ The International Image Interoperability Framework (IIIF - "triple-eye-eff") is 
 
 ## Contents
 - [Standards](#standards)
+- [Official Resources](#official-resources)
 - [Image Servers](#image-servers)
 - [Image Server Shims](#image-server-shims)
 - [Image Viewers](#image-viewers)
@@ -49,6 +50,15 @@ The IIIF community has developed several standards for interoperable web-based i
 
 - [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md)
 - [Reading and Viewing](https://github.com/IIIF/awesome-iiif/blob/master/reading-viewing.md)
+
+## Official Resources
+
+The [IIIF Consortium](https://iiif.io/community/consortium/), with support from the community, maintains a number of resources to assist with understanding and implementation of IIIF.
+
+- [IIIF Cookbook](https://iiif.io/api/cookbook/) - A collection of IIIF "recipes," different reusable code snippets to help create IIIF manifests for common use cases.
+- [IIIF Guides](https://guides.iiif.io/) - a "how-to" resource with screenshots for finding IIIF Manifest URLs from various members of the IIIF community.
+- [Image API validator](https://iiif.io/api/image/validator/) - a service to validate a IIIF Image API resource against the specification.
+- [Presentation API validator](https://iiif.io/api/presentation/validator/service/) - a service to validate a IIIF Presentation API resource against the specification.
 
 ## Image Servers
 
