@@ -65,7 +65,7 @@ The [IIIF Consortium](https://iiif.io/community/consortium/), with support from 
 These servers support the IIIF Image API. Some may also have support for the Presentation API.
 
 - [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
-- [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java.
+- [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
 - [digilib](https://robcast.github.io/digilib/) - Image server written in Java.
 - [go-iiif](https://github.com/thisisaaronland/go-iiif) - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif)).
 - [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) - IIIF server written in Java supporting IIIF Image and Presentation API.
