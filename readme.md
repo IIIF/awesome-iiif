@@ -46,6 +46,10 @@ The IIIF community has developed several standards for interoperable web-based i
 - [External Services API Annex](http://iiif.io/api/annex/services/) - Describes the set of related services that have been identified as useful to reference from the IIIF APIs.
 - [API Annex Documents](http://iiif.io/api/annex/) - List of all API annex documents and API implementation notes.
 
+There are also draft specifications, works-in-progress that benefit from community feedback as they're being developed:
+- [Change Discovery API](https://iiif.io/api/discovery/) -  This specification describes changes to IIIF content resources and the location of those resources for providers to harvest, to ultimately allow users to easily find and engage with content available via existing IIIF APIs.
+- [Content State API](https://iiif.io/api/content-state/) - This specification provides the format of the content state (a IIIF Presentation API resource, or a part of a resource), and mechanisms for passing it between applications regardless of their different user interfaces and capabilities.
+
 ## Additional Lists
 
 - [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md)
