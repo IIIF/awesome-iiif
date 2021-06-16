@@ -142,7 +142,6 @@ Various tools for working with images such as cropping tools.
 - [O'Sullivan](https://github.com/IIIF/osullivan) - Ruby API for creating IIIF manifests.
 - [Swiiift](https://github.com/mejackreed/Swiiift) - IIIF presentation API library for Swift.
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) - npm module for creating and manipulating IIIF manifests.
-- [Tripoli](https://ddmal.github.io/tripoli/) - IIIF Presentation API 2.0+ validation library.
 - [ViewDir](https://iiif-commons.github.io/) - Documentation on IIIF-related libraries and components, from an open community of designers and developers interested in creating composable and interoperable interfaces for consuming and creating online content.
 
 ## Presentation API Shims
@@ -159,6 +158,11 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [File Analyzer IIIF Manifest Generator from Existing Metadata](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/) - Georgetown's desktop application that will generate IIIF manifest files from existing metadata files.
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
+
+## Validators 
+- [Image API Validator](https://iiif.io/api/image/validator/) - IIIF Image API 1, 2 and 3 validator that runs a set of tests against one's implementation
+- [Presentation API Validator](https://iiif.io/api/presentation/validator/service/) - IIIF Presentation API 2 and 3 validation service
+- [Tripoli](https://ddmal.github.io/tripoli/) - IIIF Presentation API 2.0+ validation library.
 
 ## Exhibition and Guided Viewing Tools
 
