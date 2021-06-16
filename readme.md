@@ -172,8 +172,9 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 
 ## Validators 
-- [Image API Validator](https://iiif.io/api/image/validator/) - IIIF Image API 1, 2 and 3 validator that runs a set of tests against one's implementation
-- [Presentation API Validator](https://iiif.io/api/presentation/validator/service/) - IIIF Presentation API 2 and 3 validation service
+- [Hyperion](https://www.npmjs.com/package/@hyperion-framework/validator) - IIIF Presentation API 3 Validator in JavaScript
+- [IIIF Image API Validator](https://iiif.io/api/image/validator/) - IIIF Image API 1, 2 and 3 validator that runs a set of tests against one's implementation
+- [IIIF Presentation API Validator](https://iiif.io/api/presentation/validator/service/) - IIIF Presentation API 2 and 3 validation service
 - [Tripoli](https://ddmal.github.io/tripoli/) - IIIF Presentation API 2.0+ validation library.
 
 ## Exhibition and Guided Viewing Tools
