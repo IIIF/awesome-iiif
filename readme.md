@@ -8,6 +8,17 @@ The International Image Interoperability Framework (IIIF - "triple-eye-eff") is 
 
 [![Contributing Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./contributing.md)
 
+## More Resources
+
+The lists below are a great place to start for inspiration and tooling, but they are certainly not complete!
+
+If you have a link or a resource to add, you have a few options: 
+- check out the [Contributing Guidelines]((./contributing.md)) linked just above and submit a pull request yourself if you're familiar with Github worflows
+- [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) mentioning the link or resource you want to add and some description, and the community may be able to help add it
+
+Likewise, there are other ways to see how people are implementing IIIF.
+- [Github Topics page](https://github.com/topics/iiif?o=desc&s=updated) - this page will show you the Github repositories that self-identify as IIIF-related, with the most recently updated projects listed first. 
+
 **Disclaimer**: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, these lists are created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
 
 ## Contents
@@ -156,6 +167,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [biiif](https://github.com/edsilv/biiif/) - Organise your files according to a simple naming convention to generate IIIF v3 manifests.
 - [demetsiiify](https://github.com/jbaiter/demetsiiify) - Web service for creating IIIF manifests from METS/MODS documents.
 - [File Analyzer IIIF Manifest Generator from Existing Metadata](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/) - Georgetown's desktop application that will generate IIIF manifest files from existing metadata files.
+- [IIIF Manifest Explorer](https://www.lizmfischer.com/iiif-tools/manifest) - Input a IIIF manifest link to see basic object and image metadata in a human-friendly format.
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 
