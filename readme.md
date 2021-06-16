@@ -32,6 +32,7 @@ Likewise, there are other ways to see how people are implementing IIIF.
 - [Presentation API Libraries](#presentation-api-libraries)
 - [Presentation API Shims](#presentation-api-shims)
 - [Presentation Manifest Tools](#presentation-manifest-tools)
+- [Validators](#validators)
 - [Exhibition and Guided Viewing Tools](#exhibition-and-guided-viewing-tools)
 - [Content Search API Servers](#content-search-api)
 - [Authentication](#authentication)
