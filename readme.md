@@ -244,8 +244,8 @@ Slide decks and presentation videos with a focus on IIIF.
 - [Image API Introduction](https://docs.google.com/presentation/d/1urCPiL3LffkIWglKGW4SSEiojBt2_RKmt5YuDtBoRfY/edit?usp=sharing) - High level overview of the Image API parameters.
 - [IIIF For Small Projects](http://www.slideshare.net/workergnome/iiif-for-small-projects) - How IIIF can be used on small projects with limited infrastructure, presented at [KeystoneDH 2016](http://keystonedh.network/2016/).
 - [IIIF Tutorials (German)](https://www.youtube.com/playlist?list=PLxDekeBVQtVJeRqoTgsif7fJki2X96O-1) - YouTube playlist from the Zurich Central Library (Zentralbibliothek Zürich)
-- [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC) - German translation of the above presentation.
 - [Introduction to IIIF](https://drive.google.com/open?id=0B8APFBow4sHvNUNDQmp1Yko4VjQ) - Extensive presentation introducing IIIF with numerous examples and video demos, Beijing, October 2017.
+- [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC) - German translation of the above presentation.
 - [Introduction to the Presentation API](http://www.slideshare.net/azaroth42/iiif-presentation-api) - Rob Sanderson.
 - [OA - Shared Canvas - TEI - Biblissima project](http://www.slideshare.net/biblissima/oa-shared-canvas-tei-biblissima-project) - Part of a workshop on TEI and neighboring standards including IIIF.
 - [Video from IIIF event at the National Gallery of Art](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6iQpKTXnhnlQpmoMLT1fB7) - May 2015.
