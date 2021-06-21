@@ -148,7 +148,7 @@ Various tools for working with images such as cropping tools.
 - [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) - PHP library for generating IIIF manifests.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
 - [iiif-prezi](https://github.com/IIIF/iiif-prezi) - Python library providing a reference implementation.
-- [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) -IIIF tree menu sortable by date with multi-select capability.
+- [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) - IIIF tree menu sortable by date with multi-select capability.
 - [Manifesto](https://github.com/UniversalViewer/manifesto) - IIIF Presentation API client and server utility library.
 - [Manifold](https://github.com/UniversalViewer/manifold) - Wraps Manifesto to provide viewer state and related utilities.
 - [O'Sullivan](https://github.com/IIIF/osullivan) - Ruby API for creating IIIF manifests.
@@ -168,6 +168,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [biiif](https://github.com/edsilv/biiif/) - Organise your files according to a simple naming convention to generate IIIF v3 manifests.
 - [demetsiiify](https://github.com/jbaiter/demetsiiify) - Web service for creating IIIF manifests from METS/MODS documents.
 - [File Analyzer IIIF Manifest Generator from Existing Metadata](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/) - Georgetown's desktop application that will generate IIIF manifest files from existing metadata files.
+- [IIIF Download](https://www.lizmfischer.com/iiif-tools/download) - Input a IIIF Manifest URL to and the desired image size to download a zip of all that Manifest's images
 - [IIIF Manifest Explorer](https://www.lizmfischer.com/iiif-tools/manifest) - Input a IIIF manifest link to see basic object and image metadata in a human-friendly format.
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
