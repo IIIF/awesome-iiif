@@ -17,7 +17,7 @@ If you have a link or a resource to add, you have a few options:
 - [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) mentioning the link or resource you want to add and some description, and the community may be able to help add it
 
 Likewise, there are other ways to see how people are implementing IIIF.
-- [Github Topics page](https://github.com/topics/iiif?o=desc&s=updated) - this page will show you the Github repositories that self-identify as IIIF-related, with the most recently updated projects listed first. 
+- [Github Topics page](https://github.com/topics/iiif?o=desc&s=updated) - This page will show you the Github repositories that self-identify as IIIF-related, with the most recently updated projects listed first. 
 
 **Disclaimer**: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, these lists are created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
 
@@ -69,12 +69,13 @@ There are also draft specifications, works-in-progress that benefit from communi
 
 ## Official Resources
 
-The [IIIF Consortium](https://iiif.io/community/consortium/), with support from the community, maintains a number of resources to assist with understanding and implementation of IIIF.
+The [IIIF Consortium (IIIF-C)](https://iiif.io/community/consortium/), with support from the community, maintains a number of resources to assist with understanding and implementation of IIIF.
 
 - [IIIF Cookbook](https://iiif.io/api/cookbook/) - A collection of IIIF "recipes," different reusable code snippets to help create IIIF manifests for common use cases.
-- [IIIF Guides](https://guides.iiif.io/) - a "how-to" resource with screenshots for finding IIIF Manifest URLs from various members of the IIIF community.
-- [Image API validator](https://iiif.io/api/image/validator/) - a service to validate a IIIF Image API resource against the specification.
-- [Presentation API validator](https://iiif.io/api/presentation/validator/service/) - a service to validate a IIIF Presentation API resource against the specification.
+- [IIIF Online Workshop](https://training.iiif.io/iiif-online-workshop/) - IIIF workshop materials and videos given by the IIIF-C updated at each occurrence.
+- [IIIF Guides](https://guides.iiif.io/) - A "how-to" resource with screenshots for finding IIIF Manifest URLs from various members of the IIIF community.
+- [Image API validator](https://iiif.io/api/image/validator/) - A service to validate a IIIF Image API resource against the specification.
+- [Presentation API validator](https://iiif.io/api/presentation/validator/service/) - A service to validate a IIIF Presentation API resource against the specification.
 
 ## Image Servers
 
