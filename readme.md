@@ -72,7 +72,7 @@ There are also draft specifications, works-in-progress that benefit from communi
 The [IIIF Consortium (IIIF-C)](https://iiif.io/community/consortium/), with support from the community, maintains a number of resources to assist with understanding and implementation of IIIF.
 
 - [IIIF Cookbook](https://iiif.io/api/cookbook/) - A collection of IIIF "recipes," different reusable code snippets to help create IIIF manifests for common use cases.
-- [IIIF Online Workshop](https://training.iiif.io/iiif-online-workshop/) - IIIF workshop materials and videos given by the IIIF-C updated at each occurrence.
+- [IIIF Online Workshop](https://training.iiif.io/iiif-online-workshop/) - IIIF workshop materials and videos given by the IIIF-C and updated at each occurrence.
 - [IIIF Guides](https://guides.iiif.io/) - A "how-to" resource with screenshots for finding IIIF Manifest URLs from various members of the IIIF community.
 - [Image API validator](https://iiif.io/api/image/validator/) - A service to validate a IIIF Image API resource against the specification.
 - [Presentation API validator](https://iiif.io/api/presentation/validator/service/) - A service to validate a IIIF Presentation API resource against the specification.
