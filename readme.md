@@ -18,6 +18,7 @@ If you have a link or a resource to add, you have a few options:
 
 Likewise, there are other ways to see how people are implementing IIIF.
 - [Github Topics page](https://github.com/topics/iiif?o=desc&s=updated) - This page will show you the Github repositories that self-identify as IIIF-related, with the most recently updated projects listed first. 
+- [IIIF Community on Zenodo](https://zenodo.org/communities/iiif/) - A Zenodo community for gathering articles and data related to IIIF.
 
 **Disclaimer**: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, these lists are created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
 
