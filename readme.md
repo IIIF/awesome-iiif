@@ -217,7 +217,7 @@ Some resources about the IIIF Authentication API.
 
 Tutorials for how to accomplish functionality in your applications.
 
-- [Archiviiify](https://literarymachin.es/archiviiify/) - A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from
+- [Archiviiify](https://literarymachin.es/archiviiify/) - A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from raffaele messuti / [@atomotic](https://github.com/atomotic)].
 - [Drag and Drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) - Getting a IIIF image into Mirador with drag-and-drop and email.
 - [Experiments with IIIF and Gallica](https://github.com/altomator/IIIF/) - A guided tour of end user applications of IIIF to Gallica materials, by Jean-Philippe Moreux (BnF).
 - [Fellow Travelers: The Canterbury Tales and IIIF](http://web.stanford.edu/group/dmstech/cgi-bin/wordpress/author/blalbrit/) - Benjamin Albritton; includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
@@ -234,7 +234,6 @@ Tutorials for how to accomplish functionality in your applications.
 - [Introduction to IIIF](https://resources.digirati.com/iiif/an-introduction-to-iiif/) - A thorough introduction to the IIIF specifications and tools for using them, by Tom Crane at Digirati.
 - [Introduction to IIIF in Portuguese](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36) - Covers Image API, Presentation API, and annotations.
 - [Suggested measures for deploying IIIF in Swiss cultural heritage institutions (White paper)](https://doi.org/10.5281/zenodo.2640415) - Julien A. Raemy & René Schneider (2019).
-raffaele messuti / [@atomotic](https://github.com/atomotic)].
 
 ## Videos and Slide Decks
 
@@ -245,7 +244,7 @@ Slide decks and presentation videos with a focus on IIIF.
 - [DHtech Workshop: Image Servers and IIIF](https://doi.org/10.20375/0000-000b-cb01-f) - Slides and recording from a DARIAH-DE workshop in 2018 by Robert Casties.
 - [Image API Introduction](https://docs.google.com/presentation/d/1urCPiL3LffkIWglKGW4SSEiojBt2_RKmt5YuDtBoRfY/edit?usp=sharing) - High level overview of the Image API parameters.
 - [IIIF For Small Projects](http://www.slideshare.net/workergnome/iiif-for-small-projects) - How IIIF can be used on small projects with limited infrastructure, presented at [KeystoneDH 2016](http://keystonedh.network/2016/).
-- [IIIF Tutorials (German)](https://www.youtube.com/playlist?list=PLxDekeBVQtVJeRqoTgsif7fJki2X96O-1) - YouTube playlist from the Zurich Central Library (Zentralbibliothek Zürich)
+- [IIIF Tutorials (German)](https://www.youtube.com/playlist?list=PLxDekeBVQtVJeRqoTgsif7fJki2X96O-1) - YouTube playlist from the Zurich Central Library (Zentralbibliothek Zürich).
 - [Introduction to IIIF](https://drive.google.com/open?id=0B8APFBow4sHvNUNDQmp1Yko4VjQ) - Extensive presentation introducing IIIF with numerous examples and video demos, Beijing, October 2017.
 - [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC) - German translation of the above presentation.
 - [Introduction to the Presentation API](http://www.slideshare.net/azaroth42/iiif-presentation-api) - Rob Sanderson.
