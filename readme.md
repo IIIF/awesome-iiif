@@ -13,7 +13,7 @@ The International Image Interoperability Framework (IIIF - "triple-eye-eff") is 
 The lists below are a great place to start for inspiration and tooling, but they are certainly not complete!
 
 If you have a link or a resource to add, you have a few options: 
-- check out the [Contributing Guidelines]((./contributing.md)) linked just above and submit a pull request yourself if you're familiar with Github worflows
+- check out the [Contributing Guidelines](./contributing.md) linked just above and submit a pull request yourself if you're familiar with Github worflows
 - [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) mentioning the link or resource you want to add and some description, and the community may be able to help add it
 
 Likewise, there are other ways to see how people are implementing IIIF.
