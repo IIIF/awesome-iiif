@@ -157,6 +157,7 @@ Various tools for working with images such as cropping tools.
 - [Swiiift](https://github.com/mejackreed/Swiiift) - IIIF presentation API library for Swift.
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) - npm module for creating and manipulating IIIF manifests.
 - [ViewDir](https://iiif-commons.github.io/) - Documentation on IIIF-related libraries and components, from an open community of designers and developers interested in creating composable and interoperable interfaces for consuming and creating online content.
+- [pyIIIFpres](https://github.com/giacomomarchioro/pyIIIFpres) - A Python module built for easing the construction of JSON manifests compliant with IIIF API 3.0 in a production environment, similarly to iiif-prezi for earlier versions of the protocol.
 
 ## Presentation API Shims
 
