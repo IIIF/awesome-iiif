@@ -151,7 +151,7 @@ Various tools for working with images such as cropping tools.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
 - [iiif-prezi](https://github.com/IIIF/iiif-prezi) - Python library providing a reference implementation.
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) - IIIF tree menu sortable by date with multi-select capability.
-- [jiiify-presentation](https://github.com/ksclarke/jiiify-presentation) -  A Java IIIF Presentation library.
+- [jiiify-presentation](https://github.com/ksclarke/jiiify-presentation) - A Java IIIF Presentation library.
 - [Manifesto](https://github.com/UniversalViewer/manifesto) - IIIF Presentation API client and server utility library.
 - [Manifold](https://github.com/UniversalViewer/manifold) - Wraps Manifesto to provide viewer state and related utilities.
 - [O'Sullivan](https://github.com/IIIF/osullivan) - Ruby API for creating IIIF manifests.
