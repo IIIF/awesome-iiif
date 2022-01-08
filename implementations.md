@@ -1,6 +1,6 @@
 # Implementations
 
-A lightly edited list of sites that have implemented at least one of the IIIF standards.
+A lightly edited list of sites that have implemented at least one of the IIIF standards. 
 
 **Guidelines:** New additions should be placed at the end of the list. The label of the link should be the name of the site. The description should include the publisher (usually an institution), and the publisher may be a link to contact information. The description can also include information on which of the APIs have been implemented.
 
@@ -31,3 +31,5 @@ A lightly edited list of sites that have implemented at least one of the IIIF st
 - [DigitalGeorgetown's Integration of Universal Viewer into DSpace](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7) - The Georgetown University Library digitized the _Alliance for Progress Cartoon Book Program in Latin America Collection_ and made this collection available in the Universal Viewer integrated into DSpace.  This collection illustrates manifest ranges generated from item metadata.
 - [Austrian National Library](https://iiif.onb.ac.at) provides over 850,000 IIIF resources of historical books, newspapers, postcards, pamphlets and papyri with annotations and search(soon) capabilities. Embedded Mirador and Universal Viewer can be used to view the resources. There is also the possibility to create personalized IIIF collections.
 - [Art Institute of Chicago](https://www.artic.edu/) presents over 100,000 artworks on the website via the IIIF image API. Using OpenSeadragon, users can zoom in and explore object images, subject to copyright restrictions. A custom Mirador 2 implementation is also used in the galleries.
+
+For additional implementations, please see the [iiif.io Implementation Demos section](https://iiif.io/apps-demos/#implementation-demos)
