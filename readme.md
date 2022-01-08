@@ -97,9 +97,9 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [SIPI](https://github.com/dasch-swiss/sipi) - IIIFv3 image server written in C++.
 - [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server
 
-## Image Server Shims
+## Shim Image Servers 
 
-These shims allow you to use an image server that does not currently support IIIF. If you have not implemented an image server yet, this is probably not where you want to start.
+As defined by Wikipedia a shim is a small library that transparently intercepts an API, changing the parameters passed, handling the operation itself, or redirecting the operation elsewhere. These shims allow you to use an image server that does not currently support IIIF. If you have not implemented an image server yet, this is probably not where you want to start. 
 
 - [ContentDM Image translator](https://github.com/azaroth42/pi3f/tree/master/shims/ContentDM) - Makes ContentDM images available through IIIF. Python.
 - [Djatoka Ruby gem](https://github.com/jronallo/djatoka) - Convert IIIF URLs into the URLs that Djatoka requires.
