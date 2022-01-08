@@ -50,17 +50,17 @@ Likewise, there are other ways to see how people are implementing IIIF.
 
 ## Standards
 
-The IIIF community has developed several standards for interoperable web-based image delivery.
+The IIIF community has developed [several standards](https://iiif.io/api/) for interoperable web-based image delivery.
 
-- [Image API](http://iiif.io/api/image/) - Specifies a web service that returns an image in response to a standard HTTP or HTTPS request.
-- [Presentation API](http://iiif.io/api/presentation/) - Provides the information necessary to allow a rich, online viewing environment for primarily image-based objects to be presented to a human user, likely in conjunction with the IIIF Image API.
-- [Content Search API](http://iiif.io/api/search/) - Specifies interoperability mechanism for searching within annotations.
-- [Authentication API](http://iiif.io/api/auth/) - Describes a set of workflows for guiding the user through an existing access control system.
-- [External Services API Annex](http://iiif.io/api/annex/services/) - Describes the set of related services that have been identified as useful to reference from the IIIF APIs.
-- [API Annex Documents](http://iiif.io/api/annex/) - List of all API annex documents and API implementation notes.
+- [Image API](https://iiif.io/api/image/) - Specifies a web service that returns an image in response to a standard HTTP or HTTPS request.
+- [Presentation API](https://iiif.io/api/presentation/) - Provides the information necessary to allow a rich, online viewing environment for primarily image-based objects to be presented to a human user, likely in conjunction with the IIIF Image API.
+- [Authentication API](https://iiif.io/api/auth/) - Describes a set of workflows for guiding the user through an existing access control system.
+- [Change Discovery API](https://iiif.io/api/discovery/) -  This specification describes changes to IIIF content resources and the location of those resources for providers to harvest, to ultimately allow users to easily find and engage with content available via existing IIIF APIs.
+- [Content Search API](https://iiif.io/api/search/) - Specifies interoperability mechanism for searching within annotations.
+- [External Services API Annex](https://iiif.io/api/annex/services/) - Describes the set of related services that have been identified as useful to reference from the IIIF APIs.
+- [API Annex Documents](https://iiif.io/api/annex/) - List of all API annex documents and API implementation notes.
 
 There are also draft specifications, works-in-progress that benefit from community feedback as they're being developed:
-- [Change Discovery API](https://iiif.io/api/discovery/) -  This specification describes changes to IIIF content resources and the location of those resources for providers to harvest, to ultimately allow users to easily find and engage with content available via existing IIIF APIs.
 - [Content State API](https://iiif.io/api/content-state/) - This specification provides the format of the content state (a IIIF Presentation API resource, or a part of a resource), and mechanisms for passing it between applications regardless of their different user interfaces and capabilities.
 
 ## Additional Lists
