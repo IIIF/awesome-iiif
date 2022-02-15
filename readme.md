@@ -180,6 +180,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [IIIF Manifest Explorer](https://www.lizmfischer.com/iiif-tools/manifest) - Input a IIIF manifest link to see basic object and image metadata in a human-friendly format.
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
+- [Brif](https://github.com/pierrz/brif) - A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzz.app. See live [demo](https://brif-demo.muzz.app/dashboard).
 
 ## Validators 
 - [Hyperion](https://www.npmjs.com/package/@hyperion-framework/validator) - IIIF Presentation API 3 Validator in JavaScript
@@ -379,7 +380,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [Invenio](https://invenio-software.org/products/framework/)(Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
  - [Libnova/Libsafe](https://www.libnova.com/)(Image API)
  - [Luna](http://www.lunaimaging.com/iiif)
- - [Muzz.app platform](https://muzz.app)
+ - [Muzz.app platform](https://muzz.app) (based on [Brif](https://github.com/pierrz/brif))
  - [ResCarta](https://rescarta.org/)
  - [ResourceSpace](https://www.resourcespace.com/knowledge-base/api/iiif)
  - [Rosetta](https://knowledge.exlibrisgroup.com/Rosetta/Training/What's_New_Videos/Rosetta_5-3)
