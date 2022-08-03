@@ -57,11 +57,11 @@ The IIIF community has developed [several standards](https://iiif.io/api/) for i
 - [Authentication API](https://iiif.io/api/auth/) - Describes a set of workflows for guiding the user through an existing access control system.
 - [Change Discovery API](https://iiif.io/api/discovery/) -  This specification describes changes to IIIF content resources and the location of those resources for providers to harvest, to ultimately allow users to easily find and engage with content available via existing IIIF APIs.
 - [Content Search API](https://iiif.io/api/search/) - Specifies interoperability mechanism for searching within annotations.
+- [Content State API](https://iiif.io/api/content-state/) - Provides a way to refer to a IIIF Presentation API resource, or a part of a resource, in a compact format that can be used to initialize the view of that resource in any client.
 - [External Services API Annex](https://iiif.io/api/annex/services/) - Describes the set of related services that have been identified as useful to reference from the IIIF APIs.
 - [API Annex Documents](https://iiif.io/api/annex/) - List of all API annex documents and API implementation notes.
 
-There are also draft specifications, works-in-progress that benefit from community feedback as they're being developed:
-- [Content State API](https://iiif.io/api/content-state/) - This specification provides the format of the content state (a IIIF Presentation API resource, or a part of a resource), and mechanisms for passing it between applications regardless of their different user interfaces and capabilities.
+Feedback is welcome on all IIIF Specifications, including draft versions and works-in-progress: https://iiif.io/api/#feedback
 
 ## Additional Lists
 
