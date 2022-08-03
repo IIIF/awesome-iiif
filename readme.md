@@ -61,7 +61,7 @@ The IIIF community has developed [several standards](https://iiif.io/api/) for i
 - [External Services API Annex](https://iiif.io/api/annex/services/) - Describes the set of related services that have been identified as useful to reference from the IIIF APIs.
 - [API Annex Documents](https://iiif.io/api/annex/) - List of all API annex documents and API implementation notes.
 
-Feedback is welcome on all IIIF Specifications, including draft versions and works-in-progress: https://iiif.io/api/#feedback
+[Feedback is welcome](https://iiif.io/api/#feedback) on all IIIF Specifications, including draft versions and works-in-progress: [iiif-discuss@googlegroups.com](mailto:iiif-discuss@googlegroups.com).
 
 ## Additional Lists
 
