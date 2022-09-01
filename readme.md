@@ -297,6 +297,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 - [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) - IIIF annotations JS client over IPFS.
 - [Local IIIF Annotation Server](https://github.com/dnoneill/annotate) - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.
 - [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
+- [Miiify](https://github.com/nationalarchives/miiify) - Light-weight annotation server built on the same principles as Git.
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
 
 ### Annotation Clients
