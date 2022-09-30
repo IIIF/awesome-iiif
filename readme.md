@@ -159,6 +159,7 @@ Various tools for working with images such as cropping tools.
 - [jiiify-presentation](https://github.com/ksclarke/jiiify-presentation) - A Java IIIF Presentation library.
 - [Manifesto](https://github.com/UniversalViewer/manifesto) - IIIF Presentation API client and server utility library.
 - [Manifold](https://github.com/UniversalViewer/manifold) - Wraps Manifesto to provide viewer state and related utilities.
+- [Nectar IIIF](https://samvera-labs.github.io/nectar-iiif/) - IIIF Presentation API 3.0 property fluent HTML5 primitives library for React.js
 - [O'Sullivan](https://github.com/IIIF/osullivan) - Ruby API for creating IIIF manifests.
 - [pyIIIFpres](https://github.com/giacomomarchioro/pyIIIFpres) - A Python module built for easing the construction of JSON manifests compliant with IIIF API 3.0 in a production environment, similarly to iiif-prezi for earlier versions of the protocol.
 - [Swiiift](https://github.com/mejackreed/Swiiift) - IIIF presentation API library for Swift.
@@ -196,7 +197,6 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
-- [Nectar IIIF](https://samvera-labs.github.io/nectar-iiif/) - IIIF Presentation API 3.0 property fluent HTML5 primitives library for React.js
 - [Omeka-S plugins](#cms-integration) - additional plugins and description in the [CMS Integration](#cms-integration) section
 - [Panel Truck](https://geoservices.leventhalmap.org/cartinal/documentation/panel-truck.html) - Vue-based presentation tool, embeddable into any page as a Web Component, which supports slide-like narration over one or multiple IIIF sources, as well as static images and tiled map sources. ([Example](https://geoservices.leventhalmap.org/panel-truck/example.html))
 - [Simple Site IIIF Extensions](https://jpadfield.github.io/simple-site/extensions.html) This [Simple Site](https://jpadfield.github.io/simple-site/) has several extensions that make use of IIIF to produce customised presentations of a bespoke selection of IIIF manifests (e.g. in Mirador 3, Curtain Viewer and Panel Truck).
