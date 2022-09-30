@@ -110,6 +110,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 ## Image Viewers
 - [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
+- [Clover IIIF](https://samvera-labs.github.io/clover-iiif/) - IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvases for React.js
 - [Diva.js](https://ddmal.github.io/diva.js/) - IIIF image viewer optimized for speed and flexibility.
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
 - [IIIFViewer](https://github.com/klokantech/iiifviewer) - IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.
@@ -191,9 +192,11 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 Tools and resources that provide functionality for presenting IIIF materials in an exhibition-like setting (and potentially other functionality).
 
 - [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
+- [Bloom IIIF](https://samvera-labs.github.io/bloom-iiif/) - IIIF Presentation API Collection items React.js component that renders a horizontal slider
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
+- [Nectar IIIF](https://samvera-labs.github.io/nectar-iiif/) - IIIF Presentation API 3.0 property fluent HTML5 primitives library for React.js
 - [Omeka-S plugins](#cms-integration) - additional plugins and description in the [CMS Integration](#cms-integration) section
 - [Panel Truck](https://geoservices.leventhalmap.org/cartinal/documentation/panel-truck.html) - Vue-based presentation tool, embeddable into any page as a Web Component, which supports slide-like narration over one or multiple IIIF sources, as well as static images and tiled map sources. ([Example](https://geoservices.leventhalmap.org/panel-truck/example.html))
 - [Simple Site IIIF Extensions](https://jpadfield.github.io/simple-site/extensions.html) This [Simple Site](https://jpadfield.github.io/simple-site/) has several extensions that make use of IIIF to produce customised presentations of a bespoke selection of IIIF manifests (e.g. in Mirador 3, Curtain Viewer and Panel Truck).
