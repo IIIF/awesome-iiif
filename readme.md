@@ -154,7 +154,8 @@ Various tools for working with images such as cropping tools.
 ## Presentation API Libraries
 - [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) - PHP library for generating IIIF manifests.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
-- [iiif-prezi](https://github.com/IIIF/iiif-prezi) - Python library providing a reference implementation.
+- [iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) - Presentation 2 Python library providing a reference implementation.
+- [iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - Presentation 3 Python library.
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) - IIIF tree menu sortable by date with multi-select capability.
 - [jiiify-presentation](https://github.com/ksclarke/jiiify-presentation) - A Java IIIF Presentation library.
 - [Manifesto](https://github.com/UniversalViewer/manifesto) - IIIF Presentation API client and server utility library.
