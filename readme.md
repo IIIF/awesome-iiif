@@ -96,7 +96,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [riiif](https://github.com/curationexperts/riiif) - Written in Ruby as a Rails engine.
 - [serverless-iiif](https://github.com/nulib/serverless-iiif) - IIIF Image API 2.1 server as an AWS Serverless Application.
 - [SIPI](https://github.com/dasch-swiss/sipi) - IIIFv3 image server written in C++.
-- [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server
+- [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server.
 
 
 ## Shim Image Servers 
@@ -382,7 +382,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [ContentDM](https://www.oclc.org/en/contentdm/iiif.html)
  - [Goobi](https://goobi.io)
  - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
- - [Invenio](https://invenio-software.org/products/framework/)(Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
+ - [Invenio](https://invenio-software.org/products/framework/) (Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
  - [Libnova/Libsafe](https://www.libnova.com/) (Image API)
  - [Luna](http://www.lunaimaging.com/iiif)
  - [Muzz.app platform](https://muzz.app) (based on [Brif](https://github.com/pierrz/brif))
