@@ -374,7 +374,7 @@ IIIF is a community-based initiative that relies on active participation, discus
 - Learn more about the [IIIF Consortium](http://iiif.io/community/consortium/).
 - Attend a [IIIF event](http://iiif.io/event/).
 - [iiif_io on Twitter](https://twitter.com/iiif_io).
-- [IIIF on Mastodon](https://glammr.us/@IIIF)
+- [IIIF on Mastodon](https://glammr.us/@IIIF).
 
 ## Digital Asset Management (DAMs) that support IIIF
 
