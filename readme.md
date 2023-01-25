@@ -111,6 +111,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 ## Image Viewers
 - [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
+- [Chronoscope World](https://mprove.de/chronoscope/world.html) – A viewer specially suited for IIIF maps; but also a fast IIIF book viewer. It supports the IIIF Image API 2.1.
 - [Clover IIIF](https://samvera-labs.github.io/clover-iiif/) - IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvases for React.js
 - [Diva.js](https://ddmal.github.io/diva.js/) - IIIF image viewer optimized for speed and flexibility.
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
