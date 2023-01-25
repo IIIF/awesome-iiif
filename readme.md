@@ -372,7 +372,7 @@ IIIF is a community-based initiative that relies on active participation, discus
 - Contribute to one of the [IIIF community and/or technical groups](http://iiif.io/community/groups/).
 - Participate in the bi-weekly IIIF community calls. See the [IIIF community calendar](http://iiif.io/community/groups/) for details.
 - Learn more about the [IIIF Consortium](http://iiif.io/community/consortium/).
-- Attend a [IIIF event](http://iiif.io/event/).
+- Attend a [IIIF event](https://iiif.io/news-and-events/).
 - [iiif_io on Twitter](https://twitter.com/iiif_io).
 - [IIIF on Mastodon](https://glammr.us/@IIIF).
 
