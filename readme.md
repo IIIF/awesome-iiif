@@ -24,6 +24,7 @@ Likewise, there are other ways to see how people are implementing IIIF.
 **Disclaimer**: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, these lists are created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.
 
 ## Contents
+
 - [Standards](#standards)
 - [Official Resources](#official-resources)
 - [Image Servers](#image-servers)
@@ -53,21 +54,24 @@ Likewise, there are other ways to see how people are implementing IIIF.
 
 The IIIF community has developed [several standards](https://iiif.io/api/) for interoperable web-based image delivery.
 
-- [Image API](https://iiif.io/api/image/) - Specifies a web service that returns an image in response to a standard HTTP or HTTPS request.
-- [Presentation API](https://iiif.io/api/presentation/) - Provides the information necessary to allow a rich, online viewing environment for primarily image-based objects to be presented to a human user, likely in conjunction with the IIIF Image API.
-- [Authentication API](https://iiif.io/api/auth/) - Describes a set of workflows for guiding the user through an existing access control system.
-- [Change Discovery API](https://iiif.io/api/discovery/) -  This specification describes changes to IIIF content resources and the location of those resources for providers to harvest, to ultimately allow users to easily find and engage with content available via existing IIIF APIs.
-- [Content Search API](https://iiif.io/api/search/) - Specifies interoperability mechanism for searching within annotations.
-- [Content State API](https://iiif.io/api/content-state/) - Provides a way to refer to a IIIF Presentation API resource, or a part of a resource, in a compact format that can be used to initialize the view of that resource in any client.
-- [External Services API Annex](https://iiif.io/api/annex/services/) - Describes the set of related services that have been identified as useful to reference from the IIIF APIs.
-- [API Annex Documents](https://iiif.io/api/annex/) - List of all API annex documents and API implementation notes.
+- [Image API](https://iiif.io/api/image/) - Retrieves images from anywhere in the world and allows the user to select an area of the image and to resize, rotate, and edit the quality.
+- [Presentation API](https://iiif.io/api/presentation/) - Packages each image with its metadata so users know the origin, title of the image, and even what page of a book the image was from, likely in conjunction with the Image API.
+- [Content Search API](https://iiif.io/api/search/) - Perform search for text within or annotations related to digital objects.
+- [Authorization Flow API](https://iiif.io/api/auth/) - Control and restrict access by creating a link to a user interface for logging in and services that provide credentials.
+- [Change Discovery API](https://iiif.io/api/discovery/) -  Harvest any changes published by organizations that deliver digital objects.
+- [Content State API](https://iiif.io/api/content-state/) - Generate a very specific link to a particular view of an object, like a specific area on a particular page rotated at a certain angle.
+
+### IIIF Extensions
+
+- [navPlace Extension](https://iiif.io/api/extension/navplace/) - This IIIF Presentation 3 API extension defines a new property, navPlace, which is defined by earthbound geographic coordinates in the form of GeoJSON-LD.
+- [Georeference Extension](https://iiif.io/api/extension/text-granularity/) - This extension leverages Web Annotations to provide a pattern for georeferencing IIIF Presentation 3 API Canvases as well as images served through the IIIF Image API.
+- [Text Granularity Extension](https://iiif.io/api/extension/georef/) - This extension recommends a pattern for indicating the level of text granularity for an annotation related to optical character recognition (OCR) software, manual transcription, and existing digitized text.
 
 [Feedback is welcome](https://iiif.io/api/#feedback) on all IIIF Specifications, including draft versions and works-in-progress -- please send any feedback to [iiif-discuss@googlegroups.com](mailto:iiif-discuss@googlegroups.com).
 
 ## Additional Lists
 
 - [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md)
-- [Reading and Viewing](https://github.com/IIIF/awesome-iiif/blob/master/reading-viewing.md)
 
 ## Official Resources
 
@@ -100,7 +104,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server.
 
 
-## Shim Image Servers 
+##  Image Server Shims
 
 As defined by Wikipedia a shim is a small library that transparently intercepts an API, changing the parameters passed, handling the operation itself, or redirecting the operation elsewhere. These shims allow you to use an image server that does not currently support IIIF. If you have not implemented an image server yet, this is probably not where you want to start. 
 
@@ -149,9 +153,6 @@ Various tools for working with images such as cropping tools.
 - [iiif-dl](https://github.com/ryanfb/iiif-dl) - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server.
 - [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 - [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) - Example of using Leaflet to provide IIIF cropping.
-- [OpenSeadragon Cropping Tool](http://sul-dlss-deprecated.github.io/iiif-cropper/demo/) - Script to allow for cropping an image from within OpenSeadragon.
-- [Stanford Cropper](https://github.com/lizfischer/iiif-tools#cropper) - Simple image cropper.
-- [Wikimedia Commons Image Cropper](http://zone47.com/crotos/lab/cropper/) - Create IIIF image regions from image files at Wikimedia Commons.
 
 ## Presentation API Libraries
 - [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) - PHP library for generating IIIF manifests.
@@ -185,9 +186,12 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 - [Brif](https://github.com/pierrz/brif) - A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzai.io. See live [demo](https://brif-demo.muzai.io/dashboard).
+- [pdiiif](https://github.com/jbaiter/pdiiif) - a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers). 
 
 ## Validators 
-- [Hyperion](https://www.npmjs.com/package/@hyperion-framework/validator) - IIIF Presentation API 3 Validator in JavaScript
+- [Presentation API validator](https://iiif.io/api/presentation/validator/service/) - A service to validate a IIIF Presentation API resource against the specification.
+- [Image API validator](https://iiif.io/api/image/validator/) - A service to validate a IIIF Image API resource against the specification.
+- [Hyperion](https://www.npmjs.com/package/@hyperion-framework/validator) - IIIF Presentation API 3 Validator in JavaScript [N.B. being replaced by [Vault](https://github.com/IIIF-Commons/vault) as part of the [IIIF Commons](https://github.com/IIIF-Commons/)]
 - [Tripoli](https://ddmal.github.io/tripoli/) - IIIF Presentation API 2.0+ validation library.
 
 ## Exhibition and Guided Viewing Tools
@@ -200,7 +204,6 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
-- [Omeka-S plugins](#cms-integration) - additional plugins and description in the [CMS Integration](#cms-integration) section
 - [Panel Truck](https://geoservices.leventhalmap.org/cartinal/documentation/panel-truck.html) - Vue-based presentation tool, embeddable into any page as a Web Component, which supports slide-like narration over one or multiple IIIF sources, as well as static images and tiled map sources. ([Example](https://geoservices.leventhalmap.org/panel-truck/example.html))
 - [Simple Site IIIF Extensions](https://jpadfield.github.io/simple-site/extensions.html) This [Simple Site](https://jpadfield.github.io/simple-site/) has several extensions that make use of IIIF to produce customised presentations of a bespoke selection of IIIF manifests (e.g. in Mirador 3, Curtain Viewer and Panel Truck).
 - [Spotlight](http://spotlight.projectblacklight.org/) - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
@@ -231,16 +234,14 @@ Some resources about the IIIF Authentication API.
 
 Tutorials for how to accomplish functionality in your applications.
 
+- [IIIF Online Workshop](https://training.iiif.io/iiif-online-workshop/) - IIIF workshop materials and videos given by the IIIF-C and updated at each occurrence.
 - [Archiviiify](https://literarymachin.es/archiviiify/) - A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from raffaele messuti / [@atomotic](https://github.com/atomotic)].
 - [Drag and Drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) - Getting a IIIF image into Mirador with drag-and-drop and email.
 - [Experiments with IIIF and Gallica](https://github.com/altomator/IIIF/) - A guided tour of end user applications of IIIF to Gallica materials, by Jean-Philippe Moreux (BnF).
-- [Fellow Travelers: The Canterbury Tales and IIIF](http://web.stanford.edu/group/dmstech/cgi-bin/wordpress/author/blalbrit/) - Benjamin Albritton; includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
-- [Getting started with IIIF](https://iiif.github.io/training/intro-to-iiif/) - Introduction originally presented during a workshop at the 2017 Code4Lib Conference at Los Angeles, CA.
+- [Fellow Travelers: The Canterbury Tales and IIIF]https://blalbrit.github.io/2015/07/14/fellow-travelers-the-canterbury-tales-and-iiif) - Benjamin Albritton; includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
 - [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) - Uses IIIF as an example to explain APIs.
-- [IIIF Implementation Guide](http://iiif.io/assets/acc_implementation_guide_011017.pdf) - A step-by-step walkthrough of how to implement IIIF.
+- [IIIF Implementation Guide](https://guides.iiif.io/guide_for_implementers/) - A step-by-step walkthrough of how to implement IIIF.
 - [IIIF Intro (fr)](https://doc.biblissima.fr/introduction-iiif) - Introduction to IIIF (in French).
-- [IIIF Quick Start Guide](http://iiif.io/technical-details/) - Quick overview of how you might get started with implementing various IIIF standards.
-- [IIIF Workshop](http://ronallo.com/iiif-workshop/) - An online workshop that covers the basics of IIIF including the Image and Presentation APIs.
 - [IIIF Workshop for DHNord2020](https://github.com/regisrob/Atelier_IIIF_Conference_DHNord_2020) - French langauge workshop with three exercises from a workshop entitled "Adopt and use IIIF standards for your digital image corpora," created by Régis Robineau (technical coordinator of Biblissima) and Johann Holland (TGIR Huma-Num).
 - [Image API Playground](https://www.learniiif.org/image-api/playground) - Learn about the structure of a IIIF URL through manipulating the parameters and seeing the results in a live demo.
 - [Image Choice video](https://www.youtube.com/watch?v=4AJPVktQ1Zw) - Demonstration of how a canvas can have a choice of images and a viewer can toggle between them.
@@ -253,46 +254,44 @@ Tutorials for how to accomplish functionality in your applications.
 
 Slide decks and presentation videos with a focus on IIIF.
 
+**For the most recent videos of lightning talks, papers, and semi-annual conference presentations, see the official [IIIF Consortium YouTube channel](https://www.youtube.com/iiif-consortium).**
+
 - [An Introduction to the International Image Interoperability Framework](https://drive.google.com/file/d/0BwIq5pa1_rvfMnhCZmtzNTc5dnc/view) - Presentation introducing IIIF for new audiences as "the API for humans" - also contains videos from other IIIF presentations.
 - [Collection of slide decks](http://www.slideshare.net/IIIF_io/clipboards) - From various IIIF events.
 - [DHtech Workshop: Image Servers and IIIF](https://doi.org/10.20375/0000-000b-cb01-f) - Slides and recording from a DARIAH-DE workshop in 2018 by Robert Casties.
 - [Image API Introduction](https://docs.google.com/presentation/d/1urCPiL3LffkIWglKGW4SSEiojBt2_RKmt5YuDtBoRfY/edit?usp=sharing) - High level overview of the Image API parameters.
 - [IIIF For Small Projects](http://www.slideshare.net/workergnome/iiif-for-small-projects) - How IIIF can be used on small projects with limited infrastructure, presented at [KeystoneDH 2016](http://keystonedh.network/2016/).
 - [IIIF Tutorials (German)](https://www.youtube.com/playlist?list=PLxDekeBVQtVJeRqoTgsif7fJki2X96O-1) - YouTube playlist from the Zurich Central Library (Zentralbibliothek Zürich).
-- [Introduction to IIIF](https://drive.google.com/open?id=0B8APFBow4sHvNUNDQmp1Yko4VjQ) - Extensive presentation introducing IIIF with numerous examples and video demos, Beijing, October 2017.
-- [Introduction to IIIF (German)](https://drive.google.com/open?id=1PQAuaTbkPzmJOMDxtihyS0-gbUtTTcDC) - German translation of the above presentation.
 - [Introduction to the Presentation API](http://www.slideshare.net/azaroth42/iiif-presentation-api) - Rob Sanderson.
 - [OA - Shared Canvas - TEI - Biblissima project](http://www.slideshare.net/biblissima/oa-shared-canvas-tei-biblissima-project) - Part of a workshop on TEI and neighboring standards including IIIF.
 - [Video from IIIF event at the National Gallery of Art](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6iQpKTXnhnlQpmoMLT1fB7) - May 2015.
 - [Video from the outreach event at the Museum of Modern Art ](https://www.youtube.com/playlist?list=PLYPP1-8uH9c5smSD2wyVgsqKxD218khZq) - May 2016.
-- [YouTube playlist from IIIF Göttingen Lightning Talks](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6rqC0KbHUPyfmHkfvCQYCk) - Short talks (usually ~10 minutes) covering a variety of topics and new IIIF implementations; recorded June June 26, 2019 (see [full program](https://iiif.io/event/2019/goettingen/wednesday/) for links to abstracts).
-- [YouTube playlist from IIIF Göttingen Showcase](https://www.youtube.com/playlist?list=PLYPP1-8uH9c534aTUrsPX1xX86KGVWmAu) - Day of presentations geared toward relative newcomers to IIIF, covering a variety of general topics; Recorded June 24, 2019 (see [full program](https://iiif.io/event/2019/goettingen/showcase/) for links to abstracts).
-- [YouTube playlist from IIIF Week 2020](https://www.youtube.com/watch?v=k1VsUZZTDNE&list=PLYPP1-8uH9c4QFWKf-dbv3Il4ukkuFAje) - Presentations and demos from the IIIF Week Online event which was held between 1 and 5 June 2020.
+
+
 
 ## Discovery
 
 Links to help you discover IIIF resources that have been shared, demonstrations of IIIF discovery and useful discovery tools.
 
+- [detektIIIF2](https://chrome.google.com/webstore/detail/detektiiif2/aaodcobgcadinjipaocibamdfcffpcpp) - a Chrome extension that automatically detects IIIF resources in web pages and offers users a convenient way to collect and reuse them. 
 - [Biblissima IIIF-Collections](https://iiif.biblissima.fr/collections/) - Prototype application that allows you to search across IIIF-compliant manuscripts and rare books dated before 1800.
 - [Europeana's IIIF filtered search](https://www.europeana.eu/portal/en/search?q=provider_aggregation_edm_isShownBy%3A*iiif*&view=grid) - Europeana provides a filter to identify all IIIF-enabled resources in its collections.
-- [IIIF Discovery in Japan](http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/page/home) - Prototype discovery system for IIIF resources in Japan.
-- [IIIF Explorer](https://researchworks.oclc.org/iiif-explorer/) - OCLC's IIIF Explorer is a prototype application that searches across images (all IIIF-enabled) in the CONTENTdm digital content management systems hosted by OCLC.
+- [Cultural Japan](https://cultural.jp/) - Discovery system for IIIF resources in Japan.
 - [iiif-universe](https://github.com/ryanfb/iiif-universe) - Repository that includes links to known IIIF presentation manifest collections.
 - [iNQUIRE demo](http://inquire.armtest.uk/) - Open-source IIIF-compliant research and discovery platform. This is the IIIF-compliant version of the platform driving [Digital Bodleian] (http://digital.bodleian.ox.ac.uk/).
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) - Github repository for iNQUIRE.
-- [Musiclibs](https://musiclibs.net) - Provides cross-library search of thousands of musical scores and manuscripts.
 
 ### Import to Viewers
 
 - [iiif.link](https://github.com/atomotic/iiif.link) - A url shortener for sharing a IIIF resource; upon opening the URL the viewer will open at the saved zoom and region of interest.
 - [Open in IIIF Viewer](https://github.com/2SC1815J/open-in-iiif-viewer) - A web browser extension to open IIIF manifest link in your favorite IIIF viewer. 
+- 
 
 ## Annotations
 
 While annotations are not specified by IIIF they are an important enabling technology.
 
 - [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
-- [In the Spotlight](http://playbills.libcrowds.com/) - Crowdsourced contributions are serialised according to the [Web Annotations Data Model](https://www.w3.org/TR/annotation-model/).
 - [Recogito](https://recogito.pelagios.org/) - A popular and award-winning Digital Humanities platform for collaborative document annotation, maintained by [Pelagios](https://pelagios.org/). 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
 
@@ -301,9 +300,9 @@ While annotations are not specified by IIIF they are an important enabling techn
 - [annotot](https://github.com/PenguinParadigm/annotot) - Simple IIIF annotations mounted in a Ruby on Rails applications.
 - [CatchPy](https://github.com/nmaekawa/catchpy) - Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.
 - [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
-- [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) - IIIF annotations JS client over IPFS.
-- [Local IIIF Annotation Server](https://github.com/dnoneill/annotate) - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.
-- [MangoServer](https://github.com/azaroth42/MangoServer) - Mongo-backed annotation server written in Python.
+- [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db)[deprecated] - IIIF annotations JS client over IPFS.
+- [Local IIIF Annotation Server](https://github.com/dnoneill/annotate)[deprecated] - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.
+- [MangoServer](https://github.com/azaroth42/MangoServer)[deprecated] - Mongo-backed annotation server written in Python.
 - [Miiify](https://github.com/nationalarchives/miiify) - Light-weight annotation server built on the same principles as Git.
 - [SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.
 
@@ -324,12 +323,11 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 
 ## Newspapers
 
-These are resources that are specifically useful for working with newspapers. Many of them are outputs of the [IIIF Newspaper Community Group](http://iiif.io/community/groups/newspapers/).
+These are resources that are specifically useful for working with newspapers. Many of them are outputs of the [IIIF Newspaper Community Group](http://iiif.io/community/groups/newspapers/) (now on hiatus).
 
-- [docker-open-oni](https://github.com/open-oni/docker-open-oni) - Docker friendly setup for open-oni, which will set up and configure the Web application as well as the MySQL, Solr and RAIS Image Server.
+- [ Open ONI (Open Online Newspaper Initiative)](https://github.com/open-oni/open-oni) - Open Online Newspaper Initiative (Open ONI) is a community-maintained project to make historic American newspapers browsable and searchable on the web.
 - [IIIF Newspapers Google Drive Folder](https://goo.gl/jNFfVw) - Working documents of the Interest Group for meeting minutes, and working drafts of best practices, etc.
 - [ndnp_iiif](https://github.com/umd-mith/ndnp_iiif) - Python program for turning [National Digital Newspaper Program data](https://www.loc.gov/ndnp/) into static IIIF JSON that is ready for mounting on the Web.
-- [open-oni](https://github.com/open-oni/open-oni) - Friendly fork of [chronam](https://github.com/libraryofcongress/chronam) which is a webapp for viewing National Digital Newspaper Program data from the Library of Congress.
 - [Populating the Annotation Store with IIIF Annotation List](https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md) - Provides instructions on how to edit OCR text using annotations in Mirador.
 - [Welsh Newspapers Online](http://newspapers.library.wales/) - Provides access to over 1 million newspaper pages using the IIIF Image API.
 - National Library of Wales' guide to [IIIF Newspapers](http://dev.llgc.org.uk/wiki/index.php?title=IIIF_Newspapers) provides an explanation and examples of how IIIF applies to newspapers.
