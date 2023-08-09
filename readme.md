@@ -43,12 +43,13 @@ Likewise, there are other ways to see how people are implementing IIIF.
 - [Videos and Slide Decks](#videos-and-slide-decks)
 - [Discovery](#discovery)
 - [Annotations](#annotations)
+- [Crowdsourcing](#crowdsourcing)
 - [CMS Integration](#cms-integration)
 - [Newspapers](#newspapers)
 - [STEM](#stem)
 - [Experiments and Fun](#experiments-and-fun)
 - [Community](#community)
-- [Digital Asset Management (DAMs)](#digital-asset-management-dams-that-support-iiif)
+- [Collection Management/Digital Asset Management support](#collection-management-systems-cmss-and-digital-asset-management-dams-that-support-iiif)
 
 ## Standards
 
@@ -114,6 +115,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Shimmy](https://github.com/mejackreed/shimmy) - Ruby gem designed to help you build shims for the IIIF Presentation API.
 
 ## Image Viewers
+
 - [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 - [Chronoscope World](https://mprove.de/chronoscope/world.html) – A viewer specially suited for IIIF maps; but also a fast IIIF book viewer. It supports the IIIF Image API 2.1.
 - [Clover IIIF](https://samvera-labs.github.io/clover-iiif/) - IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvases for React.js
@@ -135,6 +137,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) - Rich embeddable interface.
 
 ## Image API Libraries
+
 - [iiif](https://github.com/zimeon/iiif) - Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
 - [iiif_url](https://github.com/NCSU-Libraries/iiif_url) - Ruby library for creating and parsing IIIF Image API URLs.
@@ -142,20 +145,25 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [image-iiif](https://github.com/conlect/image-iiif) - A bring your own framework solution for implementing IIIF Image API 2.1 with PHP.
 - [iOSTiledViewer](https://github.com/moravianlibrary/iOSTiledViewer) - IIIF image API and Zoomify viewer for iOS, written in Swift.
 - [libvips](https://libvips.github.io/libvips/) - A fast image processing library with low memory needs. Includes an operation that can build image pyramids compatible with IIIF Image API.
+- [Node node-iiif](https://github.com/samvera/node-iiif) - a full-featured image processor supporting the IIIF Image API versions 2.1 and 3.0.
 - [piffle](https://github.com/emory-lits-labs/piffle) - Python library for generating and parsing IIIF Image API URLs.
 
 ## Image Tools
 
 Various tools for working with images such as cropping tools.
 
+- [CanvasFinder](https://glenrobson.github.io/CanvasFinder/) - allows you to paste a IIIF Manifest URL into the box below and it will show you all of the Canvases which are present in that manifest.
 - [Compariscope](https://vanda.github.io/iiif-features/) - A demo app by the Victoria & Albert useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.
 - [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 - [IIIF cropping tool](https://ncsu-libraries.github.io/iiif-crop-tool/) - Website using [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) and Jekyll that allow users to enter the URL of a IIIF image and get the URL for the cropped section of the image.
 - [iiif-dl](https://github.com/ryanfb/iiif-dl) - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server.
+- [IIIF Image Inspector](https://iiifimage.link/) - a small tool to inspect metadata about IIIF images and demonstrate how their image file URLs may be constructed.
 - [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 - [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) - Example of using Leaflet to provide IIIF cropping.
+- [Software tools from Oxford Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/software/)
 
 ## Presentation API Libraries
+
 - [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) - PHP library for generating IIIF manifests.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
 - [iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) - Presentation 2 Python library providing a reference implementation.
@@ -169,6 +177,7 @@ Various tools for working with images such as cropping tools.
 - [pyIIIFpres](https://github.com/giacomomarchioro/pyIIIFpres) - A Python module built for easing the construction of JSON manifests compliant with IIIF API 3.0 in a production environment, similarly to iiif-prezi for earlier versions of the protocol.
 - [Swiiift](https://github.com/mejackreed/Swiiift) - IIIF presentation API library for Swift.
 - [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) - npm module for creating and manipulating IIIF manifests.
+- [tiny-iiif-manifest-authoring-tool](https://github.com/yuta1984/tiny-iiif-manifest-authoring-tool) - A node.js web app that provides a one-stop solution for publishing IIIF resources, offering various functionalities from image uploading to IIIF manifest authoring.
 - [ViewDir](https://iiif-commons.github.io/) - Documentation on IIIF-related libraries and components, from an open community of designers and developers interested in creating composable and interoperable interfaces for consuming and creating online content.
 
 ## Presentation API Shims
@@ -190,6 +199,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [pdiiif](https://github.com/jbaiter/pdiiif) - a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers). 
 
 ## Validators 
+
 - [Presentation API validator](https://iiif.io/api/presentation/validator/service/) - A service to validate a IIIF Presentation API resource against the specification.
 - [Image API validator](https://iiif.io/api/image/validator/) - A service to validate a IIIF Image API resource against the specification.
 - [Hyperion](https://www.npmjs.com/package/@hyperion-framework/validator) - IIIF Presentation API 3 Validator in JavaScript [N.B. being replaced by [Vault](https://github.com/IIIF-Commons/vault) as part of the [IIIF Commons](https://github.com/IIIF-Commons/)]
@@ -199,12 +209,14 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 
 Tools and resources that provide functionality for presenting IIIF materials in an exhibition-like setting (and potentially other functionality).
 
+- [Adno](https://adno.app/en/) - a web application for viewing, editing and sharing narratives and pathways on IIIF images.
 - [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
 - [Bloom IIIF](https://samvera-labs.github.io/bloom-iiif/) - IIIF Presentation API Collection items React.js component that renders a horizontal slider
 - [Canopy IIIF](https://github.com/mathewjordan/canopy-iiif) - A IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions 
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
+- [Juncture](https://www.juncture-digital.org/) - a suite of tools and services that enable anyone to easily create engaging web pages with rich visualizations, including interactive images, videos, maps, and more.
 - [Panel Truck](https://geoservices.leventhalmap.org/cartinal/documentation/panel-truck.html) - Vue-based presentation tool, embeddable into any page as a Web Component, which supports slide-like narration over one or multiple IIIF sources, as well as static images and tiled map sources. ([Example](https://geoservices.leventhalmap.org/panel-truck/example.html))
 - [Simple Site IIIF Extensions](https://jpadfield.github.io/simple-site/extensions.html) This [Simple Site](https://jpadfield.github.io/simple-site/) has several extensions that make use of IIIF to produce customised presentations of a bespoke selection of IIIF manifests (e.g. in Mirador 3, Curtain Viewer and Panel Truck).
 - [Spotlight](http://spotlight.projectblacklight.org/) - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
@@ -309,8 +321,19 @@ While annotations are not specified by IIIF they are an important enabling techn
 
 ### Annotation Clients
 
+- [Adno](https://adno.app/en/) - a web application for viewing, editing and sharing narratives and pathways on IIIF images.
 - [Annonatate](https://annonatate.fly.dev/) - Website that allows users to create annotations via their GitHub account. The website saves all the annotations to the user's GitHub. Also makes use of Annona and allows users to create custom Annona views.
 - [IIIF Annotation Studio](https://github.com/atomotic/iiif-annotation-studio) - Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.
+
+
+## Crowdsourcing
+
+- [Cratylus](https://apps.bowdoin.edu/cratylus/) - a crowd-sourced art tagging toolset.
+- [iiif-annotations](https://github.com/zooniverse/iiif-annotations) - A proof-of-concept, annotating a IIIF manifest with Zooniverse classification data.
+- [FromThePage](https://fromthepage.com/) - a crowdsourcing platform for archives and libraries where volunteers transcribe, index, and describe historic documents.
+- [Madoc](https://madoc.digirati.com/) - a flexible crowdsourcing, research and teaching platform for digitised collections.
+- [Pybossa](https://pybossa.com/) - a crowdsourcing framework to analyze or enrich data that can't be processed by machines alone.
+- [Recogito](https://recogito.pelagios.org/) - an online platform for collaborative document annotation.
 
 ## CMS Integration
 
@@ -349,6 +372,7 @@ Science, Technology, Engineering, Math/Medicine
 - [David Rumsey MapTab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en) - A IIIF powered, Chrome extension that displays a random map from the David Rumsey Map Collection everytime you open a new tab in your browser. Built using Leaflet-IIIF and React.js. Created by Jack Reed, Stanford University Libraries.
 - [Exquisite Corpse](https://github.com/harvardartmuseums/exquisite-iiif-demo) - A prototype that deliberately mixes up portrait paintings. Created using Node.js by Jeff Steward, Harvard Art Museums.
 - [Fractals](http://www.appliediiif.org.uk/live/fractalshome.htm) - Deep zoom into a huge (1bn x 1bn pixel) fractal image, created by Sean Martin, Applied IIIF.
+- [IIIF for Dolls](https://iiif-for-dolls.davidnewbury.com/) - use IIIF to create printable versions of your favorite work at a variety of scales.
 - [IIIF Gallery](http://digirati-co-uk.github.io/iiif-gallery/src/) - A virtual art gallery using OpenSeadragon and custom image generation, created by Stephen Fraser, Digirati. Also see [full source code](https://github.com/digirati-co-uk/iiif-gallery/).
 - [IIIF Stereographs](https://stereograph.davidnewbury.com/) - Exploring Stereo Photos with IIIF
 - [Image Comparison with a Magnifying Glass](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-mag.html) - Image comparison using leaflet magnifying glass by Digirati.
@@ -377,18 +401,22 @@ IIIF is a community-based initiative that relies on active participation, discus
 - [iiif_io on Twitter](https://twitter.com/iiif_io).
 - [IIIF on Mastodon](https://glammr.us/@IIIF).
 
-## Digital Asset Management (DAMs) that support IIIF
+## Collection Management Systems (CMSs) and Digital Asset Management (DAMs) that support IIIF
 
  - [Archipelago](https://archipelago.nyc/)
  - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
+ - [Aviary](https://weareavp.aviaryplatform.com/)
  - [CollectiveAccess](https://collectiveaccess.org)
  - [ContentDM](https://www.oclc.org/en/contentdm/iiif.html)
  - [Goobi](https://goobi.io)
  - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
  - [Invenio](https://invenio-software.org/products/framework/) (Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
+ - [Knowledge Integration CIIM](https://www.k-int.com/products/ciim/)
+ - [Kitodo](https://www.kitodo.org/)
  - [Libnova/Libsafe](https://www.libnova.com/) (Image API)
  - [Luna](http://www.lunaimaging.com/iiif)
  - [Muzai.io platform](https://muzai.io) (based on [Brif](https://github.com/pierrz/brif))
+ - [NetX](https://www.netx.net/)
  - [ResCarta](https://rescarta.org/)
  - [ResourceSpace](https://www.resourcespace.com/knowledge-base/api/iiif)
  - [Rosetta](https://knowledge.exlibrisgroup.com/Rosetta/Training/What's_New_Videos/Rosetta_5-3)
