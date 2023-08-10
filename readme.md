@@ -29,7 +29,7 @@ Likewise, there are other ways to see how people are implementing IIIF.
 - [Official Resources](#official-resources)
 - [Image Servers](#image-servers)
 - [Image Server Shims](#image-server-shims)
-- [Image Viewers](#image-viewers)
+- [IIIF Viewers](#iiif-viewers)
 - [Image API Libraries](#image-api-libraries)
 - [Image Tools](#image-tools)
 - [Presentation API Libraries](#presentation-api-libraries)
@@ -44,6 +44,7 @@ Likewise, there are other ways to see how people are implementing IIIF.
 - [Discovery](#discovery)
 - [Annotations](#annotations)
 - [Crowdsourcing](#crowdsourcing)
+- [Hosting](#hosting)
 - [CMS Integration](#cms-integration)
 - [Newspapers](#newspapers)
 - [STEM](#stem)
@@ -114,27 +115,32 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Flask-IIIF](https://github.com/inveniosoftware/flask-iiif) - Flask extension to support IIIF in Python/Flask applications. See [Flask-IIIF previewer demo](http://flask-iiif.herokuapp.com/previewer) and [Flask-IIIF RESTful demo](http://flask-iiif.herokuapp.com/restful).
 - [Shimmy](https://github.com/mejackreed/shimmy) - Ruby gem designed to help you build shims for the IIIF Presentation API.
 
-## Image Viewers
+## IIIF Viewers
 
 - [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 - [Chronoscope World](https://mprove.de/chronoscope/world.html) – A viewer specially suited for IIIF maps; but also a fast IIIF book viewer. It supports the IIIF Image API 2.1.
 - [Clover IIIF](https://samvera-labs.github.io/clover-iiif/) - IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvases for React.js
 - [Diva.js](https://ddmal.github.io/diva.js/) - IIIF image viewer optimized for speed and flexibility.
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
-- [IIIFViewer](https://github.com/klokantech/iiifviewer) - IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.
-  - [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) - OpenSeadragon plugin with utility functions.
 - [Internet Archive BookReader](https://github.com/internetarchive/bookreader) - A viewer developed by the Internet Archive, specially suited for viewing books.
-- [IIPMooViewer](https://iipimage.sourceforge.io/documentation/iipmooviewer/) - IIPMooViewer is an open source, Javascript and HTML5 image streaming and zooming client. IIPMooViewer is IIIF-compatible and works with IIPServer or other IIIF compatible servers. [Demo](https://iipimage.sourceforge.io/demo/)
-- [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) - Lightweight, extensible IIIF image viewer.
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
-- [Mirador](https://github.com/IIIF/mirador) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
-- [OpenLayers](https://openlayers.org) - High-performance, feature-packed Javascript library especially built for maps. It supports the IIIF Image API 2.1.
-- [openseadragon-react-viewer](https://www.npmjs.com/package/openseadragon-react-viewer) - A React wrapper component around OpenSeadragon which offers selectable, extended UI functionality.
+- [Mirador](projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
+- [Tify](https://github.com/subugoe/tify) - Slim and fast IIIF document viewer built with Vue.js.
+- [Universal Viewer](universalviewer.io/) - Rich embeddable interface.
+
+
+
+### Image viewers (Image API only)
 - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) - IIIF tile support.
   - [Scalebar Plugin](https://github.com/NIST-ISG/OpenSeadragonScalebar) - OpenSeadragon plugin for physical scale overlay.
   - [Curtain Viewer](https://github.com/vanda/curtain-viewer) - Viewer based on OpenSeadragon using the curtain-sync plugin for comparing naturally aligned image variants
-- [Tify](https://github.com/subugoe/tify) - Slim and fast IIIF document viewer built with Vue.js.
-- [Universal Viewer](https://github.com/UniversalViewer/universalviewer) - Rich embeddable interface.
+- [openseadragon-react-viewer](https://www.npmjs.com/package/openseadragon-react-viewer) - A React wrapper component around OpenSeadragon which offers selectable, extended UI functionality.
+## Image API Libraries
+- [IIIFViewer](https://github.com/klokantech/iiifviewer) - IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.
+- [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) - OpenSeadragon plugin with utility functions.
+- [IIPMooViewer](https://iipimage.sourceforge.io/documentation/iipmooviewer/) - IIPMooViewer is an open source, Javascript and HTML5 image streaming and zooming client. IIPMooViewer is IIIF-compatible and works with IIPServer or other IIIF compatible servers. [Demo](https://iipimage.sourceforge.io/demo/)
+- [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) - Lightweight, extensible IIIF image viewer.
+- [OpenLayers](https://openlayers.org) - High-performance, feature-packed Javascript library especially built for maps. It supports the IIIF Image API 2.1.
 
 ## Image API Libraries
 
@@ -302,8 +308,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 ## Annotations
 
-While annotations are not specified by IIIF they are an important enabling technology.
-
+- [ALTO to Annotation list](https://github.com/glenrobson/iiif_stuff/tree/master/alto2annotations) - This XSLT converts an ALTO xml document to an annotation lists for use with a IIIF manifests.
 - [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
 - [Recogito](https://recogito.pelagios.org/) - A popular and award-winning Digital Humanities platform for collaborative document annotation, maintained by [Pelagios](https://pelagios.org/). 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
@@ -345,11 +350,20 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 - [Mirador Viewer Omeka S Module](https://github.com/Daniel-KM/Omeka-S-module-Mirador) - Omeka S module that integrates the Mirador image viewer.
 - [UniversalViewer Omeka S Module](https://omeka.org/s/modules/UniversalViewer/) - Omeka S module that integrates UniversalViewer.
 
+## Hosting
+
+Internet file hosting that provides IIIF support (including both paid and free options). 
+
+- [Digirati DLCS](https://iiif-cloud.digirati.com/)
+- [Internet Archive](https://archive.org/)
+- [Klokan](http://iiifhosting.com/) 
+- [Micrio](https://micr.io/iiif) 
+
 ## Newspapers
 
 These are resources that are specifically useful for working with newspapers. Many of them are outputs of the [IIIF Newspaper Community Group](http://iiif.io/community/groups/newspapers/) (now on hiatus).
 
-- [ Open ONI (Open Online Newspaper Initiative)](https://github.com/open-oni/open-oni) - Open Online Newspaper Initiative (Open ONI) is a community-maintained project to make historic American newspapers browsable and searchable on the web.
+- [Open ONI (Open Online Newspaper Initiative)](https://github.com/open-oni/open-oni) - Open Online Newspaper Initiative (Open ONI) is a community-maintained project to make historic American newspapers browsable and searchable on the web.
 - [IIIF Newspapers Google Drive Folder](https://goo.gl/jNFfVw) - Working documents of the Interest Group for meeting minutes, and working drafts of best practices, etc.
 - [ndnp_iiif](https://github.com/umd-mith/ndnp_iiif) - Python program for turning [National Digital Newspaper Program data](https://www.loc.gov/ndnp/) into static IIIF JSON that is ready for mounting on the Web.
 - [Populating the Annotation Store with IIIF Annotation List](https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md) - Provides instructions on how to edit OCR text using annotations in Mirador.
@@ -361,30 +375,27 @@ These are resources that are specifically useful for working with newspapers. Ma
 Science, Technology, Engineering, Math/Medicine
 
 - [CellXplorer](https://courses.edx.org/courses/course-v1:HarvardX+MCB64.1x+2T2016/d16e07a5cec442eeb7cd9dfcb695dce0/) - Cell biology annotations in a deep zoom viewer.
+- [MicroDraw](https://microdraw.pasteur.fr/) - a web application to visualise and annotate collaboratively high resolution histology data. 
 
 ## Experiments and Fun
 
 - [3D trade cards explorer](http://labs.cogapp.com/tc/) - A 3D environment that displays nineteenth-century trade cards from the [Boston Public Library](https://www.digitalcommonwealth.org/collections/commonwealth:gq67jz045). Designed to be viewed on a mobile phone, ideally with Google Cardboard. Created using three.js by Jon White, Cogapp.
 - [Animal Crossing Art Generator](https://experiments.getty.edu/ac-art-generator) - Getty's tool leverages IIIF to create custom patterns featuring artwork from famous art collections around the world.
 - [ANTLITZ.NINJA](https://antlitz.ninja) - Award-winning digital art app that cuts and re-combines historical portraits. Based on IIIF.
+- [Atlascope](https://www.leventhalmap.org/articles/atlascope-explained-looking-between-the-cracks/) - a tool for exploring historic urban atlases in metropolitan Boston and telling stories about how places have changed over time. 
 - [cover.boutique](https://cover.boutique) - Award-winning web application to create designs for smartphone cases from IIIF resources.
-- [Automapic collections bot](https://twitter.com/auto_mapic) - Twitter bot that randomly pulls a IIIF excerpt, zoomed in at maximum resolution, from the Leventhal Map & Education Center's digital collections
 - [David Rumsey MapTab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en) - A IIIF powered, Chrome extension that displays a random map from the David Rumsey Map Collection everytime you open a new tab in your browser. Built using Leaflet-IIIF and React.js. Created by Jack Reed, Stanford University Libraries.
-- [Exquisite Corpse](https://github.com/harvardartmuseums/exquisite-iiif-demo) - A prototype that deliberately mixes up portrait paintings. Created using Node.js by Jeff Steward, Harvard Art Museums.
 - [Fractals](http://www.appliediiif.org.uk/live/fractalshome.htm) - Deep zoom into a huge (1bn x 1bn pixel) fractal image, created by Sean Martin, Applied IIIF.
 - [IIIF for Dolls](https://iiif-for-dolls.davidnewbury.com/) - use IIIF to create printable versions of your favorite work at a variety of scales.
-- [IIIF Gallery](http://digirati-co-uk.github.io/iiif-gallery/src/) - A virtual art gallery using OpenSeadragon and custom image generation, created by Stephen Fraser, Digirati. Also see [full source code](https://github.com/digirati-co-uk/iiif-gallery/).
 - [IIIF Stereographs](https://stereograph.davidnewbury.com/) - Exploring Stereo Photos with IIIF
 - [Image Comparison with a Magnifying Glass](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-mag.html) - Image comparison using leaflet magnifying glass by Digirati.
 - [Image Comparison with a Slider](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-sbs.html) - Image comparison using leaflet slider by Digirati.
+- [Moviemaps](https://www.leventhalmap.org/articles/roll-the-tape-with-moviemaps/) - a way to pair a video discussion with digital collections objects that zoom and pan while synchronized with the video, while still allowing free exploration.
 - [Old Map Room](https://itunes.apple.com/us/app/old-map-room/id1347431506) - An AppleTV application that uses IIIF to turn any room into a map room.
 - [Puzzles! Powered by IIIF](http://puzzle.mikeapps.me/) - Drag-and-drop image tile puzzles created by Michael Appleby, Yale Center for British Art.
 - [Sleep Stories](https://wellcometrust.github.io/annotation-viewer/quilt/) - Experiment with the W3C Web Annotation Data Model. The  annotations present a sequence of stories associated with a large image. Optimised for mobile. Created by Andrew Dyton and Stephen Fraser, Digirati, for Wellcome Collection.
-- [Slider puzzles](http://blalbrit.github.io/puzzles) - More drag-and-drop puzzles and a Medieval Word Maker, created by Ben Albritton, Stanford University Libraries.
+- [Medieval Word Maker](http://blalbrit.github.io/iiif_make_words.html) - a Medieval Word Maker, created by Ben Albritton, Stanford University Libraries.
 - [Storiiies](http://storiiies.cogapp.com/) - Cogapp's showcase of recent experiments in digital storytelling using IIIF.
-- [The Transcriptinator](http://labs.cogapp.com/transcriptinator/) - A prototype "game" created for use on the British Library's crowd-sourcing arcade machine. Players have to flag up errors in the OCR transcriptions of content taken from the [Qatar Digital Library](http://www.qdl.qa). Created by Jon White and Tristan Roddis, Cogapp.
-- [Wax](https://minicomp.github.io/wax/) - Minimal computing for producing digital exhibitions with Jekyll.
-- [X-raying Balenciaga](https://www.vam.ac.uk/articles/x-raying-balenciaga) - Beautiful use of IIIF images to show X-rays of Balenciaga fashion by the Victoria & Albert Museum.
 
 ## Community
 
@@ -392,10 +403,10 @@ IIIF is a community-based initiative that relies on active participation, discus
 
 - Join the [IIIF-Discuss email list](https://groups.google.com/forum/#!forum/iiif-discuss).
 - Join [IIIF Slack](https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5_y4mtWqVrBA/viewform) for the most up to date and broad discussions.
-- Read quarterly [IIIF Community Newsletters](http://iiif.io/news/) to stay up to date with the latest community activities.
+- Read the [IIIF Community Newsletters](https://iiif.io/newsletter/) to stay up to date with the latest community activities.
 - [Submit a IIIF-related news item](https://goo.gl/forms/2LMe9zUHVBEbI62C3) to the IIIF Community Newsletter.
 - Contribute to one of the [IIIF community and/or technical groups](http://iiif.io/community/groups/).
-- Participate in the bi-weekly IIIF community calls. See the [IIIF community calendar](http://iiif.io/community/groups/) for details.
+- Participate in the IIIF community calls. See the [IIIF community calendar](http://iiif.io/community/groups/) for details.
 - Learn more about the [IIIF Consortium](http://iiif.io/community/consortium/).
 - Attend a [IIIF event](https://iiif.io/news-and-events/).
 - [iiif_io on Twitter](https://twitter.com/iiif_io).
