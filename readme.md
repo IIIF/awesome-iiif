@@ -354,7 +354,7 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 
 Internet file hosting that provides IIIF support (including both paid and free options). 
 
-- [Digirati DLCS](https://dlcs.info/)
+- [Digirati DLCS](https://iiif-cloud.digirati.com/)
 - [Internet Archive](https://archive.org/)
 - [Klokan](http://iiifhosting.com/) 
 - [Micrio](https://micr.io/iiif) 
