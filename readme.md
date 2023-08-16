@@ -374,7 +374,8 @@ These are resources that are specifically useful for working with newspapers. Ma
 
 Science, Technology, Engineering, Math/Medicine
 
-- [CellXplorer](https://courses.edx.org/courses/course-v1:HarvardX+MCB64.1x+2T2016/d16e07a5cec442eeb7cd9dfcb695dce0/) - Cell biology annotations in a deep zoom viewer.
+- [CellXplorer](https://courses.edx.org/courses/course-v1:HarvardX+MCB64.1x+2T2023/d16e07a5cec442eeb7cd9dfcb695dce0/)
+Cell biology annotations in a deep zoom viewer
 - [MicroDraw](https://microdraw.pasteur.fr/) - a web application to visualise and annotate collaboratively high resolution histology data. 
 
 ## Experiments and Fun
