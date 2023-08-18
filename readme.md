@@ -68,7 +68,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 These shims allow you to use an image server that does not currently support IIIF. If you have not implemented an image server yet, this is probably not where you want to start.
 
 - [Djatoka Ruby gem](https://github.com/jronallo/djatoka) convert IIIF URLs into the URLs that Djatoka requires.
-- - [djiiif](https://github.com/rogerhoward/djiiif) - djiiif is a Django package designed to make integrating the IIIF Image API easier by extending Django's ImageField. By defining one or more named "profiles", your ImageFields expose IIIF-compatible URLs for each profile.
+- [djiiif](https://github.com/rogerhoward/djiiif) - djiiif is a Django package designed to make integrating the IIIF Image API easier by extending Django's ImageField. By defining one or more named "profiles", your ImageFields expose IIIF-compatible URLs for each profile.
 - [Shimmy](https://github.com/mejackreed/shimmy) is a Ruby gem designed to help you build shims for the IIIF Presentation API.
 - [ContentDM Image translator](https://github.com/azaroth42/pi3f/tree/master/shims/ContentDM) makes ContentDM images available through IIIF. Python.
 - [Flask-IIIF](https://github.com/inveniosoftware/flask-iiif) Flask extension to support IIIF in Python/Flask applications. See [Flask-IIIF previewer demo](http://flask-iiif.herokuapp.com/previewer) and [Flask-IIIF RESTful demo](http://flask-iiif.herokuapp.com/restful).
