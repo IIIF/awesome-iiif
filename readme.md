@@ -112,6 +112,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 - [ContentDM Image translator](https://github.com/azaroth42/pi3f/tree/master/shims/ContentDM) - Makes ContentDM images available through IIIF. Python.
 - [Djatoka Ruby gem](https://github.com/jronallo/djatoka) - Convert IIIF URLs into the URLs that Djatoka requires.
+- [djiiif](https://github.com/rogerhoward/djiiif) - Package designed to make integrating the IIIF Image API easier by extending Django's ImageField.
 - [Flask-IIIF](https://github.com/inveniosoftware/flask-iiif) - Flask extension to support IIIF in Python/Flask applications. See [Flask-IIIF previewer demo](http://flask-iiif.herokuapp.com/previewer) and [Flask-IIIF RESTful demo](http://flask-iiif.herokuapp.com/restful).
 - [Shimmy](https://github.com/mejackreed/shimmy) - Ruby gem designed to help you build shims for the IIIF Presentation API.
 
@@ -127,8 +128,6 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Mirador](projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
 - [Tify](https://github.com/subugoe/tify) - Slim and fast IIIF document viewer built with Vue.js.
 - [Universal Viewer](universalviewer.io/) - Rich embeddable interface.
-
-
 
 ### Image viewers (Image API only)
 - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) - IIIF tile support.
