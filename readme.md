@@ -199,6 +199,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [IIIF Download](https://www.lizmfischer.com/iiif-tools/download) - Input a IIIF Manifest URL to and the desired image size to download a zip of all that Manifest's images
 - [IIIF Manifest Explorer](https://www.lizmfischer.com/iiif-tools/manifest) - Input a IIIF manifest link to see basic object and image metadata in a human-friendly format.
 - [iiif-producer](https://github.com/ubleipzig/iiif-producer) - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
+- [Leiden's Islandora IIIF Manifest Generator](https://github.com/LeidenUniversityLibrary/islandora_iiif_manifests) - A module to generate IIIF Manifest for Islandora.
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 - [Brif](https://github.com/pierrz/brif) - A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzai.io. See live [demo](https://brif-demo.muzai.io/dashboard).
 - [pdiiif](https://github.com/jbaiter/pdiiif) - a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers). 
