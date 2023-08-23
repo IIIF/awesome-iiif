@@ -299,6 +299,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [iiif-universe](https://github.com/ryanfb/iiif-universe) - Repository that includes links to known IIIF presentation manifest collections.
 - [iNQUIRE demo](http://inquire.armtest.uk/) - Open-source IIIF-compliant research and discovery platform. This is the IIIF-compliant version of the platform driving [Digital Bodleian] (http://digital.bodleian.ox.ac.uk/).
 - [iNQUIRE source](https://github.com/armadillo-systems/inquire) - Github repository for iNQUIRE.
+- [museum-digital](https://global.museum-digital.org) - Portal that provides access to digital objects from many museums (mostly in Germany and Central Europe), some of which are IIIF-enabled.
 
 ### Import to Viewers
 
