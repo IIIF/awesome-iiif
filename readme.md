@@ -66,8 +66,8 @@ The IIIF community has developed [several standards](https://iiif.io/api/) for i
 ### IIIF Extensions
 
 - [navPlace Extension](https://iiif.io/api/extension/navplace/) - This IIIF Presentation 3 API extension defines a new property, navPlace, which is defined by earthbound geographic coordinates in the form of GeoJSON-LD.
-- [Georeference Extension](https://iiif.io/api/extension/text-granularity/) - This extension leverages Web Annotations to provide a pattern for georeferencing IIIF Presentation 3 API Canvases as well as images served through the IIIF Image API.
-- [Text Granularity Extension](https://iiif.io/api/extension/georef/) - This extension recommends a pattern for indicating the level of text granularity for an annotation related to optical character recognition (OCR) software, manual transcription, and existing digitized text.
+- [Georeference Extension](https://iiif.io/api/extension/georef/) - This extension leverages Web Annotations to provide a pattern for georeferencing IIIF Presentation 3 API Canvases as well as images served through the IIIF Image API.
+- [Text Granularity Extension](https://iiif.io/api/extension/text-granularity/) - This extension recommends a pattern for indicating the level of text granularity for an annotation related to optical character recognition (OCR) software, manual transcription, and existing digitized text.
 
 [Feedback is welcome](https://iiif.io/api/#feedback) on all IIIF Specifications, including draft versions and works-in-progress -- please send any feedback to [iiif-discuss@googlegroups.com](mailto:iiif-discuss@googlegroups.com).
 
