@@ -257,7 +257,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [Archiviiify](https://literarymachin.es/archiviiify/) - A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from raffaele messuti / [@atomotic](https://github.com/atomotic)].
 - [Drag and Drop](https://medium.com/@aeschylus/create-and-share-iiif-items-quickly-and-easily-with-drag-and-drop-over-email-879f13c9caba) - Getting a IIIF image into Mirador with drag-and-drop and email.
 - [Experiments with IIIF and Gallica](https://github.com/altomator/IIIF/) - A guided tour of end user applications of IIIF to Gallica materials, by Jean-Philippe Moreux (BnF).
-- [Fellow Travelers: The Canterbury Tales and IIIF]https://blalbrit.github.io/2015/07/14/fellow-travelers-the-canterbury-tales-and-iiif) - Benjamin Albritton; includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
+- [Fellow Travelers: The Canterbury Tales and IIIF](https://blalbrit.github.io/2015/07/14/fellow-travelers-the-canterbury-tales-and-iiif) - Benjamin Albritton; includes an explanation of the use case for medieval scholars using Chaucer as an example and short section on how to make a page comparison demo in Mirador.
 - [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) - Uses IIIF as an example to explain APIs.
 - [IIIF Implementation Guide](https://guides.iiif.io/guide_for_implementers/) - A step-by-step walkthrough of how to implement IIIF.
 - [IIIF Intro (fr)](https://doc.biblissima.fr/introduction-iiif) - Introduction to IIIF (in French).
