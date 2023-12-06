@@ -120,7 +120,6 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 - [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 - [Chronoscope World](https://mprove.de/chronoscope/world.html) – A viewer for georeferenced IIIF maps. It is also a fast viewer for browsing IIIF books.
-- [Clover IIIF](https://samvera-labs.github.io/clover-iiif/) - IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvases for React.js
 - [Diva.js](https://ddmal.github.io/diva.js/) - IIIF image viewer optimized for speed and flexibility.
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
 - [Internet Archive BookReader](https://github.com/internetarchive/bookreader) - A viewer developed by the Internet Archive, specially suited for viewing books.
@@ -130,6 +129,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Universal Viewer](universalviewer.io/) - Rich embeddable interface.
 
 ### Image viewers (Image API only)
+
 - [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) - IIIF tile support.
   - [Scalebar Plugin](https://github.com/NIST-ISG/OpenSeadragonScalebar) - OpenSeadragon plugin for physical scale overlay.
   - [Curtain Viewer](https://github.com/vanda/curtain-viewer) - Viewer based on OpenSeadragon using the curtain-sync plugin for comparing naturally aligned image variants
@@ -176,7 +176,7 @@ Various tools for working with images such as cropping tools.
 - [jiiify-presentation](https://github.com/ksclarke/jiiify-presentation) - A Java IIIF Presentation library.
 - [Manifesto](https://github.com/UniversalViewer/manifesto) - IIIF Presentation API client and server utility library.
 - [Manifold](https://github.com/UniversalViewer/manifold) - Wraps Manifesto to provide viewer state and related utilities.
-- [Nectar IIIF](https://samvera-labs.github.io/nectar-iiif/) - IIIF Presentation API 3.0 property fluent HTML5 primitives library for React.js
+- [Clover IIIF](https://samvera-labs.github.io/nectar-iiif/) - IIIF front-end React toolkit including a multimedia viewer, image slider, and HTML5 primitives for manifest properties.
 - [O'Sullivan](https://github.com/IIIF/osullivan) - Ruby API for creating IIIF manifests.
 - [pyIIIFpres](https://github.com/giacomomarchioro/pyIIIFpres) - A Python module built for easing the construction of JSON manifests compliant with IIIF API 3.0 in a production environment, similarly to iiif-prezi for earlier versions of the protocol.
 - [Swiiift](https://github.com/mejackreed/Swiiift) - IIIF presentation API library for Swift.
@@ -216,7 +216,6 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 
 - [Adno](https://adno.app/en/) - a web application for viewing, editing and sharing narratives and pathways on IIIF images.
 - [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
-- [Bloom IIIF](https://samvera-labs.github.io/bloom-iiif/) - IIIF Presentation API Collection items React.js component that renders a horizontal slider
 - [Canopy IIIF](https://github.com/mathewjordan/canopy-iiif) - A IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions 
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
 - [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
