@@ -134,7 +134,6 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
   - [Scalebar Plugin](https://github.com/NIST-ISG/OpenSeadragonScalebar) - OpenSeadragon plugin for physical scale overlay.
   - [Curtain Viewer](https://github.com/vanda/curtain-viewer) - Viewer based on OpenSeadragon using the curtain-sync plugin for comparing naturally aligned image variants
 - [openseadragon-react-viewer](https://www.npmjs.com/package/openseadragon-react-viewer) - A React wrapper component around OpenSeadragon which offers selectable, extended UI functionality.
-## Image API Libraries
 - [IIIFViewer](https://github.com/klokantech/iiifviewer) - IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.
 - [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) - OpenSeadragon plugin with utility functions.
 - [IIPMooViewer](https://iipimage.sourceforge.io/documentation/iipmooviewer/) - IIPMooViewer is an open source, Javascript and HTML5 image streaming and zooming client. IIPMooViewer is IIIF-compatible and works with IIPServer or other IIIF compatible servers. [Demo](https://iipimage.sourceforge.io/demo/)
