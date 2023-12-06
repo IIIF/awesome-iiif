@@ -202,6 +202,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 - [Brif](https://github.com/pierrz/brif) - A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzai.io. See live [demo](https://brif-demo.muzai.io/dashboard).
 - [pdiiif](https://github.com/jbaiter/pdiiif) - a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers). 
+- [tropiiify](https://github.com/martimpassos/tropiiify) Tropy plugin that exports images and metadata as a (level0) IIIF collection. 
 
 ## Validators
 
