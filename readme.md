@@ -101,7 +101,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [Micrio](https://micr.io/iiif) - Commercial platform for hosting IIIF collections with Presentation API support.
 - [RAIS](https://github.com/uoregon-libraries/rais-image-server) - 100% open source tile server for JP2 images written in Go.
 - [riiif](https://github.com/curationexperts/riiif) - Written in Ruby as a Rails engine.
-- [serverless-iiif](https://github.com/nulib/serverless-iiif) - IIIF Image API 2.1 server as an AWS Serverless Application.
+- [serverless-iiif](https://samvera.github.io/serverless-iiif) - IIIF Image server as an AWS Serverless Application, supporting Image API versions 2.1 and 3.0.
 - [SIPI](https://github.com/dasch-swiss/sipi) - IIIFv3 image server written in C++.
 - [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server.
 
