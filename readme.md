@@ -95,6 +95,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint)
 - [go-iiif](https://github.com/thisisaaronland/go-iiif) - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif)).
 - [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) - IIIF server written in Java supporting IIIF Image and Presentation API.
+- [express-iiif](https://www.npmjs.com/package/express-iiif) - Express.js middleware to run an Image API 3.0 compatible IIIF server, written in typescript.
 - [iiif_s3](https://github.com/cmoa/iiif_s3) - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 - [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) - High performance image server.
 - [Loris](https://github.com/loris-imageserver/loris) - Written in Python.
