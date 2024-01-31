@@ -120,6 +120,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 - [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 - [Chronoscope World](https://mprove.de/chronoscope/world.html) – A viewer for georeferenced IIIF maps. It is also a fast viewer for browsing IIIF books.
+- [Clover IIIF Viewer](https://samvera-labs.github.io/clover-iiif/docs/viewer) – Presentation API Manifest and Collection viewer handling Image, Sound, and Video canvases for React.js
 - [Diva.js](https://ddmal.github.io/diva.js/) - IIIF image viewer optimized for speed and flexibility.
 - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/) - A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. [Demo](http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4)
 - [Internet Archive BookReader](https://github.com/internetarchive/bookreader) - A viewer developed by the Internet Archive, specially suited for viewing books.
@@ -202,7 +203,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 - [Brif](https://github.com/pierrz/brif) - A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzai.io. See live [demo](https://brif-demo.muzai.io/dashboard).
 - [pdiiif](https://github.com/jbaiter/pdiiif) - a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers). 
-- [tropiiify](https://github.com/martimpassos/tropiiify) Tropy plugin that exports images and metadata as a (level0) IIIF collection. 
+- [tropiiify](https://github.com/martimpassos/tropiiify) Tropy plugin that exports images, metadata and annotations as a (level0) IIIF collection. 
 
 ## Validators
 
