@@ -428,7 +428,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [Kitodo](https://www.kitodo.org/)
  - [Libnova/Libsafe](https://www.libnova.com/) (Image API)
  - [Luna](http://www.lunaimaging.com/iiif)
- - [Memorix Nexus] (https://www.vitec-memorix.com/en/solutions/memorix-nexus/)
+ - [Memorix Nexus](https://www.vitec-memorix.com/en/solutions/memorix-nexus/)
  - [Muzai.io platform](https://muzai.io) (based on [Brif](https://github.com/pierrz/brif))
  - [NetX](https://www.netx.net/)
  - [ResCarta](https://rescarta.org/)
