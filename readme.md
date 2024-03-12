@@ -241,12 +241,12 @@ Libraries and applications that support the Content Search API.
 
 ## Authentication
 
-Some resources about the IIIF Authentication API.
+Some resources about the IIIF Authorization Flow API.
 
-- [IIIF Auth Demonstrator](https://iiifauth.digtest.co.uk/) - Manifests with accompanying images that demonstrate various IIIF authentication modes.
-- [iiif-auth-client](https://github.com/digirati-co-uk/iiif-auth-client) - Client implementation of the IIIF Authentication specification.
-- [iiif-auth-server](https://github.com/digirati-co-uk/iiif-auth-server) - A demo server implementation of all apsects of the IIIF Authentication specification.
-- [iiif-image-auth](https://github.com/robcast/iiif-image-auth) - A simple server implementation based on Docker and Flask.
+- [IIIF Auth Demonstrator](https://tomcrane.github.io/iiif-auth-client/?collection=https://iiif-auth2-server.herokuapp.com/collection.json) - Manifests with accompanying images and AV resources that demonstrate various IIIF authentication patterns.
+- [iiif-auth-client](https://github.com/tomcrane/iiif-auth-client) - Client implementation of the IIIF Authorization Flow specification.
+- [iiif-auth-server](https://github.com/tomcrane/iiif-auth-server) - A demo server implementation of all aspects of the IIIF Authorization Flow specification.
+- [iiif-image-auth](https://github.com/robcast/iiif-image-auth) - (IIIF Auth 1.0) A simple server implementation based on Docker and Flask.
 - [IIIF.io : the hardest part will be saying "no".](http://mcormond.blogspot.com/2017/06/iiif-hardest-part-saying-no.html) - Blog post by Russell McOrmond considering the challenges of restricting access to Canadiana's resources.
 
 ## Tutorials
