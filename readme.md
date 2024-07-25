@@ -66,7 +66,7 @@ The IIIF community has developed [several standards](https://iiif.io/api/) for i
 ### IIIF Extensions
 
 - [navPlace Extension](https://iiif.io/api/extension/navplace/) - This IIIF Presentation 3 API extension defines a new property, navPlace, which is defined by earthbound geographic coordinates in the form of GeoJSON-LD.
-- [Georeference Extension](https://iiif.io/api/extension/georef/) - This extension leverages Web Annotations to provide a pattern for georeferencing IIIF Presentation 3 API Canvases as well as images served through the IIIF Image API.
+- [Georeference Extension](https://iiif.io/api/extension/georef/) - This extension leverages Web Annotations to provide a pattern for georeferencing IIIF Presentation 3 API Canvases as well as Images served through the IIIF Image API, containing (historical) maps.
 - [Text Granularity Extension](https://iiif.io/api/extension/text-granularity/) - This extension recommends a pattern for indicating the level of text granularity for an annotation related to optical character recognition (OCR) software, manual transcription, and existing digitized text.
 
 [Feedback is welcome](https://iiif.io/api/#feedback) on all IIIF Specifications, including draft versions and works-in-progress -- please send any feedback to [iiif-discuss@googlegroups.com](mailto:iiif-discuss@googlegroups.com).
@@ -119,6 +119,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 ## IIIF Viewers
 
+- [Allmaps](https://https://allmaps.org/) – A set of tools for curating, georeferencing and exploring IIIF maps.
 - [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
 - [Chronoscope World](https://mprove.de/chronoscope/world.html) – A viewer for georeferenced IIIF maps. It is also a fast viewer for browsing IIIF books.
 - [Clover IIIF](https://samvera-labs.github.io/clover-iiif/) - IIIF Presentation API Manifest viewer handling Image, Sound, and Video canvases for React.js
