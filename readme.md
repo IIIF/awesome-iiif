@@ -353,6 +353,12 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 - [Mirador Viewer Omeka S Module](https://github.com/Daniel-KM/Omeka-S-module-Mirador) - Omeka S module that integrates the Mirador image viewer.
 - [UniversalViewer Omeka S Module](https://omeka.org/s/modules/UniversalViewer/) - Omeka S module that integrates UniversalViewer.
 
+## Wiki Integration
+
+Wiki software tools that implement or leverage the IIIF APIs
+
+- [Mirador extension to MediaWiki](https://github.com/a-g-van-hamel-foundation/Mirador) - MediaWiki extension which offers the Mirador Viewer along with a number of open-source plugins.
+
 ## Hosting
 
 Internet file hosting that provides IIIF support (including both paid and free options). 
