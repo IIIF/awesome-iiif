@@ -321,6 +321,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [annotot](https://github.com/PenguinParadigm/annotot) - Simple IIIF annotations mounted in a Ruby on Rails applications.
 - [CatchPy](https://github.com/nmaekawa/catchpy) - Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.
 - [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
+- [Europeana](https://github.com/europeana/annotation) - Extension to the Europeana REST API that allows you to create, retrieve, and manage annotations on Europeana objects
 - [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db)[deprecated] - IIIF annotations JS client over IPFS.
 - [Local IIIF Annotation Server](https://github.com/dnoneill/annotate)[deprecated] - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.
 - [MangoServer](https://github.com/azaroth42/MangoServer)[deprecated] - Mongo-backed annotation server written in Python.
