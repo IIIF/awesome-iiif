@@ -230,7 +230,6 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Spotlight](http://spotlight.projectblacklight.org/) - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
 - [Storiiies Editor](https://storiiies-editor.cogapp.com/) – a free online storytelling platform for creating guided tours of a single IIIF manifest using annotations.
 - [Wax](https://minicomp.github.io/wax/) - a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility.
-- [Yith](https://yith.dev) - a component library that interweaves IIIF manifests and their content into flexible layouts in a usable, responsive, and accessible way.
 
 
 ## Content Search API
