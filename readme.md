@@ -223,7 +223,8 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
 - [Canopy IIIF](https://github.com/mathewjordan/canopy-iiif) - A IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions 
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
-- [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.  
+- [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.
+- [Glycerine Workbench](https://glycerine.io/) - An annotation platform with end-to-end workflows for researchers, curators and students to publish collections of annotated images.
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
 - [Juncture](https://www.juncture-digital.org/) - a suite of tools and services that enable anyone to easily create engaging web pages with rich visualizations, including interactive images, videos, maps, and more.
 - [Panel Truck](https://geoservices.leventhalmap.org/cartinal/documentation/panel-truck.html) - Vue-based presentation tool, embeddable into any page as a Web Component, which supports slide-like narration over one or multiple IIIF sources, as well as static images and tiled map sources. ([Example](https://geoservices.leventhalmap.org/panel-truck/example.html))
@@ -315,6 +316,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [ALTO to Annotation list](https://github.com/glenrobson/iiif_stuff/tree/master/alto2annotations) - This XSLT converts an ALTO xml document to an annotation lists for use with a IIIF manifests.
 - [Annocoda](https://github.com/jptmoore/annocoda) - Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities
 - [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
+- [Glycerine Workbench](https://glycerine.io/) – A scholarly annotation and publication workbench.   Glycerine provides end-to-end workflows for collaboration and publishing of images.  Glycerine is a comprehensive framework for institutional integration.
 - [Recogito](https://recogito.pelagios.org/) - A popular and award-winning Digital Humanities platform for collaborative document annotation, maintained by [Pelagios](https://pelagios.org/). 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
 
