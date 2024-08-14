@@ -354,6 +354,7 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 - [IIIF Image Field](https://www.drupal.org/sandbox/sdellis/2421047) - Drupal 7 module that provides an easy way to add IIIF Images to content types, and configure their display. Supports Image API versions 1.0 or 2.0.
 - [IIIF Server Omeka S Module](https://omeka.org/s/modules/IiifServer/) - Omeka S module that implements the IIIF Image and Presentation APIs.
 - [IIIF Toolkit](https://github.com/utlib/IiifItems) - IIIF Toolkit by University of Toronto Libraries is a plugin for Omeka Classic (2.3+) that integrates Mirador with a built-in annotator, a manifest generator, Simple Pages shortcodes and Exhibit Builder blocks for a rich presentation experience.
+- [Inseri.com](inseri.core) - WordPress plugin with a IIIF Viewer block.
 - [Mirador Viewer Omeka S Module](https://github.com/Daniel-KM/Omeka-S-module-Mirador) - Omeka S module that integrates the Mirador image viewer.
 - [UniversalViewer Omeka S Module](https://omeka.org/s/modules/UniversalViewer/) - Omeka S module that integrates UniversalViewer.
 
