@@ -9,6 +9,7 @@ By contributing to this list you waive all copyright and related neighboring rig
 Please ensure your pull request adheres to the following guidelines:
 
 - If you are adding a new section include a description of what belongs under that heading and an entry to the Contents.
+- If you are writing an entry about something that is not yours, avoid judgemental language. However, any text in the item's self-description can be included.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Add new items to the right spot in the list -- items within each section should be listed alphabetically.
 - Comment on why something is awesome. Links are great, but give someone a reason to follow the link.
