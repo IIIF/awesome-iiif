@@ -312,6 +312,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 ## Annotations
 
 - [ALTO to Annotation list](https://github.com/glenrobson/iiif_stuff/tree/master/alto2annotations) - This XSLT converts an ALTO xml document to an annotation lists for use with a IIIF manifests.
+- [Annocoda](https://github.com/jptmoore/annocoda) - Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities
 - [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
 - [Recogito](https://recogito.pelagios.org/) - A popular and award-winning Digital Humanities platform for collaborative document annotation, maintained by [Pelagios](https://pelagios.org/). 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
