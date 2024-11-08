@@ -371,7 +371,8 @@ Internet file hosting that provides IIIF support (including both paid and free o
 - [Digirati DLCS](https://iiif-cloud.digirati.com/)
 - [Internet Archive](https://archive.org/)
 - [Klokan](http://iiifhosting.com/) 
-- [Micrio](https://micr.io/iiif) 
+- [Micrio](https://micr.io/iiif)
+- [iiif.fr](https://iiif.fr/) from Teklia
 
 ## Newspapers
 
