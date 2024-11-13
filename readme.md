@@ -402,11 +402,13 @@ Cell biology annotations in a deep zoom viewer
 - [cover.boutique](https://cover.boutique) - Award-winning web application to create designs for smartphone cases from IIIF resources.
 - [David Rumsey MapTab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en) - A IIIF powered, Chrome extension that displays a random map from the David Rumsey Map Collection everytime you open a new tab in your browser. Built using Leaflet-IIIF and React.js. Created by Jack Reed, Stanford University Libraries.
 - [Fractals](http://www.appliediiif.org.uk/live/fractalshome.htm) - Deep zoom into a huge (1bn x 1bn pixel) fractal image, created by Sean Martin, Applied IIIF.
+- [Wallpaper HDR](https://christianmahnke.de/en/post/hdr-iiif/) - Deep zoom of an HDR Image of an 70ies wallpaper - works in Chome-based browsers, with an HDR-capable monitor.
 - [IIIF for Dolls](https://iiif-for-dolls.davidnewbury.com/) - use IIIF to create printable versions of your favorite work at a variety of scales.
 - [IIIF Stereographs](https://stereograph.davidnewbury.com/) - Exploring Stereo Photos with IIIF
 - [Image Comparison with a Magnifying Glass](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-mag.html) - Image comparison using leaflet magnifying glass by Digirati.
 - [Image Comparison with a Slider](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-sbs.html) - Image comparison using leaflet slider by Digirati.
 - [Moviemaps](https://www.leventhalmap.org/articles/roll-the-tape-with-moviemaps/) - a way to pair a video discussion with digital collections objects that zoom and pan while synchronized with the video, while still allowing free exploration.
+- [Mouse-over animation](https://xn--blaufusstlpel-qmb.de/) - Animated IIIF images on mouse over, look at the hero section, drag to right to reveal more animations.
 - [Old Map Room](https://itunes.apple.com/us/app/old-map-room/id1347431506) - An AppleTV application that uses IIIF to turn any room into a map room.
 - [Puzzles! Powered by IIIF](http://puzzle.mikeapps.me/) - Drag-and-drop image tile puzzles created by Michael Appleby, Yale Center for British Art.
 - [Sleep Stories](https://wellcometrust.github.io/annotation-viewer/quilt/) - Experiment with the W3C Web Annotation Data Model. The  annotations present a sequence of stories associated with a large image. Optimised for mobile. Created by Andrew Dyton and Stephen Fraser, Digirati, for Wellcome Collection.
