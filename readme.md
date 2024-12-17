@@ -221,6 +221,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 Tools and resources that provide functionality for presenting IIIF materials in an exhibition-like setting (and potentially other functionality).
 
 - [Adno](https://adno.app/en/) - a web application for viewing, editing and sharing narratives and pathways on IIIF images.
+- [Anaver.se](https://anaver.se/) - a web application for loading generative 3D spaces in which users can build exhibitions by hanging IIIF images as frames. 
 - [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
 - [Canopy IIIF](https://github.com/mathewjordan/canopy-iiif) - A IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions 
 - [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
