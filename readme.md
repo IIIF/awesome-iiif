@@ -156,6 +156,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [libvips](https://libvips.github.io/libvips/) - A fast image processing library with low memory needs. Includes an operation that can build image pyramids compatible with IIIF Image API.
 - [Node node-iiif](https://github.com/samvera/node-iiif) - a full-featured image processor supporting the IIIF Image API versions 2.1 and 3.0.
 - [piffle](https://github.com/emory-lits-labs/piffle) - Python library for generating and parsing IIIF Image API URLs.
+- [iiif_image_plug](https://github.com/dainst/iiif_image_plug) - an Elixir library that implements the IIIF Image API as a [Plug](https://hexdocs.pm/plug/readme.html).
 
 ## Image Tools
 
