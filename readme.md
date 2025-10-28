@@ -130,6 +130,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Internet Archive BookReader](https://github.com/internetarchive/bookreader) - A viewer developed by the Internet Archive, specially suited for viewing books.
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
 - [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
+- [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) - A lightweight IIIF viewer prioritising user experience for annotated resources.
 - [Tify](https://github.com/subugoe/tify) - Slim and fast IIIF document viewer built with Vue.js.
 - [Universal Viewer](https://universalviewer.io/) - Rich embeddable interface.
 
