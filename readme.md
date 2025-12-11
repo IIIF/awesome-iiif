@@ -151,7 +151,6 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [iiif](https://github.com/zimeon/iiif) - Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
 - [iiif_url](https://github.com/NCSU-Libraries/iiif_url) - Ruby library for creating and parsing IIIF Image API URLs.
-- [iiif-download](https://pypi.org/project/iiif-download/) - Python library (CLI + API) for downloading images from IIIF manifest with concurrent downloads, metadata extraction, and institution-specific constraint handling.
 - [iiif-tiler](https://github.com/glenrobson/iiif-tiler) - Java library for generating static IIIF tiles (compliant with the V2.1 and 3.0 of the IIIF Image API). 
 - [image-iiif](https://github.com/conlect/image-iiif) - PHP 8 package for implementing IIIF Image API 3.
 - [iOSTiledViewer](https://github.com/moravianlibrary/iOSTiledViewer) - IIIF image API and Zoomify viewer for iOS, written in Swift.
@@ -168,6 +167,7 @@ Various tools for working with images such as cropping tools.
 - [Compariscope](https://vanda.github.io/iiif-features/) - A demo app by the Victoria & Albert useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.
 - [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 - [IIIF cropping tool](https://ncsu-libraries.github.io/iiif-crop-tool/) - Website using [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) and Jekyll that allow users to enter the URL of a IIIF image and get the URL for the cropped section of the image.
+- [iiif-download](https://pypi.org/project/iiif-download/) - Python library (CLI + API) to download images from IIIF manifest with metadata extraction, concurrent downloads, and institution-specific constraint handling.
 - [iiif-dl](https://github.com/ryanfb/iiif-dl) - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server.
 - [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) - A Python image downloader that needs only standard libraries. It is compliant with IIIF API 2.0, 2.1 and 3.0.
 - [IIIF Image Inspector](https://iiifimage.link/) - a small tool to inspect metadata about IIIF images and demonstrate how their image file URLs may be constructed.
