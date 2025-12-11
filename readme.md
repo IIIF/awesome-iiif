@@ -151,6 +151,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [iiif](https://github.com/zimeon/iiif) - Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
 - [iiif_url](https://github.com/NCSU-Libraries/iiif_url) - Ruby library for creating and parsing IIIF Image API URLs.
+- [iiif-download](https://pypi.org/project/iiif-download/) - Python library (CLI + API) for downloading images from IIIF manifest with concurrent downloads, metadata extraction, and institution-specific constraint handling.
 - [iiif-tiler](https://github.com/glenrobson/iiif-tiler) - Java library for generating static IIIF tiles (compliant with the V2.1 and 3.0 of the IIIF Image API). 
 - [image-iiif](https://github.com/conlect/image-iiif) - PHP 8 package for implementing IIIF Image API 3.
 - [iOSTiledViewer](https://github.com/moravianlibrary/iOSTiledViewer) - IIIF image API and Zoomify viewer for iOS, written in Swift.
