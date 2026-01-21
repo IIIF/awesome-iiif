@@ -314,7 +314,6 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 - [iiif.link](https://github.com/atomotic/iiif.link) - A url shortener for sharing a IIIF resource; upon opening the URL the viewer will open at the saved zoom and region of interest.
 - [Open in IIIF Viewer](https://github.com/2SC1815J/open-in-iiif-viewer) - A web browser extension to open IIIF manifest link in your favorite IIIF viewer. 
-- 
 
 ## Annotations
 
