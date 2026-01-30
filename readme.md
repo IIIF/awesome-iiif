@@ -130,7 +130,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Internet Archive BookReader](https://github.com/internetarchive/bookreader) - A viewer developed by the Internet Archive, specially suited for viewing books.
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
 - [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
-- [MiradorVideo](https://github.com/TETRAS-IIIF/mirador-video) - Forked of Mirador 4 supporting annotation on videos.
+- [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) - Mirador 4 fork supporting annotation on videos.
 - [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) - A lightweight IIIF viewer prioritising user experience for annotated resources.
 - [Tify](https://github.com/subugoe/tify) - Slim and fast IIIF document viewer built with Vue.js.
 - [Universal Viewer](https://universalviewer.io/) - Rich embeddable interface.
@@ -323,7 +323,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [Annocoda](https://github.com/jptmoore/annocoda) - Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities
 - [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
 - [Glycerine Workbench](https://glycerine.io/) – A scholarly annotation and publication workbench.   Glycerine provides end-to-end workflows for collaboration and publishing of images.  Glycerine is a comprehensive framework for institutional integration.
-- [Mirador Multi User](https://www.mirador-multi-user.com/) - Mirador 4 based, fully featured multi-user workbench supporting collaborative works and annotations.
+- [Mirador Multi User](https://www.mirador-multi-user.com/) - Mirador 4 based, fully featured multi-user workbench supporting collaborations and annotations.
 - [Recogito](https://recogito.pelagios.org/) - A popular and award-winning Digital Humanities platform for collaborative document annotation, maintained by [Pelagios](https://pelagios.org/). 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
 
