@@ -344,7 +344,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [Adno](https://adno.app/en/) - a web application for viewing, editing and sharing narratives and pathways on IIIF images.
 - [Annonatate](https://annonatate.fly.dev/) - Website that allows users to create annotations via their GitHub account. The website saves all the annotations to the user's GitHub. Also makes use of Annona and allows users to create custom Annona views.
 - [IIIF Annotation Studio](https://github.com/atomotic/iiif-annotation-studio) - Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.
-
+- [Mirador Annotation Editor](https://github.com/TETRAS-IIIF/mirador-annotation-editor) : Mirador 4 plugin that adds annotation editing capabilities to Mirador. Embedded in [Mirador Multi User](https://www.mirador-multi-user.com/).
 
 ## Crowdsourcing
 
