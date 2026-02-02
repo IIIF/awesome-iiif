@@ -385,6 +385,7 @@ Internet file hosting that provides IIIF support (including both paid and free o
 - [Klokan](http://iiifhosting.com/) 
 - [Micrio](https://micr.io/iiif)
 - [iiif.fr](https://iiif.fr/) from Teklia
+- [tiny.iiif](https://github.com/rsimon/tiny-iiif/) - An open-source IIIF server for self-hosting
 
 ## Newspapers
 
