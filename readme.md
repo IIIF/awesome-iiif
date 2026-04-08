@@ -181,6 +181,9 @@ Various tools for working with images such as cropping tools.
 
 - [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) - PHP library for generating IIIF manifests.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
+- [IIIF Builder](https://github.com/iiif-commons/iiif-builder) - An NPM module for building IIIF Manifests programatically
+- [IIIF Parser](https://github.com/iiif-commons/parser) - An NPM module (Node + Browser) for parsing IIIF Presentation 2.1, 3.0, 4.0 and upgrading from v2 to v3. [demo](https://iiif-studio.netlify.app/)
+- [IIIF Helpers](https://github.com/IIIF-Commons/iiif-helpers) - An NPM module with a variety of helpers for working with IIIF Presentation resources.
 - [iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) - Presentation 2 Python library providing a reference implementation.
 - [iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - Presentation 3 Python library.
 - [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) - IIIF tree menu sortable by date with multi-select capability.
