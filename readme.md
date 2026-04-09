@@ -329,6 +329,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [ALTO to Annotation list](https://github.com/glenrobson/iiif_stuff/tree/master/alto2annotations) - This XSLT converts an ALTO xml document to an annotation lists for use with a IIIF manifests.
 - [Annocoda](https://github.com/jptmoore/annocoda) - Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities
 - [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
+- [Digirati Manifest Editor Annotations](https://manifest-editor-docs.netlify.app/docs/creating-annotations) - the Digirati Manifest Editor enables users to view, edit and create annotations for each Canvas within your selected Manifest.
 - [Glycerine Workbench](https://glycerine.io/) – A scholarly annotation and publication workbench.   Glycerine provides end-to-end workflows for collaboration and publishing of images.  Glycerine is a comprehensive framework for institutional integration.
 - [IMMARKUS](https://github.com/rsimon/immarkus) - A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.
 - [liiive](https://github.com/rsimon/liiive) - A tool for real-time collaborative IIIF image annotation.
