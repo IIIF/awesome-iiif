@@ -456,6 +456,7 @@ IIIF is a community-based initiative that relies on active participation, discus
  - [Aviary](https://weareavp.aviaryplatform.com/)
  - [CollectiveAccess](https://collectiveaccess.org)
  - [ContentDM](https://www.oclc.org/en/contentdm/iiif.html)
+ - [Ephoto Dam](https://www.ephoto.fr/)
  - [Goobi](https://goobi.io)
  - [Islandora](https://islandora.github.io/documentation/user-documentation/iiif/)
  - [Invenio](https://invenio-software.org/products/framework/) (Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif))
