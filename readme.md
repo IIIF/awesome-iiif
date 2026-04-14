@@ -132,6 +132,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
 - [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) - Mirador 4 fork supporting annotation on videos.
 - [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) - A lightweight IIIF viewer prioritising user experience for annotated resources.
+- [Theseus Viewer](https://theseusviewer.org/) - A modular, feature rich IIIF Collection and Manifest viewer with top level collections explorable from the homepage.
 - [Tify](https://github.com/subugoe/tify) - Slim and fast IIIF document viewer built with Vue.js.
 - [Universal Viewer](https://universalviewer.io/) - Rich embeddable interface.
 
