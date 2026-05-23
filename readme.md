@@ -339,6 +339,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 ### Annotation Servers
 
+- [aiiinotate](https://github.com/Aikon-platform/aiiinotate) - IIIF annotation server built for speed and scalability, based on NodeJS and MongoDB. Designed to handle massive quantities of annotations (>10M) produced by computer vision tools.
 - [annotot](https://github.com/PenguinParadigm/annotot) - Simple IIIF annotations mounted in a Ruby on Rails applications.
 - [CatchPy](https://github.com/nmaekawa/catchpy) - Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.
 - [Elucidate](https://github.com/dlcs/elucidate-server) - Java and Postgres annotation server.
