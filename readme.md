@@ -246,6 +246,7 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 - [Simple Site IIIF Extensions](https://jpadfield.github.io/simple-site/extensions.html) This [Simple Site](https://jpadfield.github.io/simple-site/) has several extensions that make use of IIIF to produce customised presentations of a bespoke selection of IIIF manifests (e.g. in Mirador 3, Curtain Viewer and Panel Truck).
 - [Spotlight](http://spotlight.projectblacklight.org/) - a self-service approach for creating exhibit websites to highlight digital collections; based on [Blacklight](http://projectblacklight.org/).
 - [Storiiies Editor](https://storiiies-editor.cogapp.com/) – a free online storytelling platform for creating guided tours of a single IIIF manifest using annotations.
+- [Telar](https://telar.org) - Telar (Spanish for 'loom') is a minimal-computing framework that weaves together IIIF images, audio, video, and texts to create layered visual narratives for digital scholarship, public exhibitions, community storytelling, and classroom projects.
 - [Wax](https://minicomp.github.io/wax/) - a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility.
 
 
