@@ -147,6 +147,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [IIPMooViewer](https://iipimage.sourceforge.io/documentation/iipmooviewer/) - IIPMooViewer is an open source, Javascript and HTML5 image streaming and zooming client. IIPMooViewer is IIIF-compatible and works with IIPServer or other IIIF compatible servers. [Demo](https://iipimage.sourceforge.io/demo/)
 - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) - Lightweight, extensible IIIF image viewer.
 - [OpenLayers](https://openlayers.org) - High-performance, feature-packed Javascript library especially built for maps. It supports the IIIF Image API.
+- [React Canvas Panel](https://github.com/digirati-co-uk/react-iiif-vault?tab=readme-ov-file#canvas-panel) - A wrapper around [Atlas](https://github.com/atlas-viewer/atlas) with IIIF Image API support for image services, and Manifests.
 
 ## Image API Libraries
 
