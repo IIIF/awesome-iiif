@@ -105,6 +105,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [serverless-iiif](https://samvera.github.io/serverless-iiif) - IIIF Image server as an AWS Serverless Application, supporting Image API versions 2.1 and 3.0.
 - [SIPI](https://github.com/dasch-swiss/sipi) - IIIFv3 image server written in C++.
 - [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server.
+- [iiiris](https://gitlab.com/iiiris-org/iiiris) - A IIIF Image API 3.0 + IIIF Authorization Flow 2.0 image server. High performance, featureful, and ergonomic.
 
 
 ## Image Server Shims
