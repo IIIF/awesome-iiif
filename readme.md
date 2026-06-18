@@ -106,6 +106,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [SIPI](https://github.com/dasch-swiss/sipi) - IIIFv3 image server written in C++.
 - [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server.
 - [iiiris](https://gitlab.com/iiiris-org/iiiris) - A high performance and ergonomic IIIF Image API 3.0 + IIIF Authorization Flow 2.0 image server.
+- [Wolpi](https://github.com/dbmdz/wolpi) - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 
 
 ## Image Server Shims
