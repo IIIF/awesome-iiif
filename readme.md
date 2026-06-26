@@ -179,6 +179,7 @@ Various tools for working with images such as cropping tools.
 - [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 - [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) - Example of using Leaflet to provide IIIF cropping.
 - [Software tools from Oxford Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/software/)
+- [whatiiif](https://whatiiif.com) - Generate stateless, shareable deep links to highlighted regions in IIIF documents.
 
 ## Presentation API Libraries
 
