@@ -256,6 +256,7 @@ Tools and resources that provide functionality for presenting IIIF materials in 
 
 Libraries and applications that support the Content Search API.
 
+- [Annosearch](https://github.com/nationalarchives/annosearch) - TypeScript tool from The National Archives that indexes W3C Web Annotations from IIIF collections and annotation servers (e.g. Miiify) using Quickwit, exposing them via a IIIF Content Search 2.0 API endpoint.
 - [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight)-based Rails applications.
 - [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 - [Whiiif](https://github.com/mbennett-uoe/whiiif) - Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.
