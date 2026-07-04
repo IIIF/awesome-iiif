@@ -179,7 +179,6 @@ Various tools for working with images such as cropping tools.
 - [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 - [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) - Example of using Leaflet to provide IIIF cropping.
 - [Software tools from Oxford Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/software/)
-- [whatiiif](https://whatiiif.com) - Generate stateless, shareable deep links to highlighted regions in IIIF documents.
 
 ## Presentation API Libraries
 
@@ -222,7 +221,9 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 - [Brif](https://github.com/pierrz/brif) - A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzai.io. See live [demo](https://brif-demo.muzai.io/dashboard).
 - [pdiiif](https://github.com/jbaiter/pdiiif) - a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers). 
-- [tropiiify](https://github.com/martimpassos/tropiiify) Tropy plugin that exports images, metadata and annotations as a (level0) IIIF collection. 
+- [tropiiify](https://github.com/martimpassos/tropiiify) Tropy plugin that exports images, metadata and annotations as a (level0) IIIF collection.
+- [Whatiiif](https://whatiiif.com) - Resolves manifests from item page URLs and generates shareable deep links to highlighted regions.
+
 
 ## Validators
 
