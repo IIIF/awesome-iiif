@@ -184,6 +184,7 @@ Various tools for working with images such as cropping tools.
 ## Presentation API Libraries
 
 - [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) - PHP library for generating IIIF manifests.
+- [IIIF.Manifest.Serializer.Net](https://github.com/KiarashMinoo/IIIF.Manifest.Serializer.Net) - A .NET/C# library for building, parsing, converting, and serializing IIIF Presentation API 2.0, 2.1, and 3.0 manifests and collections, with support for related IIIF service payloads and extensions.
 - [iiif-apis](https://github.com/dbmdz/iiif-apis) - Java IIIF API libraries.
 - [IIIF Builder](https://github.com/iiif-commons/iiif-builder) - An NPM module for building IIIF Manifests programatically
 - [IIIF Parser](https://github.com/iiif-commons/parser) - An NPM module (Node + Browser) for parsing IIIF Presentation 2.1, 3.0, 4.0 and upgrading from v2 to v3. [demo](https://iiif-studio.netlify.app/)
