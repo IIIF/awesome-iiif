@@ -97,6 +97,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) - IIIF server written in Java supporting IIIF Image and Presentation API.
 - [express-iiif](https://www.npmjs.com/package/express-iiif) - Express.js middleware to run an Image API 3.0 compatible IIIF server, written in typescript.
 - [iiif_s3](https://github.com/cmoa/iiif_s3) - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
+- [iiif-worker](https://github.com/mkpoli/iiif-worker) - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 - [IIPImage Server](http://iipimage.sourceforge.net/documentation/server/) - High performance image server.
 - [Loris](https://github.com/loris-imageserver/loris) - Written in Python.
 - [Micrio](https://micr.io/iiif) - Commercial platform for hosting IIIF collections with Presentation API support.
