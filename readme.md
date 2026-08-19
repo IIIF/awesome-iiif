@@ -135,6 +135,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 - [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
 - [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome).
 - [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) - Mirador 4 fork supporting annotation on videos.
+- [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
 - [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) - A lightweight IIIF viewer prioritising user experience for annotated resources.
 - [Theseus Viewer](https://theseusviewer.org/) - A modular, feature rich IIIF Collection and Manifest viewer with top level collections explorable from the homepage.
 - [Tify](https://github.com/subugoe/tify) - Slim and fast IIIF document viewer built with Vue.js.
