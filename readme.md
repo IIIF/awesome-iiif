@@ -341,7 +341,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 - [Annocoda](https://github.com/jptmoore/annocoda) - Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities
 - [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
 - [Digirati Manifest Editor Annotations](https://manifest-editor-docs.netlify.app/docs/creating-annotations) - the Digirati Manifest Editor enables users to view, edit and create annotations for each Canvas within your selected Manifest.
-- [Glycerine Workbench](https://glycerine.io/) – A scholarly annotation and publication workbench.   Glycerine provides end-to-end workflows for collaboration and publishing of images.  Glycerine is a comprehensive framework for institutional integration.
+- [Glycerine Workbench](https://glycerine.io/) – A hosted IIIF platform for image hosting, manifest generation, collaborative annotation and publishing, with end-to-end workflows for researchers, curators and students.
 - [IMMARKUS](https://github.com/rsimon/immarkus) - A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.
 - [liiive](https://github.com/rsimon/liiive) - A tool for real-time collaborative IIIF image annotation.
 - [Mirador Multi User](https://www.mirador-multi-user.com/) - Mirador 4 based, fully featured multi-user workbench supporting collaborations and annotations.
@@ -399,6 +399,7 @@ Wiki software tools that implement or leverage the IIIF APIs
 Internet file hosting that provides IIIF support (including both paid and free options). 
 
 - [Digirati IIIF Cloud Services](https://iiif-cloud.digirati.com/)
+- [Glycerine Workbench](https://glycerine.io/)
 - [Internet Archive](https://archive.org/)
 - [Klokan](http://iiifhosting.com/) 
 - [Micrio](https://micr.io/iiif)
