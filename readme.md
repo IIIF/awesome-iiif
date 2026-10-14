@@ -105,7 +105,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 - [riiif](https://github.com/curationexperts/riiif) - Written in Ruby as a Rails engine.
 - [serverless-iiif](https://samvera.github.io/serverless-iiif) - IIIF Image server as an AWS Serverless Application, supporting Image API versions 2.1 and 3.0.
 - [SIPI](https://github.com/dasch-swiss/sipi) - IIIFv3 image server written in C++.
-- [SIPI-2](https://github.com/OMAS-IIIF/sipi-2) - SIPI-2 is a new open-source IIIF Image API 3 server written in C++20. Supports Local and S3-compatible storage, TIFF, JPEG 2000 based on Grok, HTJ2K, JPEG and PNG input, and JPEG, PNG and WebP output. [https://github.com/OMAS-IIIF/sipi-2/releases/tag/v1.0.0](Release 1.0.0), [https://hub.docker.com/r/lrosenth/sipi-2](https://hub.docker.com/r/lrosenth/sipi-2) 
+- [SIPI-2](https://github.com/OMAS-IIIF/sipi-2) - SIPI-2 is a new open-source IIIF Image API 3 server written in C++20. Supports Local and S3-compatible storage, TIFF, JPEG 2000 based on Grok, HTJ2K, JPEG and PNG input, and JPEG, PNG and WebP output. [Release 1.0.0](https://github.com/OMAS-IIIF/sipi-2/releases/tag/v1.0.0), [https://hub.docker.com/r/lrosenth/sipi-2](https://hub.docker.com/r/lrosenth/sipi-2) 
 - [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) - A .NET C# IIIF Image API 2.1 server.
 - [triplet](https://github.com/libops/triplet) - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) for image processing.
 - [iiiris](https://gitlab.com/iiiris-org/iiiris) - A high performance and ergonomic IIIF Image API 3.0 + IIIF Authorization Flow 2.0 image server.
