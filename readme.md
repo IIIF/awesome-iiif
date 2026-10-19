@@ -392,7 +392,9 @@ Content Management Systems (CMS) modules that implement or leverage the IIIF API
 
 Wiki software tools that implement or leverage the IIIF APIs
 
-- [Mirador extension to MediaWiki](https://github.com/a-g-van-hamel-foundation/Mirador) - MediaWiki extension which offers the Mirador Viewer along with a number of open-source plugins.
+- MediaWiki extensions developed for the [CODECS](https://codecs.vanhamel.nl) website:
+    - [IIIF](https://github.com/a-g-van-hamel-foundation/IIIF) - a suite of tools and API services for working with IIIF on a wiki. Its features focus on annotations, collections, range editing, customisable forms, image files from MediaWiki sites and integration with Semantic MediaWiki.
+    - [Mirador](https://github.com/a-g-van-hamel-foundation/Mirador) - MediaWiki extension which offers the Mirador Viewer along with a number of open-source plugins.
 
 ## Hosting
 
