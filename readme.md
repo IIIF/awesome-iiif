@@ -238,6 +238,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 - [Image API validator](https://iiif.io/api/image/validator/) - A service to validate a IIIF Image API resource against the specification.
 - [Hyperion](https://www.npmjs.com/package/@hyperion-framework/validator) - IIIF Presentation API 3 Validator in JavaScript [N.B. being replaced by [Vault](https://github.com/IIIF-Commons/vault) as part of the [IIIF Commons](https://github.com/IIIF-Commons/)]
 - [Tripoli](https://ddmal.github.io/tripoli/) - IIIF Presentation API 2.0+ validation library.
+- [loupe-iiif](https://chromewebstore.google.com/detail/loupe-iiif/bnnoohiohbljoianldgbnepljodndmdo) - Browser extension that validates IIIF Presentation API Manifests (2.1, 3.0, and 4.0). Available for [Chrome](https://chromewebstore.google.com/detail/loupe-iiif/bnnoohiohbljoianldgbnepljodndmdo) and [Firefox](https://addons.mozilla.org/firefox/addon/loupe-iiif/).
 
 ## Exhibition and Guided Viewing Tools
 
